@@ -1,0 +1,30 @@
+Question 1: Qu'est-ce qu'une classe en programmation objet ?
+A. Un objet concret cree a partir d'une instance
+B. Un ensemble de caracteristiques et de comportements utilise pour construire des objets
+C. Une variable contenant la reference d'une instance
+D. Un espace memoire propre possede par une instance
+Reponse: B
+Question 2: Qu'est-ce qu'une instance en programmation objet ?
+A. Un objet concret cree a partir d'une classe
+B. Un ensemble de caracteristiques et de comportements utilise pour construire des objets
+C. Une variable contenant la reference d'une classe
+D. Un espace memoire propre possede par une classe
+Reponse: A
+Question 3: Qu'est-ce qu'une variable de type reference en programmation objet ?
+A. Un objet concret cree a partir d'une instance
+B. Un ensemble de caracteristiques et de comportements utilise pour construire des objets
+C. Une variable contenant la reference d'une instance
+D. Un espace memoire propre possede par une instance
+Reponse: C
+Question 4: Quels sont les mecanismes de Java qui permettent de creer et de synchroniser des taches simultanement ?
+A. Gestion des protocoles de communication utilises par internet
+B. Langage adapte a Internet
+C. Langage multitaches
+D. Portable dans differents environnements logiciels et materiels
+Reponse: C
+Question 5: Quel est l'objectif de la creation de la documentation d'un programme Java ?
+A. Pour faciliter la resolution d'un probleme en programmation procedurale
+B. Pour creer une classe en programmation objet
+C. Pour decrire un ensemble de caracteristiques et de comportements d'une instance
+D. Pour expliquer le fonctionnement et l'utilisation d'un programme aux utilisateurs et aux developpeurs
+Reponse: D

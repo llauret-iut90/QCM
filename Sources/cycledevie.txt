@@ -1,0 +1,52 @@
+TD 1 : Cycle de vie en logiciel 
+Objectifs : Connaître les modèles de cycle de vie d’un logiciel
+1.	Pourquoi parle t‐on de "cycle de vie" en logiciel ? 
+2.	Décrivez les principaux cycles de vie du logiciel, montrez leurs principales forces et faiblesses.
+3.	Expliquer les principales caractéristiques du cycle de développement en spirale, par un petit exemple montrer de quelle manière on peut l’utiliser dans un projet. Faites un schéma du cycle en illustrant l’enchaînement des différentes étapes pour un développement de quelques versions successives (v1.0, v2.0,…) d’un logiciel. 
+4.	Une entreprise de génie logiciel spécialisée en objet souhaite réaliser un petit logiciel de jeux sur Internet, cette demande est inhabituelle pour cette société. Vous maîtrisez très bien la technologie nécessaire au développement de ce projet qui ne comporte pas de risques techniques. Un cahier des charges précis est donné par le client. Que proposez vous comme cycle de vie de développement. Argumentez votre proposition, montrez les avantages et La Gestion de projet	inconvénients de votre proposition par rapport à d’autres possibles.
+JP ROBERTI Janv 2022
+TD2 : Modèles de Cycle de vie en logiciel (1/5 ) 
+Objectifs : Connaître les modèles de cycle de vie d’un logiciel:(Le modèle en cascade ; Le modèle en V ; Le modèle incrémental ; le modèle orienté réutilisation ; le modèle en spirale) et la technique du prototypage.
+TD2 Partie 1 : Modèle de cycle de vie
+1.	Exercice 1 :Une entreprise LOG de production logiciel adopte un processus de développement logiciel qui consiste à enchainer les différentes phases de développement : étude de faisabilité, spécification, conception, implémentation, tests et livraison. Les retours en arrière entre ces différentes phases ne sont pas planifiés mais si des erreurs sont détectées pendant les tests, il est possible que l’équipe de développement réadapte la conception et/ou l’implémentation du logiciel. Le succès des projets de développement logiciel de cette entreprise est garanti seulement s’il s’agit de reproduire un projet déjà réalisé.
+	Question 	Déterminez le modèle de cycle de vie utilisé par cette entreprise.
+2.	Exercice 2 :Les jalons (milestones) sont des évènements qui servent à indiquer le degré d’avancement d’un projet de logiciel comme l’achèvement du manuel d’utilisateur. 
+	Question 1 	En quoi un modèle de cycle de vie divisé en phases aide‐t‐il à la gestion du développement d’un logiciel ? 
+	Question 2 	Quelles sont les deux caractéristiques obligatoires d’un jalon 
+	(milestone) ?	La Gestion de projet
+JP ROBERTI Janv 2022
+TD2 : Modèles de Cycle de vie en logiciel (2/ 5) 
+Exercice 3: 
+En considérant le cycle de vie d’un logiciel 
+	Question 1 	Indiquer la ou les phases où est produit chacun des documents suivants : Manuel d’utilisation, conception architecturale, plan d’assurance qualité, spécification des modules, code source, cahier de charges, plan de test, manuel utilisateur préliminaire, conception détaillée, estimation des couts, calendrier du projet, rapport des tests, documentation. 
+	Question 2 	Quelles différences y a‐t‐il avec un modèle de processus ? 
+Exercice 4: 
+Comment peut‐on combiner le modèle en cascade ou en V avec le modèle en spirale ?
+La Gestion de projet
+JP ROBERTI Janv 2022
+TD2 : Modèles de Cycle de vie en logiciel (3/5 ) 
+Exercice 5: 
+Dans la représentation graphique suivante du modèle en cascade : 
+ 
+	Question 1 	Préciser les entrées et sorties principales (pas forcément des documents) pour chaque phase. 
+	Question 2 	Quelles sont les phases concernées par la vérification et/ou la 
+	validation ?	La Gestion de projetJP ROBERTI Janv 2022
+TD2 : Modèles de Cycle de vie en logiciel (4/5) 
+TD2 Partie 2 : Modèle de processus
+Exercice 1:
+Pour la peinture des murs d’une pièce, on considère : 
+(1)	les tâches suivantes : choisir la couleur, acheter la peinture, nettoyer les murs, préparer la peinture et peindre les murs ; 
+(2)	les artefacts suivants : choix de la couleur, pots de peinture achetés, murs propres, peinture mélangée, murs peints. 
+	Question 1 	Dessiner un modèle de processus pour la peinture des murs. 
+Exercice 2:
+Pour assurer un enseignement à distance aux étudiants, l’instructeur divise les élèves en équipes et affiche un problème sur une page Web. Les équipes travaillent sur le problème en utilisant le tchat, ils posent des questions à l'instructeur en utilisant un forum, et ils soumettent les solutions par email. L'instructeur évalue ensuite les solutions en fonction d’un barème préétabli. Dessiner un modèle de processus pour préparer les sessions interactives. Exercice 3: Soit les trois types de tests: tests unitaires, d’intégration et d’acceptation. Dessiner un modèle de processus pour chaque type de test.	La Gestion de projetJP ROBERTI Janv 2022
+TD2 : Modèles de Cycle de vie en logiciel (5/5 ) 
+Exercice 2:
+Pour assurer un enseignement à distance aux étudiants, l’instructeur divise les élèves en équipes et affiche un problème sur une page Web. 
+Les équipes travaillent sur le problème en utilisant le tchat, ils posent des questions à l'instructeur en utilisant un forum, et ils soumettent les solutions par email.
+L'instructeur évalue ensuite les solutions en fonction d’un barème préétabli. 
+Question  	Dessiner un modèle de processus pour préparer les sessions interactives. 
+Exercice 3:
+Soit les trois types de tests: tests unitaires, d’intégration et d’acceptation. Question  	Dessiner un modèle de processus pour chaque type de test.
+La Gestion de projet
+JP ROBERTI Janv 2022

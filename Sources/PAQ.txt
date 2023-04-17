@@ -1,0 +1,162 @@
+
+Cours Plan d’Assurance Qualité Projet
+Normalisation des processus
+JP ROBERTI Janv 2022
+1
+Normalisation des processus
+P A Q L
+Plan d’Assurance Qualité Logiciel
+Version V1,0
+Date Janvier 2022
+Auteur Jean-Pierre ROBERTI
+Normalisation des processus
+JP ROBERTI Janv 2022
+2
+ Le plan d’assurance Qualité décrit ce que
+l'entreprise va effectuer pour mener à bien le projet
+considéré.
+ C'est l'une des bases des actions suivantes :
+ Ecrire ce que l'on fait :
+ Définir qui, quoi, où, quand, comment,
+combien, et pourquoi
+ (QQOQCCP) faire ce que l'on a écrit :
+conformément à ce que l'on a écrit.
+Rédiger un P A Q
+Normalisation des processus
+JP ROBERTI Janv 2022
+3
+ Le PAQ est un document qui décrit les dispositions
+particulières mises en œuvre pour la réalisation d'un
+produit ou d'un service afin de répondre aux exigences
+contractuelles en matière de qualité.
+ C'est donc un outil du management de la qualité
+ Permet aux clients et fournisseurs de s'accorder sur le
+contexte, le périmètre, les enjeux (attraits et risques) ainsi
+que les véritables attentes du client dans le cadre de la
+prestation à réaliser.
+ Il s'agit donc d'un outil de référence, validé par les
+parties, de telle sorte que toute dérogation à ce plan doit
+faire l'objet d'un accord préalable entre les parties.
+Rédiger P A Q
+Normalisation des processus
+JP ROBERTI Janv 2022
+4
+P A Q
+Les principes du plan d'assurance qualité, sont
+inspirés d'une méthode exposée par William
+Edwards Deming (dénommée la roue de Deming),
+décrit les éléments suivants :
+ Plan-Do-Check-Act ,PDCA
+Normalisation des processus
+JP ROBERTI Janv 2022
+5
+Contenu du P A Q
+ La norme IEEE 730 décrit le contenu nécessaire dans un plan d'AQL pour un
+logiciel.
+ Celui-ci doit contenir à minima:
+ Un préambule qui clarifie l'intention et la portée du processus,
+ donne les définitions et les abréviations utilisés dans le document ,
+ inclut les documents de références nécessaire au processus.
+ Un sommaire (survol du PAQ) qui détaille
+ Son organisation,
+ Le niveau de criticité du logiciel,
+ Les outils, techniques et méthodologies utilisées dans le processus d'AQL,
+ Les ressources employées,
+ Les normes, pratiques et conventions utilisées
+ Les calendriers pertinents.
+
+Cours Plan d’Assurance Qualité Projet
+Normalisation des processus
+JP ROBERTI Janv 2022
+1
+Normalisation des processus
+P A Q L
+Plan d’Assurance Qualité Logiciel
+Version V1,0
+Date Janvier 2022
+Auteur Jean-Pierre ROBERTI
+Normalisation des processus
+JP ROBERTI Janv 2022
+2
+ Le plan d’assurance Qualité décrit ce que
+l'entreprise va effectuer pour mener à bien le projet
+considéré.
+ C'est l'une des bases des actions suivantes :
+ Ecrire ce que l'on fait :
+ Définir qui, quoi, où, quand, comment,
+combien, et pourquoi
+ (QQOQCCP) faire ce que l'on a écrit :
+conformément à ce que l'on a écrit.
+Rédiger un P A Q
+Normalisation des processus
+JP ROBERTI Janv 2022
+3
+ Le PAQ est un document qui décrit les dispositions
+particulières mises en œuvre pour la réalisation d'un
+produit ou d'un service afin de répondre aux exigences
+contractuelles en matière de qualité.
+ C'est donc un outil du management de la qualité
+ Permet aux clients et fournisseurs de s'accorder sur le
+contexte, le périmètre, les enjeux (attraits et risques) ainsi
+que les véritables attentes du client dans le cadre de la
+prestation à réaliser.
+ Il s'agit donc d'un outil de référence, validé par les
+parties, de telle sorte que toute dérogation à ce plan doit
+faire l'objet d'un accord préalable entre les parties.
+Rédiger P A Q
+Normalisation des processus
+JP ROBERTI Janv 2022
+4
+P A Q
+Les principes du plan d'assurance qualité, sont
+inspirés d'une méthode exposée par William
+Edwards Deming (dénommée la roue de Deming),
+décrit les éléments suivants :
+ Plan-Do-Check-Act ,PDCA
+Normalisation des processus
+JP ROBERTI Janv 2022
+5
+Contenu du P A Q
+ La norme IEEE 730 décrit le contenu nécessaire dans un plan d'AQL pour un
+logiciel.
+ Celui-ci doit contenir à minima:
+ Un préambule qui clarifie l'intention et la portée du processus,
+ donne les définitions et les abréviations utilisés dans le document ,
+ inclut les documents de références nécessaire au processus.
+ Un sommaire (survol du PAQ) qui détaille
+ Son organisation,
+ Le niveau de criticité du logiciel,
+ Les outils, techniques et méthodologies utilisées dans le processus d'AQL,
+ Les ressources employées,
+ Les normes, pratiques et conventions utilisées
+ Les calendriers pertinents.
+Normalisation des processus
+JP ROBERTI Janv 2022
+6
+Contenu du P A Q
+ Ensuite, le document doit détailler
+ Les activités et tâches du cycle de vie de l'AQL en décrivant
+le rôle de l'assurance du produit et du processus
+ En décrivant les activités et tâches du système
+de management de la qualité et certaines tâches
+additionnelles.
+ les processus et politiques additionnelles en jeu dans le
+processus:
+ Processus de revue de contrat et de mesure de la qualité,
+ Politiques de test,
+ Politique de dérogation et de déviation
+ Politique d'itération des tâches.
+ Spécifier quels sont les paramètres des enregistrements et
+des rapports d'AQL.
+Normalisation des processus
+JP ROBERTI Janv 2022
+7
+Responsabilité et maj du P A Q
+ Bien que le plan qualité soit de la responsabilité du
+chef de projet logiciel, le spécialiste qualité peut lui
+venir en aide en lui proposant un gabarit normalisé qui
+pourra l'aider dans le travail de rédaction du plan.
+ Un plan d'AQL décrivant les activités qualité qui
+seront faites pour un projet ou une modification à un
+logiciel doit être développé, documenté et maintenu à
+jour tout au long du projet.

@@ -1,0 +1,419 @@
+Cours Gestion de projet
+Gestion de la planification
+  
+La Gestion de la planification
+Ce document est publié sous la licence libre Creative Commons-BY-NC-SA  http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+ 
+BY : Paternité. Vous devez citer le nom de l'auteur original.
+NC : Pas d'Utilisation Commerciale. Vous n'avez pas le droit d'utiliser cette création à des fins lucratives et commerciales.
+SA : Partage des Conditions Initiales à l'Identique. Si vous modifiez, transformez ou adaptez cette création, vous n'avez le  droit de distribuer la création qui en résulte que sous un contrat identique à celui-ci. En outre, à chaque réutilisation ou distribution,  vous devez faire apparaître clairement aux autres les conditions contractuelles de mise à disposition de cette création.
+Chacune de ces conditions peut être levée si vous obtenez l'autorisation du titulaire des droits.
+La Gestion de la planification
+•	Sommaire
+–	Introduction
+–	Definitions
+–	Planification/les concepts
+–	Processus d’estimation
+–	Processus de planification
+Pour démarrer un projet
+Etape 1 :
+•	Les exigences du projet sont établies
+=>Accord partagé par tous
+Il faut maintenant :
+•	Evaluer ce qu’il va falloir faire pour réaliser les besoins :
+–	Quels sont les livrables attendus ? Quelles sont les activités ?
+–	Pendant combien de temps ? Quand ?
+–	Qui ? Comment ? Ressources nécessaires ? Budget ?
+–	Quels sont les risques ?
+Comment éviter d’en arriver là ?
+ 
+Gestion de la planification
+=> Il faut établir ce que CMMi appelle la PLANIFICATION :  Tout ce qui permettra de prendre une décision (GO/NO GO)  et de démarrer le projet dans les conditions idéales
+ 
+Les 5 niveaux de maturité de CMMi permettent une amélioration  continue par étapes (rappel)
+	Niveau	Libellé	Secteur
+Les secteursLes secteurs	5	Processus en  amélioration  continue	Gestion et déploiement des innovations au niveau  Prevention de défault (analyses Causales) (organisation (OID)	CAR)	Qualité  Productiv
+clés  clés  	4	Processus Géré  	Performance du processus de l'organization (OPP)  
+constituent  constituent  	3	quantitativementProcessus Défini  	Gestion de projet Quantitative (QPM)Développement des exigences (RD)  une façon de  une façon de  	(standardisé)	Conception de la solution technique (TS)  Intégration des Produits (PI)
+décrire  décrire  	Verification(VER)  Validation (VAL) comment  comment  	Focalisation processus de l'organisation (OPF)  
+l’organisation l’organisation 	Definition du processus de l'organisation(OPD)Plan de formation de l' organisation (OT) gagne en  gagne en  	Gestion intégrée de Projet (IPM)  Gestion des Risques (RSKM)  
+maturitématurité	Equipes Integrée (IT)Gestion intégrée des fournisseurs (ISM)  
+Prise de décision et Resolution (DAR)
+Environnement organisationnel pour l' Integration (OEI)
+2 Processus Géré : Gestion des exigences (REQM)  Gestion de projet Planification de projet (PP) efficace Suivi et supervisionde projet (PMC)
+Gestion contractuelle de fournisseur (SAM)  
+	Mesures et Analyses (M&A)	Risque  
+Assurance de la Qualité du processus et des Produits
+	(PPQA)	Retravai
+Gestion de Configuration (CM)
+1
+La Gestion de la Planification
+JP ROBERTI 2021
+Définitions
+•	Produits de travail
+–	Ce qui est développé ou modifié par le projet (documentaire, logiciel) – Internes ou livrables
+•	Livrables
+–	Ce qui est fournit au client (documentaire, logiciel)
+•	La taille
+–	Elle définit la dimension des produits
+–	L’unité dépend de la nature du livrable (page, programmes, ligne de code)
+•	La charge
+–	appelée aussi « effort », elle définit le nombre de jours de travail  nécessaires pour produire
+–	L’unité utilisée est le jour.homme J.H (mois.hommes M.H , année.homme  A.H)
+Définitions
+•	Les ressources informatiques critiques
+–	Ce sont des matériels ou des logiciels standard ou non-standard dont  l'absence constituerait un risque pour le projet (environnement,  mémoire d’un PC, utilisation d’un logiciel)
+–	L’unité utilisée dépend de la nature des besoins identifiés.
+•	Le coût
+–	Représente le montant financier du projet– L’unité utilisée est l’euro (€).
+•	Le délai
+–	Durée nécessaire à la réalisation du projet
+–	Fonction d’éléments tels que le nombre et la disponibilité des  ressources, les dépendances critiques, les contraintes de calendrier,  etc.
+–	L’unité utilisée est le jour ouvré.
+Planification de projet (Niveau 2)
+•	But : établir des prévisions REALISTES pour mise en œuvre  des tâches :
+–	techniques
+–	de gestion de projet
+–	de support
+•	Cela implique que:
+–	les estimations sont documentées (taille, charge et coût)
+–	les activités et engagements sont planifiés et documentés
+–	les groupes et personnes concernés acceptent leurs engagements  respectifs (équipe,S/T,autres groupes,management,….)
+➢ Une estimation et une planification documentées et approuvées par tous
+ 
+Planification de projet : les concepts
+•	Au cours de la phase de prévision :
+–	on utilise les exigences
+–	on utilise des données historiques si disponibles et applicables
+–	on documente les estimations et les hypothèses associées
+•	On construit le plan de développement qui peut être un seul ou  plusieurs documents qui doivent couvrir les aspects suivants :
+–	but, limites, objectifs du projet
+–	choix d’un cycle de vie
+–	identification des procédures, méthodes et standards
+–	identification des produits du travail
+–	des estimations en taille, effort, coût, ressources informatiques critiques
+–	un planning de mise en œuvre
+–	évaluation et documentation des risques
+•	L’engagement : un contrat librement accepté ….
+– un vrai engagement implique des estimations et des plans réalistes  acceptés par les groupes concernés
+La Gestion de la Planification
+P. Heyer Dec 2007
+Le CMMi et la Gestion de la planification
+• La Gestion de la planification s’articule en 2 phases :
+–	Phase d’estimation (budget prévisionnel, devis) 
+–	Phase d’organisation
+La Gestion de la Planification
+P. Heyer Dec 2007
+Estimation du projet
+Après la Gestion des exigences :
+•	La Gestion de la planification démarre par une phase  d’estimation :
+ 
+•	L’estimation est l’activité la plus risquée : il n’y a pas de  méthode universelle !
+La Gestion de la Planification
+JP ROBERTI 2021
+ 
+1) Estimer les travaux
+• Etablir l’énoncé des travaux :
+–	Activités techniques et de gestion
+–	Produits de travail (logiciel ou non livrables ou non)– Responsabilités
+–	Normes
+–	Contraintes coûts, délais, qualité
+–	Dépendances
+=> QQOQCP Répondre aux questions : Quoi, Qui, Où, Quand, Comment et Pourquoi
+2) Estimer la taille
+Estimer la taille :
+-	des produits de travail logiciel ou autres (documents par  exemple), livrables et non livrables,
+-	des activités de développement, de vérification et de validation des produits de travail,
+-	de l’organisation de la communication (réunions).
+A partir :
+–	des exigences, liste des tâches, des produits de travail
+Exemples :
+–	le nombre de programmes,
+–	le nombre de règles de gestion par programme et leur  complexité logique,
+–	le nombre de réunion, de revues.
+–	……..
+La Gestion de la Planification
+JP ROBERTI 2021
+Exemple BTP - Logiciel
+•	1 Salle à manger de 30m2  
+1 fenêtre, 2 portes
+•	1 base de données, 2 tables, 3 colonnes  
+•	3 Chambres de 25 m2,  mises à jour
+2 fenêtres, 1 porte
+•	3 référentiels externes consultés
+•	1 Salle d'eau de 10 m2,  
+•	4 saisies simples à prendre en compte 
+1 porte
+dans  2 programmes
+•	1 Salle de bains de 15 m2,  
+•	1 état à imprimer avec des calculs simples
+1 porte
+• 1 requête moyenne • 1 Couloir de 15 m2 avec 1 fenêtre
+ 
+3) Estimer les efforts	FC
+• Evaluer le nombre de jours nécessaires à la  réalisation des produits de travail et des activités  
+et les profils des ressources qui y contribuent
+=> Nombre de jours.homme
+A partir :
+–	Des estimations de taille
+–	Des données de productivité de l’entreprise (historiques et actuelles)
+Attention :
+•	Pour sécuriser l’implication et la participation des utilisateurs ou de leurs  représentants, il peut être intéressant d’estimer la charge de travail de ces  groupes
+•	Aux facteurs d’influence sur les charges qui peuvent avoir des effets  négatifs ou positifs !
+4) Estimer les coûts :	FC
+Estimer les coûts en €
+-	Main d’œuvre (qui réalise)
+=> Nb jours x Coût journalier du profil
+-	Formation, support externe (ST)
+-	Frais de déplacement
+-	Achat/location ressources matérielles, logicielles
+-	Communication…
+Exemple BTP - Logiciel
+ 
+ 
+5) Estimer les ressources
+a)	Installations et outils (matériels ou des logiciels  standard ou non-standard) dont l'absence  constituerait un risque pour le projet.
+b)	Ressources informatiques critiques dont le projet a besoin :
+–	Utilisation du processeur (Mips)
+–	Utilisation de la capacité mémoire (Mo)
+–	Utilisation de la capacité disque (Go)
+–	Utilisation de la capacité des canaux de communication
+=> On estime la disponibilité de ces ressources en terme de  capacité
+A partir de :
+-	Tailles des produits de travail,
+-	Charge de traitement en mode opérationnel,
+-	Flux des communications
+La Gestion de la Planification
+JP ROBERTI 2021
+Les Méthodes d’estimation descharges
+ 
+La Gestion de la Planification
+JP ROBERTI 2021
+Méthode d’estimation globale / BOTTOM-UP
+Approche BOTTOM-UP : du détail vers le global :
+→ Découper le projet en sous-ensembles + facile à évaluer et en  déduire la charge globale
++ Très grande précision
+- Nécessite une connaissance précise de la structure du projet => utilisation possible tardive dans le projet
+1. Evaluation analytique :
+Organigramme des tâches, livrables : décomposition en Unité d’Oeuvre -> pour évaluation des charges de réalisation et tests unitaires
+La Gestion de la Planification
+JP ROBERTI 2021
+Méthode d’estimation globale / BOTTOM-UP
+2. Répartition proportionnelle :
+-	Décomposer le projet en phase, Etapes dont on connaît le poids  (%) par expérience
+-	Les % appelés ratios de répartition proportionnelle peuvent différer selon les caractéristiques du projet - Combinaison avec évaluation analytique
+ 
+La Gestion de la Planification
+JP ROBERTI 2021
+ 
+			Technique	Mixte	Fonctionnel
+Préparation			12,2	12,2	12,2
+Elaboration			19,5	22,0	24,4
+Construction	Spécifications	36,6	46,3	53,7
+	Réalisation & tests unitaires	100	100	100
+	Qualification		46,3	48,8	51,2
+Transition	Assistance MOA	17,1	19,5	19,5
+	MAD & Déploiement	12,2	12,2	12,2
+Sous total	Charge globale hors conduite	243,9	261,0	273,2
+Conduite de projet		36,6	36,6	36,6
+Documentation 		7,3	7,3	7,3
+					
+Total projet	Charge totale complète		287,8	304,9	317,1
+					
+Ex de chiffrage pour un projet de 100 j.h de réalisation et tests unitaires
+La Gestion de la Planification
+JP ROBERTI 2021
+Méthode d’estimation globale / TOP-DOWN
+Approche TOP-DOWN : du global vers le détail :
+→ Enveloppe globale
++ Possible très tôt
+- Manque de précision : approximation et hypothèses simplificatrices
+1. Analogie et comparaison :
+a)	Recherches projets similaires (technologie, activités, cycle de vie,  contexte)
+b)	Taille, charge et coût déduit par application coefficient adaptation
+c)	Confronter 3 estimations et lissage par formule de PERT à 3 points:
+E = (O + 4* M + P) / 6
+(O = Evaluation Optimiste, M= Evaluation moyenne = la plus probable, P= Evaluation Pessimiste )
+La Gestion de la Planification
+JP ROBERTI 2021
+Méthode d’estimation globale / TOP-DOWN
+2. Jugement d’expert :
+→ Reconnus de la technique ou du type de projet (interne, société  externes ou consultants)
++ Bonne fiabilité (expérience)
+- Dépendant compétences expert et pertinence hypothèses
+→ Plusieurs estimations et lissage par formule PERT ou par  méthode DELPHI
+Méthode DELPHI :
+a)	Chaque expert propose estimation : public mais anonyme
+b)	Chaque expert revoit son estimation ou confirme : public et  chacun peut justifier son jugement
+c)	Chacun peut proposer une révision de son estimation puis  élaboration estimation du groupe par moyenne
+Variante : chaque expert donne estimation pessimiste, optimiste et  probable puis formule PERT
+La Gestion de la Planification
+JP ROBERTI 2021
+Les pièges de l’estimation
+Temps de travail et la loi de C.N. PARKINSON :
+« les programmes sont comme les gaz parfaits : Ils  prennent toute la place qu’on leur donne »
+→Si l’on donne à une équipe un projet de 50 J.H (valeur "réelle")  à faire sur 100 J.H, le projet sera fait en 100 J.H et pas un de  moins (!)
+Le piège :
+→Fonctionne dans l’autre sens (100jh, faits en 50j.h…. ) et donc, économies  potentielles !
+Souvent vérifiée dans les faits et plus particulièrement dans un sens…. mais la pression doit rester raisonnable pour  une meilleure efficacité et qualité (cf triangle d’or) !
+La Gestion de la Planification
+JP ROBERTI 2021
+La problématique de l’estimation des charges
+•	Il faut faire une estimation au début du projet alors  que l’incertitude est la plus importante
+ 
+Solution : Faire l’estimation à différents stades :
+•	Etude préalable (+/- 20%),• Etude détaillée (+/- 10%),
+•	Réalisation (+/- 5%).
+Pas souvent possible (si engagement forfaitaire) :
+→ Faire des hypothèses
+→ Prendre des contingences pour risques budget
+La Gestion de la Planification
+JP ROBERTI 2021
+ 
+Le processus d’estimation CMM Conclusions
++	Complet, rigoureux et efficace
+-	Long
+-	Repose sur la maîtrise du processus de développement par  l’organisation et l’existence des données historiques  (consommé par tâches) sur des projets similaires
+→ Conditions idéales
+Le CMMi et la Gestion de la planification
+• La Gestion de la planification s’articule en 2 phases :
+– Phase d’estimation (budget prévisionnel, devis)
+ 
+La Gestion de la Planification
+P. Heyer Dec 2007
+	Exemple de processus de planification	FC
+ 
+ 
+1) Identifier les dépendances
+A partir de la liste des tâches définir :
+•	Dépendances avec les groupes concernés (accord)
+•	Ressources informatiques critiques identifiées comme dépendances
+→ Documenter
+2) Identifier les risques Les risques sont :
+•	Identifiés (coûts, aux ressources, au planning, aux aspects  techniques du projet) => travail d’équipe
+•	Évalués (probabilité, impact, criticité =Probabilité*impact))
+•	Priorisés
+•	Pris en compte par un plan d’action (plan de gestion des  risques), marge de manœuvre ou contingence.
+Exemple de matrice des risques
+ 
+ 
+Exemple de matrice de criticité des risques
+ 
+ 
+La Gestion de la Planification
+JP ROBERTI 2021
+3) Développer le calendrier
+Définir le planning détaillé du projet :
+1. Définir la liste complète des travaux
+–	Le projet doit être découpé en phases et en tâches de taille  maîtrisable < 10 jours, 1 tâche par activité/profil
+–	Identifier les livraisons au Client
+–	Identifier les actions du Client
+–	Identifier les données livrées par le Client
+–	Intégrer les réunions de lancement de projet et de phases
+–	Intégrer les revues de projet internes et celles avec le  Client
+	La Gestion de la Planification	36
+JP ROBERTI 2021
+Ex de décomposition Work Breakdown Structure
+ 
+La Gestion de la Planification
+JP ROBERTI 2021
+Exemple de planning directeur
+La Gestion de la Planification
+JP ROBERTI 2021
+ 
+3) Développer le calendrier
+2.	Définir des jalons qui sont des points temporels qui  fixent pour le projet des objectifs dans temps :
+–	A partir des exigences du Client, définir les dates clefs du projet
+–	Indiquer les dates de livraison au Client
+–	Indiquer les fins de phase du projet
+–	Définir des objectifs intermédiaires
+3.	Définir la logique d’enchaînement entre les phases, les  tâches et les jalons :
+–	Pour chaque tâche, identifier les antécédents et les entrées nécessaires
+–	Pour chaque tâche, identifier les successeurs et les sorties
+–	Prévoir des délais tampons
+3) Développer le calendrier
+4.	Attribuer à chaque tâche les ressources (humaines)  nécessaires pour absorber la charge et tenir les délais
+–	Définir les profils nécessaires
+–	Attribuer les personnes disponibles et affectées au projet
+–	Définir leur taux d’affectation sur le projet (%)
+–	Définir les moyens et outils
+5.	Confronter la planification aux exigences du projet :
+–	Réviser le planning pour coller aux exigences de coût et délai
+–	Revoir le PERT (enchaînement des taches)
+–	Améliorer le chemin critique
+–	Intégrer de la contingence et des possibilités de reprise (retours  client)
+–	Ne pas négliger les phases de tests
+Les pièges de la planification
+Le mythe du partage des «Jours*Hommes » :
+« pour réduire le délai, il suffit de d’augmenter l’équipe »
+→Un projet de 100 J.H pourrait être fait par 200 personnes en ½  journée
+Mathématiquement faisable mais peu réaliste car toutes les  tâches ne sont pas partitionables ou jusqu’à une certaine limite +  coordination difficile et charges de suivi importantes
+L’exemple de la femme enceinte qui va mettre au monde un enfant en 9 mois : pas possible de répartir cette tâche sur 3 femmes pour réduire à 3 mois
+Détermination du délai minimum conseillé Duréedu projet(mois) Charge enmois.hommes 
+3) Développer le calendrier
+Processus itératif
+Processus continu durant toute la vie du projet :
+•	Avancement du projet
+•	Gestion des changements (facteurs internes et externes  au projet)
+Élément de communication et d’échange avec le client
+Outils :
+•	Microsoft Excel
+–	Facilité d’utilisation et permet une représentation de type « jalons »  axée sur le calendrier
+•	Microsoft Project
+–	PERT : représentation axée sur la logique d’enchaînement des tâches
+–	GANTT : représentation des tâches axée sur le calendrier
+4) Déterminer les exigences de suivi et reporting
+a)	Définition des indicateurs de suivi
+–	Dates clés et statut (en cours, terminé, ...) des étapes importantes ; – Livrables et leurs progrès ;
+–	Temps, effort ou ressources utilisés ; –	Coût en ressources, de services, ... ;
+–	Incidents, risques, changements et dépendances.
+b)	Définition du reporting
+c)	Programmation des réunions de revues,  communication et pilotage avec le client et le  
+management
+ 
+5) Créer le Plan de développement (c’est le  PAQ )
+•	Présentation du projet
+–	But, limites, objectifs du projet
+–	Dépendances
+–	Sous-traitance
+–	Synthèse solution
+–	Lotissement
+•	Plan d’organisation du projet
+–	Acteurs
+–	Comités et réunion
+–	Organisation avec les dépendances
+–	Organisation avec la sous-traitance
+•	Plan de conduite du projet
+–	Méthode
+–	Les phases (en entrée, traitements, livrables)
+•	Plan de Gestion du projet
+–	Procédures à respecter
+•	Normes, règles, standards
+La Gestion de la Planification
+JP ROBERTI 2021
+6) Créer les autres plans ( si non intégrés au PAQ)
+a)	Plan d’affectation des ressources
+b)	Plan de formation
+c)	Plan de Gestion de configuration
+d)	Plan de test
+e)	…
+La Gestion de la Planification
+JP ROBERTI 2021
+7) Revue interne et externe des plans
+a)	Interne avec tous les groupes (ingénierie, AQL, etc.)
+–	Complets, précis
+–	Cohérents
+–	Acceptables
+→ Mise à jour si nécessaire
+→ Nouveaux engagements = revue par la Direction
+b)	Externe avec le client
+→ Si pas d’approbation alors négociation et mise à jour et  itération processus revue.
+La Gestion de la Planification
+JP ROBERTI 2021
+8) Référencer et communiquer les plans	FC
+a)	Les plans véritable référence pour la conduite du  projet sont placés sous le contrôle de la gestion des  changements
+b)	Réunion d’initialisation du projet avec le client
+c)	Réunion de lancement en interne avec tous les  acteurs du projet (objectifs, contraintes, rôles de  chacun)
+→ Le projet peut démarrer
+La Gestion de la Planification
+JP ROBERTI 2021

@@ -1,0 +1,768 @@
+Question 1: Qu'est-ce qu'un projet ?
+A. Une activite qui ne necessite pas de livrables.
+B. Un ensemble d'activites permettant a un individu ou a une entreprise de passer d'une situation actuelle a une situation desiree.
+C. Une activite sans date de debut ou de fin.
+D. Une activite qui n'implique pas de besoin specifique.
+Reponse: B
+Question 2: Quelles sont les caracteristiques d'un projet ?
+A. Il ne necessite pas de livrables.
+B. Il n'a pas de debut ou de fin.
+C. Il ne requiert pas d'activites.
+D. Il implique le changement, a un debut et une fin, requiert des activites, des individus y participent, existe un point de depart et un point d'arrivee ou livrable, on le fait dans un but precis, il y a plusieurs clients, est un processus dynamique.
+Reponse: D
+Question 3: Que sont les livrables d'un projet ?
+A. Des activites a accomplir pendant le projet.
+B. Les ressources necessaires a la realisation du projet.
+C. Les produits, services ou resultats uniques produits lors du projet.
+D. Les clients impliques dans le projet.
+Reponse: C
+Question 4: Quand un projet prend-il fin ?
+A. Quand les objectifs sont atteints.
+B. Quand les objectifs ne sont pas realisables.
+C. Quand les ressources financieres sont epuisees.
+D. Toutes les Reponses ci-dessus sont correctes.
+Reponse: A
+Question 5: Quel est l'objectif de la gestion de projet ?
+A. Obtenir un financement pour le projet.
+B. Avoir un suivi precis de toutes les activites du projet.
+C. Repondre aux objectifs d'affaires en implantant un produit de qualite, respectant le budget et l'echeancier prevus.
+D. Assurer la communication entre les differents membres du projet.
+Reponse: C
+Question 6: Qu'est-ce que la gestion de projet?
+A. La planification et la supervision de toutes les activites liees a un projet pour atteindre ses objectifs dans les delais impartis.
+B. La definition des objectifs d'un projet.
+C. La production des livrables du projet.
+D. L'evaluation de l'impact du projet sur l'environnement.
+Reponse: A
+Question 7: Quels sont les principaux elements de la gestion de projet?
+A. La supervision, la production, la communication et la documentation.
+B. Les objectifs, les livrables, les ressources et les clients.
+C. La planification, l'execution, le controle et la cloture.
+D. Les parties prenantes, le financement, le suivi et l'audit.
+Reponse: C
+Question 8: Qu'est-ce qu'un plan de projet?
+A. Un diagramme qui represente les activites du projet et les dependances entre elles.
+B. Un document qui decrit les livrables attendus, les activites a realiser, les dates de debut et de fin, les ressources necessaires et les couts estimes pour atteindre les objectifs d'un projet.
+C. Une liste de toutes les parties prenantes du projet. 
+D. Un document qui evalue l'impact environnemental du projet.
+Reponse: B
+Question 9: Qu'est-ce qu'un diagramme de Gantt?
+A. Un outil qui permet de representer graphiquement les activites du projet et les dependances entre elles.
+B. Un document qui decrit les livrables attendus, les activites a realiser, les dates de debut et de fin, les ressources necessaires et les couts estimes pour atteindre les objectifs d'un projet.
+C. Une liste de toutes les parties prenantes du projet.
+D. Un document qui evalue l'impact environnemental du projet.
+Reponse: A
+Question 10: Qu'est-ce que la methode PERT?
+A. Une methode de gestion de projet qui utilise des techniques de gestion de la qualite pour ameliorer continuellement les processus du projet.
+B. Une methode d'analyse des risques qui permet d'estimer la probabilite et l'impact des evenements indesirables sur le projet.
+C. Une methode de gestion de projet qui met l'accent sur la qualite et la satisfaction du client.
+D. Une technique de planification et de gestion de projet qui permet de representer graphiquement les activites du projet et les dependances entre elles.
+Reponse: D
+Question 11: Qu'est-ce que le chemin critique d'un projet?
+A. La partie du projet qui necessite le plus de ressources humaines et materielles.
+B. La partie du projet qui a le plus d'impact sur la satisfaction du client.
+C. La serie d'activites du projet qui doivent etre terminees dans les delais les plus courts pour que le projet soit acheve a temps.
+D. Le plan d'action qui identifie les risques potentiels et les mesures a prendre pour les eviter ou les attenuer.
+Reponse: C
+Question 12: Qu'est-ce que l'estimation de la valeur acquise (EVA)?
+A. Une methode de gestion de projet qui permet de mesurer la valeur financiere totale du projet.
+B. Une methode de gestion de projet qui permet de mesurer la quantite de travail effectue par rapport a ce qui etait prevu a une date donnee.
+C. Une methode de gestion de projet qui permet de mesurer la satisfaction du client par rapport au projet.
+D. Une methode de gestion de projet qui permet de mesurer le niveau de risque du projet.
+Reponse: B
+Question 13: Qu'est-ce que le diagramme de Gantt?
+A. Une technique de planification et de gestion de projet qui permet de representer graphiquement les activites du projet et les dependances entre elles.
+B. Une methode de gestion de projet qui met l'accent sur la qualite et la satisfaction du client.
+C. Une methode d'analyse des risques qui permet d'estimer la probabilite et l'impact des evenements indesirables sur le projet.
+D. Une methode de gestion de projet qui utilise des techniques de gestion de la qualite pour ameliorer continuellement les processus du projet.
+Reponse: A
+Question 14: Qu'est-ce que le management de projet agile?
+A. Une methode de gestion de projet qui utilise des techniques de gestion de la qualite pour ameliorer continuellement les processus du projet.
+B. Une methode de gestion de projet qui met l'accent sur la qualite et la satisfaction du client.
+C. Une methode d'analyse des risques qui permet d'estimer la probabilite et l'impact des evenements indesirables sur le projet.
+D. Une methode de gestion de projet qui met l'accent sur l'adaptabilite et la collaboration avec le client et les membres de l'equipe de projet.
+Reponse: D
+Question 15: Qu'est-ce que la matrice RACI?
+A. Une technique de planification et de gestion de projet qui permet de representer graphiquement les activites du projet et les dependances entre elles.
+B. Une methode de gestion de projet qui utilise des techniques de gestion de la qualite pour ameliorer continuellement les processus du projet.
+C. Une methode de gestion de projet qui met l'accent sur la qualite et la satisfaction du client.
+D. Un outil de gestion de projet qui permet de definir les responsabilites et les roles de chaque membre de l'equipe de projet.
+Reponse: D
+Question 16: Quel est l'objectif de la gestion de projet?
+A. Repondre aux objectifs d'affaires en implantant un produit de qualite, respectant le budget et l'echeancier prevus
+B. Obtenir des benefices immediats
+C. Satisfaire les clients
+D. eviter les risques
+Reponse: A
+Question 17: Quel est le perimetre des projets informatiques?
+A. Les projets informatiques portent sur la gestion des ressources humaines
+B. Les projets informatiques portent sur la communication et le marketing
+C. Les projets informatiques portent sur la production de biens
+D. Les projets informatiques portent sur le developpement ou la maintenance d'un systeme d'information avec des composantes : infrastructure, applicative, humaine
+Reponse: D
+Question 18: Un projet peut impliquer combien de personnes ou de groupes ?
+A Une personne
+B Un groupe
+C Plusieurs groupes
+D Toutes les Reponses sont correctes
+Reponse: D
+Question 19: Quel est l'exemple de projet qui consiste a rechercher un nouveau procede de fabrication ?
+A La mise au point d’un nouveau compose pharmaceutique pour le marche ;
+B La fusion de deux organisations ;
+C L’amelioration d’un processus au sein d’une organisation ;
+D Les travaux de recherches en vue de developper un nouveau procede de fabrication ;
+Reponse: D
+Question 20: Un projet peut impliquer une ou plusieurs unites organisationnelles appartenant a des organisations multiples. Vrai ou faux ?
+A Vrai
+B Faux
+C jsp
+D ntm
+Reponse : A
+Question 21: Dans un projet, quand peut-on considerer que le projet prend fin ?
+A Lorsque les objectifs du projet ont ete atteints.
+B Lorsque les objectifs ne seront ou ne sont pas realisables.
+C Lorsque les ressources financieres sont epuisees ou ne sont plus disponibles pour le projet.
+D Toutes les Reponses sont correctes.
+Reponse: D
+Question 22: Les projets sont temporaires, mais leurs livrables peuvent continuer d’exister apres la fin du projet. Vrai ou faux ?
+A Vrai
+B Faux
+C jsp
+D ntm
+Reponse: A
+Question 23: Un projet peut produire des livrables de nature sociale, economique, materielle ou environnementale. Vrai ou faux ?
+A Vrai
+B Faux
+C jsp
+D ntm
+Reponse: A
+Question 24: Combien de caracteristiques un projet doit-il avoir ?
+A 4
+B 6
+C 8
+D 10
+Reponse: B
+Question 25: Quels sont les facteurs a prendre en compte lors de la selection d'une structure organisationnelle ?
+A. Le niveau de satisfaction des employes
+B. Les considerations de cout
+C. Le niveau de satisfaction des clients
+D. Les recompenses et les incitations offertes
+Reponse: B
+Question 26: Quels sont les facteurs importants pour la selection d'une structure organisationnelle ?
+A. Les couleurs de l'entreprise
+B. La repartition des taches de chacun
+C. La simplicite de la conception
+D. Les preferences personnelles des employes
+Reponse: C
+Question 27: Quel est l'un des facteurs les plus importants pour la selection d'une structure organisationnelle ?
+A. Les lieux physiques
+B. Les capacites de specialisation
+C. Les recompenses et les incitations offertes
+D. Le niveau d'alignement avec les objectifs de l'organisation
+Reponse: D
+Question 28: Quels sont les trois types d'activites dans un projet informatique de developpement ?
+A. Conception, developpement, test
+B. Conception, marketing, vente
+C. Test, marketing, vente
+D. Conception, developpement, gestion de projet
+Reponse: A
+Question 29: Quelles sont les activites de gestion dans un projet informatique de developpement ?
+A. Gestion de projet, assurance de la qualite, gestion des tests
+B. Gestion de projet, assurance de la qualite, documentation
+C. Gestion de projet, gestion de configuration logiciel, assurance de la qualite
+D. Gestion de projet, documentation, traduction, formation
+Reponse: A
+Question 30: Quelles sont les activites de support dans un projet informatique de developpement ?
+A. Assurance de la Qualite, Gestion de configuration logiciel, Documentation, traduction, formation, systeme, reseaux, base de donnees
+B. Assurance de la Qualite, Gestion de projet, Documentation, traduction, formation, systeme, reseaux, base de donnees
+C. Gestion de configuration logiciel, Documentation, traduction, formation, systeme, reseaux, base de donnees
+D. Assurance de la Qualite, Gestion de configuration logiciel, systeme, reseaux, base de donnees
+Reponse: A
+Question 31: Qu'est-ce que le plan de conduite du projet ?
+A. Les etapes du projet
+B. Les recompenses et les incitations offertes
+C. Le scenario du projet
+D. Le cycle de vie du projet
+Reponse: C
+Question 32: Quels sont les types de methodes de conduite de projet ?
+A. Merise, SADT, RUP, RAD, XP
+B. Kanban, Scrum, Lean
+C. Waterfall, Agile, Lean
+D. Merise, Waterfall, Scrum
+Reponse: A
+Question 33: Quels sont les avantages des outils d'outillage dans un projet informatique de developpement ?
+A. Qualite technique
+B. Securite
+C. Productivite
+D. Toutes les Reponses ci-dessus
+Reponse: D
+Question 34: Qu'est-ce que la methode Merise ?
+A. Une methode de conduite de projet
+B. Une methode de conception de logiciels
+C. Une methode de gestion de projet
+D. Une methode de tests de logiciels
+Reponse: A
+Question 35: Qu'est-ce que la methode Scrum ?
+A. Une methode de conduite de projet
+B. Une methode de conception de logiciels
+C. Une methode de gestion de projet
+D. Une methode de tests de logiciels
+Reponse: C
+Question 36: Qu'est-ce que la methode Waterfall ?
+A. Une methode de conduite de projet
+B. Une methode de conception de logiciels
+C. Une methode de gestion de projet
+D. Une methode de tests de logiciels
+Reponse: C
+Question 37: Qu'est-ce que la methode Agile ?
+A. Une methode de conduite de projet
+B. Une methode de conception de logiciels
+C. Une methode de gestion de projet
+D. Une methode de tests de logiciels
+Reponse: C
+Question 38: Quelles sont les taches principales d'un architecte en developpement de logiciels?
+A. Concevoir l'architecture et definir les orientations, les principes de fonctionnement des logiciels a realiser des produits
+B. Effectuer les tests unitaires
+C. Definir les strategies et les plans de realisation, de migration et d'implantation de l’application
+D. Analyser les besoins a partir de la pre-etude transmise par l’architecte et le cahier des charges du client.
+Reponse: A
+Question 39: Que doit faire un architecte en developpement de logiciels en matiere de veille technologique ?
+A. Assurer la veille metier et technologique
+B. Programmer en respectant les normes de developpement et en utilisant les outils adequats.
+C. Diffuser tous les elements d'organisation, de planification et d'assignation relatifs aux projets et communiquer regulierement tous les ecarts en terme de specifications, de qualite de couts et de delais
+D. Realiser un dossier organique si besoin
+Reponse: A
+Question 40: Quelles sont les taches principales d'un analyste en developpement de logiciels?
+A. Analyser les besoins a partir de la pre-etude transmise par l’architecte et le cahier des charges du client.
+B. Definir les specifications organiques et les algorithmes.
+C. Concevoir la strategie de tests et du projet fonctionnelles, organiques
+D. Programmer en respectant les normes de developpement et en utilisant les outils adequats.
+Reponse: A
+Question 41: Que doit faire un analyste en developpement de logiciels pour modeliser les donnees et les traitements ?
+A. Analyser les besoins a partir de la pre-etude transmise par l’architecte et le cahier des charges du client.
+B. Analyser l’existant pour determiner les donnees et les programmes impactes par le projet.
+C. Definir les specifications fonctionnelles (regles de gestion) des logiciels a realiser.
+D. Encadrer les analystes programmeurs.
+Reponse: B
+Question 42: Quel est le role d'un charge d'essais en developpement de logiciels ?
+A. Concevoir l'architecture et definir les orientations, les principes de fonctionnement des logiciels a realiser des produits.
+B. Preparer l'environnement de developpement, gerer les composants.
+C. Analyser les besoins a partir de la pre-etude transmise par l’architecte et le cahier des charges du client.
+D. Conception de la strategie de tests et du projet fonctionnelles, organiques.
+Reponse: D
+Question 43: Que doit faire un architecte en developpement de logiciels en matiere de normes, methodes et outils ?
+A. Definir les normes, methodes et outils
+B. Assurer la veille metier et technologique
+C. Concevoir la strategie de tests et du projet fonctionnelles, organiques.
+D. Encadrer les analystes programmeurs.
+Reponse: A
+Question 44: Quel est le role de l'architecte dans le developpement de logiciels ?
+A. Concevoir les donnees et les traitements des logiciels a realiser
+B. Assurer la veille metier et technologique
+C. Programmer en respectant les normes de developpement
+D. Realiser les dossiers fonctionnels
+Reponse: B
+Question 45: Quelle est la tache de l'analyste lors de la realisation d'un projet ?
+A. Definir les normes, methodes et outils
+B. Analyser les besoins a partir de la pre-etude transmise par l’architecte et le cahier des charges du client
+C. Programmer en respectant les normes de developpement
+D. Valider les plans de tests pour l'ensemble des produits developpes
+Reponse: B
+Question 46: Que doit faire l'analyste-programmeur lors de la realisation d'un projet ?
+A. Definir les specifications fonctionnelles des logiciels a realiser
+B. Preparer l'environnement de developpement et gerer les composants
+C. Programmer en respectant les normes de developpement
+D. Encadrer les analystes programmeurs
+Reponse: C
+Question 47: Quel est le role du charge d'essais dans le developpement de logiciels ?
+A. Concevoir les donnees et les traitements des logiciels a realiser
+B. Definir les strategies et les plans de realisation, de migration et d'implantation de l'application
+C. Conception de la strategie de tests et du projet fonctionnelles, organiques
+D. Valider les plans de tests pour l'ensemble des produits developpes
+Reponse: C
+Question 48: Quelle est la tache de la gestion de projet dans le developpement de logiciels ?
+A. Concevoir les donnees et les traitements des logiciels a realiser
+B. Faire documenter et maintenir a jour les specifications et caracteristiques fonctionnelles et technologiques des produits, les valider
+C. Diffuser tous les elements d'organisation, de planification et d'assignation relatifs au projets et communiquer regulierement tous les ecarts en terme de specifications, de qualite de couts et de delais
+D. Definir les specifications fonctionnelles des logiciels a realiser
+Reponse: C
+Question 49: Quelles sont les activites de gestion ?
+A. Planification, gestion de ressources, organisation, direction
+B. Traitement des anomalies, des DDC, bilan de la campagne de certification
+C. Les metiers « infrastructure »
+D. Deroulement des scenarios de tests
+Reponse: A
+Question 50: Quel est l'objectif de la Direction ?
+A. Respect des engagements, des couts de tous les projets
+B. La Direction fournit et protege les ressources essentielles a l'amelioration a long terme du processus logiciel
+C. etablir les plans, des normes et des procedures pour ajouter de la valeur au projet logiciel et satisfaire les contraintes du projet et les directives de l'organisation
+D. Realiser les activites GCL (fabrication, livraison, revue et le reporting)
+Reponse: B
+Question 51: Qu'est-ce que le RAQ ?
+A. Responsable Qualite
+B. Responsable Gestion de Configuration
+C. Activites transverses
+D. Discipline d’ingenierie logiciel intervenant dans le support au developpement sans en etre responsable
+Reponse: A
+Question 52: Qu'est-ce que le Responsable Gestion de Configuration etablit ?
+A. Les plans, des normes et des procedures pour ajouter de la valeur au projet logiciel et satisfaire les contraintes du projet et les directives de l'organisation
+B. Les plans (PGCL), l’organisation necessaire pour assurer l’integrite des produits issus du projet tout au long du cycle de vie du logiciel
+C. Les plans (PAQL), des normes et des procedures qui vont ajouter de la valeur au projet logiciel et satisfaire les contraintes du projet et les directives de l'organisation
+D. Les metiers « infrastructure »
+Reponse: B
+Question 53: Que representent les activites support ?
+A. Une discipline d’ingenierie logiciel intervenant dans le support au developpement sans en etre responsable
+B. Les metiers « infrastructure »
+C. Des activites transverses
+D. Une direction qui fournit et protege les ressources essentielles a l'amelioration a long terme du processus logiciel
+Reponse: A
+Question 54: Quel est l'objectif de la direction dans l'organisation ?
+A. Respect des engagements, des couts de tous les projets
+B. Fournir et proteger les ressources essentielles a l'amelioration a long terme du processus logiciel
+C. Planification, gestion de ressources, organisation et direction
+D. Ajouter de la valeur au projet logiciel et satisfaire les contraintes du projet et les directives de l'organisation
+Reponse : B
+Question 55: Quels sont les activites couvertes par les activites de gestion ?
+A. Fabrication, livraison, revue et reporting
+B. Planification, gestion de ressources, organisation et direction
+C. Integration des composants, verification de la conformite du projet/composants
+D. Activites representant une discipline d'ingenierie logiciel intervenant dans le support au developpement sans en etre responsable.
+Reponse : B
+Question 56: Quel est le role du responsable qualite (RAQ) dans le groupe AQL ?
+A. etablit les plans (PAQL), des normes et des procedures qui vont ajouter de la valeur au projet logiciel et satisfaire les contraintes du projet et les directives de l'organisation.
+B. Passe en revue les activites du projet, effectue des audits des produits de travail logiciel et des processus tout au long du cycle de vie et donne aux gestionnaires la vision quant a l'accord du projet logiciel avec ses plans, ses normes et ses procedures etablis.
+C. Peut faire partie d'un groupe
+D. etablit les plans (PGCL), l'organisation necessaire pour assurer l'integrite des produits issus du projet tout au long du cycle de vie du logiciel
+Reponse : B
+Question 57: Qu'est-ce que les activites de gestion couvrent a l'interieur d'un domaine de responsabilite ?
+A. La planification
+B. La gestion de ressources
+C. L'organisation
+D. Toutes les reponses ci-dessus
+Reponse : D
+Question 58: Quelles sont les activites representant une discipline d'ingenierie logiciel intervenant dans le support au developpement sans en etre responsable ?
+A. Integration des composants, verification de la conformite du projet/composants
+B. Les activites de gestion
+C. Les activites support
+D. Fabrication, livraison, revue et reporting
+Reponse : C
+Question 59: Quels sont les trois domaines principaux dans lesquels les metiers informatiques sont necessaires?
+A. Les ordinateurs et leurs systemes d'exploitation
+B. Les reseaux informatiques
+C. Les bases de donnees
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 60: Quel est le role de l'ingenieur systeme ?
+A. Administration des systemes
+B. Conception et architecture des systemes
+C. Connaissance des besoins et elaboration de solutions
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 61: Quel est le role de l'administrateur de bases de donnees ?
+A. Administration des bases de donnees
+B. Conception et architecture des bases de donnees
+C. Connaissance des besoins et elaboration de solutions
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 62: Quels sont les types de reseaux dont l'ingenieur reseau doit avoir une connaissance ?
+A. Les reseaux locaux
+B. Les reseaux prives etendus
+C. Internet
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 63: Dans quelles entreprises les informaticiens peuvent-ils travailler ?
+A. Les entreprises ayant un service informatique (DSI)
+B. Les societes de services en informatique (SSII)
+C. Les editeurs de logiciels
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 64: Quels sont les metiers proposes pour les societes de services en informatique dans le texte ?
+A. Assistance technique chez les clients et exploitation
+B. Etudes et exploitation
+C. Assistance technique chez les clients et equipes de developpement/maintenance
+D. MOA, MOE et AMOA
+Reponse : C
+Question 65: Qu'est-ce qu'un PAQ ?
+A. Un document qui decrit les dispositions particulieres pour repondre aux exigences contractuelles en matiere de qualite
+B. Un document qui decrit les etapes pour mener a bien un projet
+C. Un outil du management de la qualite pour s'accorder sur le contexte et les enjeux d'un projet
+D. Un document qui decrit les outils et les techniques utilises dans le processus d'assurance qualite
+Reponse : A
+Question 66: Quelle est la methode exposee par William Edwards Deming qui a inspire les principes du PAQ ?
+A. La methode 6 Sigma
+B. La roue de Deming
+C. La methode Kanban
+D. La methode Kaizen
+Reponse : B
+Question 67: Que doit contenir a minima un PAQ pour un logiciel, selon la norme IEEE 730 ?
+A. Un preambule, un sommaire, les normes et les pratiques utilisees
+B. Un sommaire, les outils et les techniques utilisees, les ressources employees
+C. Les calendriers pertinents, les documents de references necessaires, le niveau de criticite du logiciel
+D. Un preambule, les definitions et les abreviations utilisees, les documents de references necessaires
+Reponse : A
+Question 68: Que signifie l'acronyme QQOQCCP ?
+A. Qui, Quoi, Ou, Quand, Comment, Combien, Pourquoi
+B. Quels sont les risques associes a la prestation
+C. Quelle est la pertinence de la prestation
+D. Quels sont les outils et les techniques a utiliser dans le processus
+Reponse : A
+Question 69: Pourquoi toute derogation a un PAQ doit-elle faire l'objet d'un accord prealable entre les parties ?
+A. Pour garantir que le projet soit mene a bien
+B. Pour s'assurer que les dispositions particulieres du PAQ sont respectees
+C. Pour s'accorder sur les veritables attentes du client
+D. Pour s'assurer que les parties sont d'accord sur les changements a apporter au plan d'assurance qualite
+Reponse : B
+Question 70: Quel est l'objectif principal du Plan d'Assurance Qualite (PAQ) ?
+A. Decrire les dispositions particulieres pour la realisation d'un produit ou d'un service
+B. Clarifier l'intention et la portee du processus
+C. Fournir un outil de reference valide par les parties
+D. Decrire ce que l'entreprise va effectuer pour mener a bien le projet considere
+Reponse: D
+Question 71: Qu'est-ce que la norme IEEE 730 decrit ?
+A. Le contenu necessaire pour un plan d'Assurance Qualite Logiciel (AQL)
+B. Les principes du Plan d'Assurance Qualite (PAQ) inspires de la roue de Deming
+C. Les outils, techniques et methodologies utilisees dans le processus d'AQL
+D. Les etapes a suivre pour la realisation d'un produit ou d'un servic
+Reponse: A
+Question 72: Qu'est-ce que le PAQ ?
+A. Un document qui decrit les dispositions particulieres mises en œuvre pour la realisation d'un produit ou d'un service
+B. Un document qui decrit les methodologies utilisees dans le processus d'AQL
+C. Un document qui donne les definitions et les abreviations utilises dans le document
+D. Un document qui clarifie l'intention et la portee du processus
+Reponse : A
+Question 73: a quoi sert le PAQ ?
+A. a decrire ce que l'entreprise va effectuer pour mener a bien le projet considere
+B. a repondre aux exigences contractuelles en matiere de qualite
+C. a clarifier l'intention et la portee du processus
+D. a donner les definitions et les abreviations utilisees dans le document
+Reponse : B
+Question 74: Quelles sont les bases des actions suivantes decrites dans le texte ?
+A. ecrire ce que l'on fait et faire ce que l'on a ecrit
+B. Definir qui, quoi, ou, quand, comment, combien, et pourquoi
+C. Les normes, pratiques et conventions utilisees
+D. Les calendriers pertinents
+Reponse : A
+Question 75: Qui est l'auteur du Plan d'Assurance Qualite Logiciel (PAQL) decrit dans le texte ?
+A. William Edwards Deming
+B. IEEE 730
+C. Janvier 2022
+D. Jean-Pierre ROBERTI
+Reponse : D
+Question 76: Quel est l'outil du management de la qualite decrit dans le texte ?
+A. Plan d'assurance qualite
+B. Roue de Deming
+C. Plan-Do-Check-Act
+D. Norme IEEE 730
+Reponse : A
+Question 77: Sous quelle licence est publie le document sur la normalisation des processus ?
+A. Creative Commons-BY-NC-SA
+B. Creative Commons-BY-SA
+C. Creative Commons-BY-NC
+D. Creative Commons-NC-SA
+Reponse: A
+Question 78: Quel est l'objectif de la normalisation des processus selon le document ?
+A. Augmenter la rentabilite des projets
+B. Garantir le respect des normes de qualite
+C. Faciliter la communication entre la direction et le projet
+D. Reduire les depassements de budget et de temps
+Reponse: D
+Question 79: Selon le document, quels sont les facteurs qui peuvent conduire a l'echec d'un projet ?
+A. Une structure decisionnelle adequate et un soutien de la direction
+B. Une communication efficace et une evaluation precise de la capacite des ressources
+C. Une comprehension claire des risques et une gestion efficace des changements et des problemes
+D. Une mauvaise comprehension des attentes et objectifs d'affaires et une faiblesse dans la planification et le controle
+Reponse: D
+Question 80: Quelles sont les methodes de gestion de projet recommandees selon le document ?
+A. Les methodes CASCADE
+B. Les methodes AGILE
+C. Les methodes traditionnelles
+D. Les methodes participatives
+Reponse: B
+Question 81: Quelle est la solution proposee dans le document pour garantir le succes des projets ?
+A. Normaliser et maitriser les processus
+B. Faire une evaluation precise de la capacite des ressources
+C. Mettre en place une communication efficace entre la direction et le projet
+D. Augmenter la rentabilite des projets
+Reponse: A
+Question 82: Sous quelle licence est publie le document "Normalisation des processus" ?
+A. Creative Commons-BY-NC-SA
+B. Creative Commons-BY-NC
+C. Creative Commons-BY-SA
+D. Creative Commons-BY-ND
+Reponse: A
+Question 83: Quels sont les sujets abordes dans le sommaire de "Normalisation des processus" ?
+A. Bonne et mauvaise nouvelle
+B. Les raisons et solutions
+C. Processus logiciel
+D. Toutes les reponses sont correctes
+Reponse: D
+Question 84: Pourquoi les projets peuvent-ils echouer ?
+A. Mauvaise comprehension des attentes et objectifs d'affaires
+B. Manque de soutien de la Direction
+C. Communication inadequate entre la direction de l'entreprise et le projet
+D. Toutes les reponses sont correctes
+Reponse: D
+Question 85: Quels sont les facteurs de succes des projets ?
+A. Approche metier du chef de projet
+B. Definition claire des objectifs du projet
+C. Strategie adequate
+D. Toutes les reponses sont correctes
+Reponse: D
+Question 86: Quelle est la solution proposee pour reussir les projets ?
+A. Normaliser et maitriser les processus
+B. Engager la direction et l'equipe
+C. Partager une culture commune
+D. Toutes les reponses sont correctes
+Reponse: A
+Question 87: Qu'est-ce qu'un processus logiciel ?
+A. Un ensemble organise d’activites, de methodes, de pratiques et de transformations que des personnes utilisent pour developper et maintenir des logiciels et des produits associes a partir d’informations, d’energie, d’equipements et d’outils.
+B. Un ensemble de personnes utilisant des equipements pour developper des produits associes a partir d’informations.
+C. Un ensemble de pratiques et de transformations que des personnes utilisent pour maintenir des logiciels.
+D. Un ensemble de methodes que des personnes utilisent pour developper des logiciels.
+Reponse : A
+Question 88: Qu'est-ce qu'un modele qualite ?
+A. Un ensemble structure d’elements qui decrit les caracteristiques d’un processus eprouve.
+B. Un ensemble de processus de qualite reconnus.
+C. Un ensemble d'outils permettant de mesurer la qualite des processus.
+D. Un ensemble de vocabulaires commun pour les processus qualite.
+Reponse : A
+Question 89: Qu'est-ce qu'une norme qualite ?
+A. Un document etabli par consensus par un organisme reconnu qui fournit des regles, des lignes directrices ou des caracteristiques pour les activites ou des resultats garantissant un niveau d’ordre optimal (qualite).
+B. Un ensemble de procedures pour garantir la qualite des produits.
+C. Un document etabli par une entreprise qui fournit des regles pour les activites ou des resultats garantissant un niveau de qualite.
+D. Un ensemble de normes etablies par consensus entre plusieurs entreprises.
+Reponse : A
+Question 90: Que permet un modele qualite ?
+A. Un modele qualite permet d'avoir un vocabulaire commun et une vision partagee.
+B. Un modele qualite permet de simplifier le monde reel.
+C. Un modele qualite permet de rationaliser l'economie.
+D. Un modele qualite permet de construire la qualite des biens et des services.
+Reponse : A
+Question 91: Quels sont les objectifs du cours ?
+A. Assimiler et mettre en œuvre les concepts de l’assurance qualite logiciel et comprendre les grands concepts de 2 referentiels Qualite : ISO 9001 et CMMi.
+B. Maitriser les 2 referentiels ISO 9001 et CMMi.
+C. Assimiler et mettre en œuvre les concepts de l’assurance qualite logiciel.
+D. Comprendre les concepts de la normalisation des processus.
+Reponse : A
+Question 92: Qu'est-ce que l'assurance qualite logiciel ?
+A. L'assurance qualite logiciel est les deux facettes de la qualite : la conformite avec la definition et la reponse a l'attente du client.
+B. L'assurance qualite logiciel est l'activite tout au long du cycle de vie pour controler la qualite.
+C. L'assurance qualite logiciel est la validation du produit.
+D. L'assurance qualite logiciel est la verification du produit.
+Reponse : A
+Question 93: Qu'est-ce que la verification ?
+A. Faisons-nous le produit correctement ?
+B. Faisons-nous le bon produit ?
+C. Faisons-nous le produit conforme a la definition ?
+D. Faisons-nous le produit conforme a l'attente du client ?
+Reponse : A
+Question 94: Qu'est-ce que les normes ISO 9000 ?
+A. Un ensemble de normes internationales de gestion de la qualite depuis 1987
+B. Un ensemble de normes internationales de gestion de la securite depuis 1987
+C. Un ensemble de normes internationales de gestion de la qualite depuis 1997
+D. Un ensemble de normes internationales de gestion de la securite depuis 1997
+Reponse: A
+Question 95: Quel est l'objectif de la norme ISO 9001:2015 ?
+A. Fournir regulierement un produit conforme aux besoins du client et aux exigences reglementaires applicables
+B. Fournir regulierement un produit qui ne repond pas aux besoins du client
+C. Fournir regulierement un produit conforme aux besoins du client mais qui ne repond pas aux exigences reglementaires applicables
+D. Fournir regulierement un produit qui ne repond pas aux besoins du client et aux exigences reglementaires applicables
+Reponse: A
+Question 96: Quels sont les 8 principes de la norme ISO 90001:2015 ?
+A. Approche processus, ecoute client, leadership, implication du personnel, management par approche systeme, amelioration continue, approche factuelle pour la prise de decision, relations mutuellement benefiques avec les fournisseurs
+B. Approche qualite, ecoute client, leadership, implication du personnel, management par approche systeme, amelioration continue, approche factuelle pour la prise de decision, relations mutuellement benefiques avec les fournisseurs
+C. Approche processus, ecoute client, implication du personnel, management par approche systeme, amelioration continue, approche factuelle pour la prise de decision, relations mutuellement benefiques avec les fournisseurs
+D. Approche processus, ecoute client, leadership, management par approche systeme, amelioration continue, approche factuelle pour la prise de decision, relations mutuellement benefiques avec les fournisseurs
+Reponse: A
+Question 97: Quels sont les chapitres de la norme ISO 9001:2015 ?
+A. Introduction, domaine d’application, references normatives, termes et definitions, systeme de Management de la Qualite, responsabilite de la direction, management des ressources, realisation du produit, mesures, analyses et amelioration
+B. Introduction, domaine d’application, references normatives, termes et definitions, systeme de Management de la Qualite, responsabilite de la direction, management des ressources, realisation du produit, mesures et analyses
+C. Introduction, domaine d’application, references normatives, termes et definitions, systeme de Management de la Qualite, management des ressources, realisation du produit, mesures, analyses et amelioration
+D. Introduction, domaine d’application, references normatives, termes et definitions, systeme de Management de la Qualite, realisation du produit, mesures, analyses et amelioration
+Reponse: A
+Question 98: Qu'est-ce que le Capability Maturity Model Integration (CMMi) ?
+A. Un modele pour evaluer la maturite d'une organisation a produire du logiciel
+B. Un modele pour evaluer la maturite d'une organisation dans le domaine de la gestion de la qualite
+C. Un modele pour evaluer la maturite d'une organisation dans le domaine de la gestion de la securite
+D. Un modele pour evaluer la maturite d'une organisation dans le domaine de la gestion de l'environnement
+Reponse : A
+Question 99: Quel est le niveau de maturite caracterise par une standardisation adequate des pratiques, une capitalisation centralisee et une maitrise du referentiel interne ?
+A. Defini
+B. Optimise
+C. Quantitativement gere
+D. Initial
+Reponse : A
+Question 100: Qu'est-ce que le niveau 4 de maturite ?
+A. Processus Defini (standardise)
+B. Processus Gere quantitativement
+C. Processus en amelioration continue
+D. Aucune reponse n'est correcte
+Reponse : B
+Question 101: Quels sont les 7 secteurs cles du niveau 2 de maturite ?
+A. Gestion de la qualite
+B. Planification de projet
+C. Suivi et supervision de projet
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 102: Quel est le niveau de maturite caracterise par une optimisation constante des processus pour anticiper les evolutions prevues ?
+A. Quantitativement gere
+B. Defini
+C. Optimise
+D. Initial
+Reponse : C
+Question 103: Quelle est la difference entre un modele de processus et un modele de cycle de vie?
+A. Un modele de processus decrit les activites et les taches a effectuer, tandis qu'un modele de cycle de vie decrit les phases de developpement du logiciel.
+B. Un modele de cycle de vie decrit les activites et les taches a effectuer, tandis qu'un modele de processus decrit les phases de developpement du logiciel.
+C. Les deux modeles sont identiques, la difference est uniquement dans leur nom.
+D. Aucune des reponses ci-dessus.
+Reponse: A
+Question 104: Quelles sont les entrees et sorties principales de la phase de conception dans le modele en cascade ?
+A. Entrees : specifications du logiciel. Sorties : conception detaillee.
+B. Entrees : conception architecturale. Sorties : specifications du logiciel.
+C. Entrees : specifications du logiciel. Sorties : plan de test.
+D. Entrees : plan de test. Sorties : code source.
+Reponse: B
+Question 105: Quelles sont les phases concernees par la verification et/ou la validation dans le modele en cascade ?
+A. etude de faisabilite et specification.
+B. Conception et implementation.
+C. Tests et livraison.
+D. Toutes les phases.
+Reponse: C
+Question 106: Pourquoi parle-t-on de "cycle de vie" en logiciel ?
+A. Pour decrire le processus de creation d'un logiciel.
+B. Pour decrire les differentes etapes par lesquelles passe un logiciel depuis sa creation jusqu'a sa disparition.
+C. Pour decrire la duree de vie d'un logiciel.
+D. Pour decrire les differentes versions d'un logiciel.
+Reponse : B
+Question 107: Decrivez les principaux cycles de vie du logiciel, montrez leurs principales forces et faiblesses.
+A. Cycle en V, Cycle en Z, Cycle en L, Cycle en T.
+B. Cycle en cascade, Cycle en V, Cycle en spirale, Cycle en D.
+C. Cycle incremental, Cycle en boucle, Cycle en V, Cycle en S.
+D. Cycle en cascade, Cycle incremental, Cycle en spirale, Cycle en D.
+Reponse : D
+Question 108: Expliquer les principales caracteristiques du cycle de developpement en spirale, par un petit exemple montrer de quelle maniere on peut l'utiliser dans un projet. Faites un schema du cycle en illustrant l'enchainement des differentes etapes pour un developpement de quelques versions successives (v1.0, v2.0,...) d'un logiciel.
+A. Cycle en spirale utilise des etapes lineaires qui sont repetees a chaque iteration.
+B. Cycle en spirale utilise des etapes lineaires qui sont effectuees une seule fois.
+C. Cycle en spirale utilise des etapes en boucle qui sont repetees jusqu'a la fin du projet.
+D. Cycle en spirale utilise des etapes en boucle qui sont repetees pour chaque iteration.
+Reponse : D
+Question 109: Quel pourcentage de projets sont implantes a temps selon le budget et avec les memes ressources qui ont debute le projet ?
+A. 50%
+B. 60%
+C. 75%
+D. 90%
+Reponse : C
+Question 110: Selon les lois de la gestion de projet, a quel pourcentage les projets progressent-ils rapidement jusqu'a ce qu'ils soient termines, puis demeurent a ce pourcentage ?
+A. 50%
+B. 75%
+C. 90%
+D. 100%
+Reponse : C
+Question 111: Selon les lois de la gestion de projet, que se passe-t-il lorsque les choses vont bien ?
+A. Tout continue a aller bien
+B. Quelque chose ne va pas
+C. Les choses s'ameliorent encore plus
+D. Les choses restent au meme niveau
+Reponse : B
+Question 112: Selon les lois de la gestion de projet, que se passe-t-il lorsque les choses ne peuvent etre pires ?
+A. Elles restent au meme niveau
+B. Les choses s'ameliorent
+C. Elles empirent encore plus
+D. Un tunnel encore plus sombre se profile
+Reponse : D
+Question 113: Selon les lois de la gestion de projet, que se passe-t-il lorsque les choses semblent aller mieux ?
+A. Tout va mieux
+B. On a oublie quelque chose
+C. Les choses se compliquent
+D. Les choses restent au meme niveau
+Reponse : B
+Question 114: Qu'est-ce que le business plan d'un projet informatique ?
+A. Un document sous licence libre Creative Commons-BY-NC-SA
+B. Un document qui presente les particularites d'un projet informatique
+C. Un document qui presente les couts previsionnels et le retour sur investissement escompte d'un projet informatique
+D. Un document qui presente l'organisation de la gestion de projet informatique
+Reponse : C
+Question 115: Quelles sont les difficultes principales liees a l'etablissement des couts et gains previsionnels d'un projet informatique ?
+A. L'indisponibilite des ressources humaines
+B. La mauvaise organisation de la gestion de projet
+C. Les aleas techniques
+D. Les couts et gains previsionnels sont souvent beaucoup plus aleatoires pour un projet informatique que pour la moyenne des autres projets
+Reponse : D
+Question 116: Quelles sont les causes d'ecart concernant les couts d'un projet informatique ?
+A. La definition des fonctionnalites attendues
+B. Les besoins techniques
+C. Les prestations annexes a l'installation
+D. Toutes les reponses ci-dessus sont correctes
+Reponse : D
+Question 117: Qu'est-ce que le retour sur investissement d'un projet informatique ?
+A. Les revenus supplementaires issus de la mise en place du projet
+B. Les economies realisees grace a la mise en place du projet
+C. La rentabilite du projet
+D. Toutes les reponses ci-dessus sont correctes
+Reponse : C
+Question 118: Combien de grandes causes d'ecart des couts d'un projet informatique par rapport a la definition du perimetre sont identifiees dans le texte ?
+A. 3
+B. 4
+C. 5
+D. 6
+Reponse : D
+Question 119: Qu'est-ce que la licence Creative Commons-BY-NC-SA ?
+A. Une licence permettant d'utiliser librement une creation originale pour des fins lucratives.
+B. Une licence qui interdit toute utilisation d'une creation originale sans l'autorisation du titulaire des droits.
+C. Une licence permettant d'utiliser librement une creation originale a des fins non lucratives, a condition de citer l'auteur original et de partager les conditions initiales.
+D. Une licence qui donne l'exclusivite a l'auteur original de l'utilisation de sa creation.
+Reponse: C
+Question 120: Quelles sont les activites de gestion d'un projet informatique de developpement ?
+A. Conception, developpement, test
+B. Gestion de projet, gestion des tests
+C. Assurance de la Qualite, gestion de configuration logiciel
+D. Documentation, traduction, formation, systeme, reseaux, base de donnees
+Reponse: B
+Question 121: Qu'est-ce que le plan de conduite d'un projet ?
+A. Le budget alloue au projet.
+B. Le calendrier de realisation du projet.
+C. Le scenario du projet qui definit les activites d'ingenierie logicielle pour chaque etape.
+D. La methode de conception utilisee pour le projet.
+Reponse: C
+Question 122: Quels sont les objectifs du cours de gestion de projet ?
+A. Maitriser les principales methodologies de conduite de projet.
+B. Comprendre les grands concepts des principales methodologies de conduite de projet et leurs cas d'utilisation.
+C. Savoir utiliser la methode UML pour la conception d'un systeme d'information.
+D. Appliquer la methode RAD pour le developpement d'un projet.
+Reponse: B
+Question 123: Qu'est-ce que la methode systemique ?
+A. Une methode de conception permettant de decrire un systeme d'information.
+B. Une methode de conduite de projet qui s'appuie sur une methode de modelisation.
+C. Une approche qui considere un ensemble d'organes coherents s'influençant mutuellement pour resoudre un probleme.
+D. Une approche lineaire de resolution de probleme.
+Reponse: C
+Question 124: Quelle est l'approche de Merise pour la conception de systemes d'information ?
+A. Approche par niveaux et par etapes
+B. Approche aleatoire
+C. Approche lineaire
+D. Approche par competences
+Reponse : A
+Question 125: Quel est le cycle d'abstraction pour la conception des S.I. selon Merise ?
+A. Modele conceptuel (quoi)
+B. Modele logique (qui, quand, ou)
+C. Modele physique (comment)
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 126: Pourquoi Merise recommande-t-il la separation des donnees et des traitements ?
+A. Pour assurer une longevite au modele
+B. Pour faciliter le remaniement des donnees
+C. Pour optimiser les traitements
+D. Pour simplifier la maintenance du systeme
+Reponse : A
+Question 127: Quelles sont les valeurs principales du Manifeste pour le developpement agile d'applications ?
+A. Priorite aux personnes et aux interactions sur les procedures et les outils, Priorite a l'acceptation du changement sur la planification
+B. Priorite aux applications fonctionnelles sur une documentation plethorique
+C. Priorite a la collaboration avec le client sur la negociation de contrat
+D. Toutes les reponses sont correctes
+Reponse : D
+Question 128: Quel est le deuxieme principe general Agile ?
+A. Prioriser la satisfaction du client
+B. Accepter les changements
+C. Livrer en permanence des versions operationnelles de l’application
+D. Assurer le plus souvent possible une cooperation entre l’equipe du projet et les gens du metier
+Reponse : B

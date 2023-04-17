@@ -1,0 +1,168 @@
+Question 1: Qu'est-ce qu'une classe en programmation objet ?
+A. Un objet concret cree a partir d'une instance
+B. Un ensemble de caracteristiques et de comportements utilise pour construire des objets
+C. Une variable contenant la reference d'une instance
+D. Un espace memoire propre possede par une instance
+Reponse: B
+Question 2: Qu'est-ce qu'une instance en programmation objet ?
+A. Un objet concret cree a partir d'une classe
+B. Un ensemble de caracteristiques et de comportements utilise pour construire des objets
+C. Une variable contenant la reference d'une classe
+D. Un espace memoire propre possede par une classe
+Reponse: A
+Question 3: Qu'est-ce qu'une variable de type reference en programmation objet ?
+A. Un objet concret cree a partir d'une instance
+B. Un ensemble de caracteristiques et de comportements utilise pour construire des objets
+C. Une variable contenant la reference d'une instance
+D. Un espace memoire propre possede par une instance
+Reponse: C
+Question 4: Quels sont les mecanismes de Java qui permettent de creer et de synchroniser des taches simultanement ?
+A. Gestion des protocoles de communication utilises par internet
+B. Langage adapte a Internet
+C. Langage multitaches
+D. Portable dans differents environnements logiciels et materiels
+Reponse: C
+Question 5: Quel est l'objectif de la creation de la documentation d'un programme Java ?
+A. Pour faciliter la resolution d'un probleme en programmation procedurale
+B. Pour creer une classe en programmation objet
+C. Pour decrire un ensemble de caracteristiques et de comportements d'une instance
+D. Pour expliquer le fonctionnement et l'utilisation d'un programme aux utilisateurs et aux developpeurs
+Reponse: D
+Question 6: Que se passe-t-il lorsqu'une instance n'est plus referencee ?
+A. Elle est eliminee par le Garbage Collector
+B. Elle est stockee en memoire
+C. Elle est transformee en variable primitve
+D. Elle est declaree comme null
+Reponse : A
+Question 7: Comment est activee une methode d'instance ?
+A. Au moyen d'une variable locale
+B. Au moyen d'une variable-reference
+C. Au moyen d'une variable primitve
+D. Au moyen d'une methode statique
+Reponse : B
+Question 8: Dans quel compartiment est-ce que les attributs d'une classe sont declares ?
+A. Dans le compartiment nom de la classe
+B. Dans le compartiment des methodes de la classe
+C. Dans le compartiment des variables-references
+D. Dans le compartiment des attributs de la classe
+Reponse : D
+Question 9: Qu'est-ce qu'une classe abstraite en programmation objet ?
+A. Une classe qui ne peut pas etre instanciee
+B. Une classe qui ne peut pas contenir de methodes abstraites
+C. Une classe qui peut etre instanciee mais dont toutes les methodes sont abstraites
+D. Une classe qui ne peut pas contenir d'attributs
+Reponse : A
+Question 10: Quelle est la difference entre une classe et un objet en programmation orientee objet ?
+A. Une classe est une instance d'un objet
+B. Une classe est un type de donnees et un objet est une instance de ce type de donnees
+C. Une classe est une collection d'objets
+D. Il n'y a pas de difference entre une classe et un objet en programmation orientee objet
+Reponse : B
+Question 11: Qu'est-ce qu'un polymorphisme en programmation orientee objet ?
+A. Le fait qu'un objet peut avoir plusieurs etats differents a differents moments de son cycle de vie
+B. Le fait qu'un objet peut avoir plusieurs comportements differents en fonction du contexte dans lequel il est utilise
+C. Le fait qu'un objet peut avoir plusieurs methodes avec le meme nom mais des signatures differentes
+D. Le fait qu'un objet peut etre utilise pour creer d'autres objets
+Reponse : B
+Question 12: Qu'est-ce qu'un encapsulation en programmation orientee objet ?
+A. Le fait de cacher les details de l'implementation d'un objet pour proteger ses donnees
+B. Le fait de rendre tous les attributs et methodes d'un objet publics
+C. Le fait d'utiliser des classes abstraites pour creer des objets
+D. Le fait de regrouper des objets en collections
+Reponse : A
+Question 13: Qu'est-ce qu'une interface en programmation orientee objet ?
+A. Un type de classe abstraite qui ne peut pas contenir d'implementation de methodes
+B. Une collection d'objets qui implementent les memes methodes
+C. Une methode abstraite qui ne peut pas etre implementee dans une classe concrete
+D. Une maniere d'implementer l'heritage multiple en Java.
+Reponse : A
+Question 14: Comment peut-on acceder a une instance ?
+A. Au moyen d'une variable-reference
+B. Au moyen d'une variable classique
+C. En appelant une methode
+D. En utilisant le Garbage Collector
+Reponse: A
+Question 15: Que se passe-t-il lorsqu'une instance n'est plus referencee ?
+A. Elle est automatiquement eliminee par le Garbage Collector
+B. Elle continue d'etre accessible via une autre variable-reference
+C. Elle est automatiquement eliminee par l'operateur new
+D. Elle est transformee en variable classique
+Reponse: A
+Question 16: Qu'est-ce que le Garbage Collector ?
+A. Un outil de nettoyage du code source
+B. Une methode de suppression des variables d'instances
+C. Un outil de suppression automatique des instances non referencees
+D. Une classe de Java permettant la collecte de dechets
+Reponse: C
+Question 17: Qu'est-ce qu'une variable d'instance en Java ?
+A. Une variable declaree a l'interieur d'une methode
+B. Une variable utilisable dans toutes les methodes d'instances de la classe
+C. Une variable reservee pour les methodes de classe
+D. Une variable declaree a l'interieur d'une structure de controle
+Reponse: B
+Question 18: Qu'est-ce qu'un constructeur en Java ?
+A. Une methode permettant de declarer des variables locales
+B. Une methode particuliere appelee par l'operateur new au moment où une instance est creee
+C. Une methode permettant de retourner une valeur de type primitif
+D. Une methode permettant de creer une instance sans reference
+Reponse: B
+Question 19: Quel est le principe de passage des parametres en Java ?
+A. Les parametres sont passes par reference
+B. Les parametres sont passes par copie
+C. Les parametres sont passes par pointeur
+D. Les parametres sont passes par valeur
+Reponse: D
+Question 20: Qu'est-ce que la reference "this" en Java ?
+A. La reference a l'instance courante de la classe
+B. La reference a l'instance parente de la classe
+C. La reference a l'instance enfant de la classe
+D. La reference a l'instance statique de la classe
+Reponse: A
+Question 21: Qu'est-ce que l'encapsulation en Java ?
+A. Un mecanisme qui protege les donnees d'une classe en les rendant accessibles depuis l'exterieur
+B. Un mecanisme qui facilite l'utilisation des donnees d'une classe en les exposant publiquement
+C. Un mecanisme qui masque les details internes d'une classe pour simplifier l'utilisation de ses services
+D. Un mecanisme qui permet d'acceder directement aux variables privees d'une classe
+Reponse: C
+Question 22: Quel est l'objectif de l'encapsulation en Java ?
+A. Simplifier la tache de l'utilisateur d'une classe en lui masquant les details internes
+B. Exposer publiquement toutes les variables et methodes d'une classe
+C. Proteger les donnees d'une classe en les rendant accessibles depuis l'exterieur
+D. Permettre l'acces direct aux variables privees d'une classe
+Reponse: A
+Question 23: Quelle est la technique recommandee pour l'encapsulation en Java ?
+A. Declarer toutes les variables en acces public
+B. Declarer toutes les variables en acces prive
+C. Declarer certaines variables en acces public et d'autres en acces prive
+D. Ne pas declarer les variables
+Reponse: B
+Question 24: Combien de visibilites sont possibles lors de la declaration d'un element/membre dans Java ?
+A. 1
+B. 2
+C. 3
+D. 4
+Reponse: C
+Question 25: Quel mot-cle Java est utilise pour declarer une visibilite "friendly" ?
+A. private
+B. protected
+C. public
+D. Aucun mot-cle
+Reponse: D
+Question 26: Qu'est-ce que Javadoc ?
+A. Un outil de developpement pour ecrire du code Java
+B. Une methode de declaration des visibilites en Java
+C. Un outil pour generer de la documentation HTML pour des classes Java
+D. Une methode de gestion des exceptions en Java
+Reponse: C
+Question 27: Comment commence chaque ligne de commentaire Javadoc ?
+A. Par un asterisque (*)
+B. Par un point-virgule (;)
+C. Par un diese (#)
+D. Par un arobase (@)
+Reponse: A
+Question 28: Quel mot-cle Javadoc est utilise pour indiquer la version de la classe ou de la methode ?
+A. @version
+B. @author
+C. @see
+D. @param
+Reponse: A

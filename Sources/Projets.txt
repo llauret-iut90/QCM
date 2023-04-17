@@ -1,0 +1,573 @@
+Qu’est-ce qu’un projet ?
+Ensemble d'activités permettant à un individu ou à une entreprise de passer d'une situation actuelle à une situation désirée
+
+Définition
+L'Afitep-Afnor (X 50-105) définit le projet comme :
+" une démarche spécifique qui permet de structurer
+méthodiquement et progressivement une réalité à venir...:
+Un projet est défini et mis en œuvre pour répondre au
+besoin d'un client (...) et implique un objectif et des
+besoins à entreprendre avec des ressources données"
+
+Tout projet se caractérise par
+• Un produit, un service ou un résultat unique.
+ Un projet est entrepris afin d’atteindre un objectif grâce à
+la réalisation de livrables.
+ Un objectif est quelque chose vers lequel un travail devra
+être orienté, une position stratégique ou un but à
+atteindre, un résultat à obtenir, un produit à fabriquer ou
+un service à fournir.
+ Un livrable est un produit, résultat ou capacité à réaliser
+un service, de caractère unique et vérifiable, qui doit être
+produit pour achever un processus, une phase ou un
+projet. Les livrables peuvent être tangibles ou intangibles
+
+Les Livrables d’un projet
+• L’accomplissement des objectifs du projet permet de créer
+au moins un des livrables suivants :
+ Un produit spécifique ex un composant, une amélioration, la
+correction d’un bug, ou un produit fini ;
+ Un service spécifique ou la capacité de fournir un service (ex une
+fonction de support à la production ou à la distribution) ;
+ Un résultat spécifique, tel qu’une réalisation ou un document (ex
+un projet de recherche destiné à identifier une tendance, ou à
+savoir si un nouveau processus sera utile à la société) ;
+ Une combinaison spécifique d’un ou de plusieurs produits,
+services ou résultats (ex une application logicielle, la
+documentation associée et les services d’assistance technique)
+
+Contexte projets
+• Les projets sont entrepris à tous les niveaux
+organisationnels.
+• Un projet peut impliquer une personne ou un groupe.
+• Un projet peut impliquer une ou plusieurs unités
+organisationnelles appartenant à des organisations multiples
+La Gestion de projet
+JP ROBERTI Janv 2021
+Exemples de projets:
+ La mise au point d’un nouveau composé pharmaceutique pour le marché ;
+ La fusion de deux organisations ;
+ L’amélioration d’un processus au sein d’une organisation ;
+ L’acquisition et l’installation d’un nouveau matériel informatique dans une
+organisation ;
+ La modification d’un logiciel informatique utilisé dans une organisation ;
+ Les travaux de recherches en vue de développer un nouveau procédé de
+fabrication ;
+ La construction d’un bâtiment.
+Un projet est une initiative temporaire
+• La nature temporaire des projets implique que le projet a une
+date de commencement et de fin déterminées.
+ Pas nécessairement de courte durée.
+ Le projet prend fin lorsqu’au moins un des points suivants se
+confirme :
+ Les objectifs du projet ont été atteints.
+ Les objectifs ne seront ou ne sont pas réalisables.
+ Les ressources financières sont épuisées ou ne sont plus
+disponibles pour le projet.
+ Le besoin a disparu. (Par exemple, le client ne veut plus du projet,
+la stratégie connaît des changements ou des priorités met un
+terme au projet, le management de l’organisation ordonne la fin
+du projet.)
+ Les ressources humaines ou matérielles ne sont plus disponibles.
+ Le projet est arrêté pour des raisons juridiques ou de commodité.
+ Les projets sont temporaires, mais leurs livrables peuvent
+continuer d’exister après la fin du projet.
+ Les projets peuvent produire des livrables de nature sociale,
+économique, matérielle ou environnementale. Par exemple, le
+projet de construction d’un monument national aboutira à un
+livrable prévu pour durer des siècles
+
+Les caractéristiques d’un projet
+1
+4
+• Implique le changement
+• A un début et une fin (temps)
+• Requiert des activités
+• Des individus y participent
+• Il existe un point de départ
+• Il existe un point d’arrivée ou livrable
+• On le fait dans un but précis
+• Il y a plusieurs clients
+• Est un processus dynamique
+
+Objectif de la gestion de projet ?
+Le triangle d’or
+• Répondre aux objectifs d'affaires en implantant un
+produit de qualité, respectant le budget et l'échéancier
+prévus
+
+Périmètre des projets Informatiques
+1
+6
+• Les projets informatiques portent sur le Développement
+ou la Maintenance d’un système d’information avec des
+composantes :
+– Infrastructure
+– Applicative
+– Humaine
+
+FACTEURS D’UNE STRUCTURE ORGANISATIONNELLE 1/2
+1
+7
+La Gestion de projet
+JP ROBERTI Janv 2022
+ Chaque organisation tient compte de nombreux facteurs à inclure
+dans sa structure. Les facteurs ont chacun leur niveau
+d’importance dans l’analyse finale.
+ L’association du facteur, de sa valeur et de son importance
+relative permet aux décideurs de l’organisation d’obtenir les
+bonnes informations qu’ils intégreront à l’analyse.
+ Les facteurs à prendre en compte lors de la sélection d’une
+structure organisationnelle sont, entre autres :
+ le niveau d’alignement avec les objectifs de l’organisation ;
+ les capacités de spécialisation ;
+ l’efficacité et efficience de l’étendue des responsabilités (ou «
+span of control ») 
+
+ une procédure claire d’escalade des décisions ;
+ une structure et des limites claires de la hiérarchie ;
+ les capacités de délégation ;
+ l’affectation des obligations de rendre compte ;
+ l’affectation des responsabilités ;
+ l’adaptabilité de la conception ;
+ la simplicité de la conception ;
+ l’efficacité des performances ;
+ les considérations de coût ;
+ les lieux physiques (par exemple, regroupés, régionaux et
+virtuels) ;
+ une communication claire (par exemple, les politiques
+internes, l’état d’avancement des travaux et la vision de
+l’organisation)
+Les activités d’un projet informatique de développement
+• Activités d’ingénierie logiciel :
+– Conception
+– Développement
+– Test
+• Activités de gestion :
+– Gestion de projet
+– Gestion des tests
+• Activités support :
+– Assurance de la Qualité
+– Gestion de configuration logiciel
+– Documentation, traduction,
+formation
+– Système, réseaux, base de
+données
+
+Le Plan de conduite du projet = scénario
+22
+• Le scénario du projet dépend de la méthode de
+conduite de projet utilisée qui définit les activités
+d’ingénierie logicielle :
+– Découpage Projet en Phases/étapes/tâches
+• Pour chaque étape : entrée, activités (acteurs/responsabilité),
+sorties (produits), V&V
+– Le cycle de vie
+– Méthode de conception (modélisation)
+• Méthodes de conduite de projet :
+– Merise, SADT
+– RUP
+– RAD
+– XP
+– ....
+
+Normes, méthodes et outils
+• Règles d’ingénierie
+• => qualité technique
+• Méthodes
+• => savoir-faire
+• Outillage
+• => productivité, sécurité
+
+L’Importance du Management de projet
+• Le management de projet est l’application de connaissances, de
+compétences, d’outils et de techniques aux activités d’un projet afin d’en
+satisfaire les exigences. Il s’effectue en appliquant et en intégrant, de
+manière appropriée, les processus de management de projet identifiés
+pour le projet. De plus, il permet aux organisations d’exécuter des projets
+de manière efficace.
+ atteindre les objectifs commerciaux définis ;
+ répondre aux attentes des parties prenantes ;
+ être plus prévisibles ;
+ accroître les chances de succès ;
+ livrer les bons produits au moment opportun ;
+ résoudre les problèmes et points à traiter ;
+ gérer à temps la réponse aux risques ;
+ optimiser l’utilisation des ressources organisationnelles ;
+ identifier, récupérer ou mettre fin aux projets voués à l’échec
+ gérer les contraintes (par exemple, le périmètre, la qualité,
+l’échéancier, les coûts, les ressources) ;
+ mettre en balance l’influence des contraintes sur le projet (par
+exemple, une augmentation du périmètre du projet peut entraîner
+une hausse du coût ou une accélération de l’échéancier) ;
+ mieux gérer les changements.
+Un projet mal géré ou l’absence de management de projet se traduit
+par :
+ des délais non respectés ;
+ des dépassements de coûts ;
+ une mauvaise qualité ;
+ une reprise ;
+ une expansion incontrôlée du projet ;
+ la perte de la réputation de l’organisation ;
+ des parties prenantes non satisfaites ;
+ l’incapacité à atteindre les objectifs du projet.
+ Les projets sont indispensables à la création de valeur et de
+bénéfices pour l’organisation.
+ Dans le monde actuel des affaires, les dirigeants doivent être en
+mesure de gérer leurs activités avec des budgets plus serrés, des
+délais plus courts, des ressources plus limitées et des technologies
+qui évoluent rapidement.
+ Ce monde dynamique connaît des changements accélérés.
+ Pour rester compétitives, les organisations adoptent le
+management de projet afin de créer constamment de la valeur
+commerciale
+
+
+Plan de gestion
+27
+La Gestion de projet
+JP ROBERTI Janv 2022
+ Definition:
+ Un projet est une initiative temporaire entreprise dans le but de
+créer un produit, un service ou un résultat unique.
+ Périmètre:
+ Les projets ont des objectifs définis. Le périmètre est
+progressivement établi tout au long du cycle de vie du projet.
+ Changement:
+ Les chefs de projet s’attendent à ce qu'il y ait des changements
+et mettent en œuvre des processus destinés à les maîtriser.
+ Planification:
+ Les chefs de projet développent progressivement des
+informations de haut niveau dans le cadre de plans détaillés tout
+au long du cycle de vie du projet.
+Plan de gestion (suite)
+28La Gestion de projet
+JP ROBERTI Janv 2022
+ Management:
+ Les chefs de projet managent l’équipe projet en vue d’atteindre
+les objectifs de projet.
+ Suivi:
+ Les chefs de projet maîtrisent le travail de production des
+produits, services ou résultats pour lequel le projet a été
+entrepris.
+ Reussite:
+ La réussite est mesurée par produit et en fonction de la qualité
+du projet, du respect des délais, du respect du budget et du
+degré de satisfaction du client
+
+Maîtrise d'ouvrage MOA
+Maîtrise d'oeuvre MOE
+Insatnce de pilotage
+Organisation projet
+
+Cas de la sous-traitance
+34
+• La MOE peut sous-traiter tout ou partie des tâches de
+réalisation :
+→ Le sous-traitant (ST) devient une MOE Déléguée (MOED)
+→ Si le ST réalise, il devient une MOE de Réalisation (MOER)
+Tendance
+→ In-shore, Near-shore, Off-shore
+→ MOE = acheteur+gestionnaire ST+AMOE
+
+Organisation fonctionnelle de Projet
+Ce schéma de
+responsabilité n'est pas
+figé. Il peut comporter
+plus ou moins de
+structures de
+responsabilités.
+On peut ainsi y adjoindre le cas échéant un comité scientifique, un comité
+d'avancement. La maîtrise d'ouvrage peut se subdiviser en niveaux
+d'intervention ou d'autorité.
+Les acteurs d’un projet informatique MOER
+• Exemple :
+– Activités d’Ingénierie :
+• Architecte fonctionnel/organique
+• Analyste fonctionnel/organique
+• Analyse-programmeur
+• Chargé d’essais
+– Activités Gestion :
+• Direction
+• Directeur de projet
+• Chef de projet
+• Responsable Test
+– Activités support :
+• Responsable Qualité+équipe
+• Responsable GCL+équipe
+• Responsable Système+équipe
+• DBA+équipe
+– Activités diverses :
+• Documentation/traduction, formation
+Activités d’ingénierie logiciel
+38
+• Contribuent directement à la production des livrables
+• Les acteurs ...
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+Architecte
+Analyse
+Choix des évolutions
+Étude des besoins
+Commercialisation
+Étude des besoins
+• Concevoir l'architecture et définir les
+orientations, les principes de
+fonctionnement des logiciels à réaliser
+des produits
+• Définir les normes, méthodes et outils
+• Assurer la veille métier et technologiqu
+• Participer directement aux activités
+d'avant-vente et réaliser les analyses de
+besoins, les travaux d'adéquation, les
+configurations
+• Effectuer les estimations, la rédaction e
+la présentation de proposition
+Analyse et choix des évolutions
+• Définir les stratégies et les plans de
+40
+réalisation, de migration et d'implantati
+de l’application
+• Faire documenter et maintenir à jour les
+spécifications et caractéristiques
+fonctionnelles et technologiques des
+produits, les valider
+Architecte
+Réalisation
+Tests
+Gestion de Projet
+41
+Réalisation
+• Vérifier l'adéquation des travaux effectués
+en faisant appliquer les méthodologies,
+techniques et outils incluant les normes e
+gabarits
+Test
+• Valider les plans de tests (scénarios et
+données ) pour l'ensemble des produits
+développés
+Gestion de Projet
+• Diffuser tous les éléments d'organisation,
+de planification et d'assignation relatifs au
+projets et communiquer régulièrement tou
+les écarts en terme de spécifications, de
+qualité de coûts et de délais
+Analyste
+Réalisation
+Conception
+Conception
+• Analyser les besoins à partir de la pré-
+étude transmise par l’architecte et le
+cahier des charges du client.
+• Analyser l’existant pour déterminer les
+données et les programmes impactés
+par le projet.
+• Modéliser les données et les traitement
+• Définir les spécifications fonctionnelles
+(règles de gestion) des logiciels à
+réaliser.
+Réalisation
+• Réaliser les dossiers fonctionnels
+43
+• Réaliser un dossier organique si besoin
+• Encadrer les analystes programmeurs
+• Assister l’équipe de test en certification
+Analyste-programmeur
+Réalisation
+Conception
+Conception
+• Définir les spécifications organiques
+les algorithmes.
+• Préparer l’environnement de
+développement, gérer les composant
+Réalisation
+• Programmer en respectant les norme
+45
+de développement et en utilisant les
+outils adéquats.
+• Effectuer les tests unitaires
+• Assister l’équipe de test
+Chargé d’essais
+Conception des tests
+Préparation de
+l’environnement de tests
+Tests
+Conception de la stratégie de tests
+et du projet
+fonctionnelles, organiques
+• Prise en compte des exigences du clie
+• Analyse des spécifications
+• Rédaction d’une stratégie de tests :
+Définition des types de tests
+(performance, non régression,
+spécifiques, installation...), de
+l’environnement , du plan de tests
+• Rédaction d’un cahier de recettes
+Préparation de l’environnement des tests
+• Jeux de données
+47
+Disponibilité des machines dédiées au
+tests
+•
+• Intégration des composants, vérificatio
+de la conformité du projet/composants
+(analyseur de code)
+Test du projet
+• Déroulement des scénarios de tests
+• Traitement des anomalies et des DDC
+• Bilan de la campagne de certification
+(Résultats des tests, anomalies,
+traçabilité
+Activités de gestion
+48
+• Les activités de gestion couvrent à l'intérieur d’un
+domaine de responsabilité la fourniture de directives et
+de contrôles administratif et technique à des personnes
+accomplissant des tâches ou des activités.
+– la planification
+– la gestion de ressources
+– l'organisation,
+– la direction
+– le contrôle du travail
+Ð Directives, contrôles
+Ð Activités pouvant être transverses
+• Les acteurs..
+Direction
+50
+• Objectif :
+– Vitalité à long terme de l’organisation
+– Respect des engagements, des coûts de tous les projets
+• Mission :
+– La Direction fournit et protège les ressources essentielles à
+l'amélioration à long terme du processus logiciel
+Activités support
+51
+• Activités représentant une discipline d’ingénierie logiciel
+intervenant dans le support au développement sans en
+être responsable.
+Ð Activités transverses
+Les acteurs...
+Responsable Qualité (RAQ)
+52
+• Fait partie d’un groupe indépendant : le groupe AQL
+• Etablit les plans (PAQL), des normes et des procédures
+qui vont ajouter de la valeur au projet logiciel et satisfaire
+les contraintes du projet et les directives de
+l'organisation.
+• Passe en revue les activités du projet, effectue des
+audits des produits de travail logiciel et des processus
+tout au long du cycle de vie et donne aux gestionnaires
+la vision quant à l'accord du projet logiciel avec ses
+plans, ses normes et ses procédures établis.
+Responsable Gestion de Configuration
+53
+• Peut faire partie d’un groupe
+• Établit les plans (PGCL), l’organisation nécessaire pour
+assurer l’intégrité des produits issus du projet tout au
+long du cycle de vie du logiciel
+• Réalise les activités GCL (fabrication, livraison, revue et
+le reporting)
+Les métiers « infrastructure »
+54
+Les métiers nécessaires au bon fonctionnement des environnements
+informatiques utilisés par le projet.
+Les systèmes
+• Les ordinateurs (PC, petits et grands serveurs), leur système d’exploitation
+et logiciels (outils, langages, etc.)
+Les réseaux
+• Tous les liens qui relient ces systèmes (réseaux locaux, réseaux étendus,
+Internet, Intranet, extranet, sécurité)
+Les bases de données
+• Point central de tout système d’information.
+Ingénieur système
+Administration des
+systèmes
+Architecture et
+conception des
+systèmes
+Connaître les besoins et élaborer les solution
+• Quels systèmes d’exploitation (Windows,
+Unix, Linux, MVS, ...)
+• Combien et quelle taille d’ordinateurs
+(Transactionnel ou infocentre, combien
+d’utilisateurs, fiabilité nécessaire, autres
+contraintes, ...)
+• Quelle taille de données, rapidité demandé
+• Quelles marques
+Administration
+• Assurer les tâches journalières
+• Surveiller le bon fonctionnement
+• Surveiller les évolutions
+• Centraliser les problèmes ... et leurs
+solutions
+• Assurer le support des utilisateurs
+
+Ingénieur réseau
+Administration des
+réseaux
+Architecture et
+conception des réseaux
+Connaître les besoins et élaborer les solution
+• Les réseaux locaux
+• Les réseaux privés étendus
+• Internet
+• La sécurité (Internet et extranet)
+Administration
+• Assurer les tâches journalières
+• Surveiller le bon fonctionnement
+• Surveiller les évolutions
+• Centraliser les problèmes ... et leurs
+solutions
+• Assurer le support des utilisateurs
+
+Administrateur de Base de Données
+Administration des
+bases de données
+Architecture et
+conception des bases
+de données
+Connaître les besoins et élaborer les solution
+• Combien et quelle taille (Transactionnel o
+infocentre, combien d’utilisateurs, fiabilité
+nécessaire, autres contraintes, ...)
+• Disponibilité demandée
+• Découpage et organisation des
+informations
+Administration
+• Assurer les tâches journalières
+• Surveiller le bon fonctionnement
+• Surveiller les évolutions
+• Assurer le support des utilisateurs
+
+Autres activités
+• Documentation
+• Traduction
+• Formation => Ingénierie de formation
+– Le groupe de formation est l'ensemble des personnes
+(gestionnaires et personnel) responsables de la coordination et
+de l'organisation des activités de formation dans une
+organisation. En général, ce groupe prépare et dispense la
+plupart des cours de formation et coordonne l'utilisation d'autres
+outils de formation.
+• Assistance/Support
+
+La place des Informaticiens dans les entreprises
+60
+• Société ayant un service informatique (DSI) :
+– Etudes
+– Exploitation
+– MOA, MOE
+• Société de services en informatique (SSII) :
+– Assistance technique chez les clients
+– Equipes de développement/maintenance (MOE,
+MOER, AMOA)
+• Editeur logiciel :
+– Etudes
+– Exploitation

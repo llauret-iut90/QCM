@@ -1,0 +1,38 @@
+Les dures lois de la Gestion de projet
+•	Peu de projets sont implantés à temps selon le budget et avec les  mêmes ressources qui ont débuté le projet (75%)
+•	Les projets progressent rapidement jusqu’à ce qu’ils soient terminés  à 90%; par la suite, ils demeurent à 90%
+•	Lorsque les choses vont bien, quelque chose ne va pas	Effet  
+•	Lorsque les choses ne peuvent être pires, elles le deviendront  	Tunnel encore plus
+•	Lorsque les choses semblent aller mieux, c’est qu’on a oublié  quelque chose
+•	Si on tolère les changements, le rythme de changement dépassera  le rythme de progrès
+•	Aucun système n’est parfait; toute tentative pour rendre  	Loi de
+	le système parfait ne fera que le détériorer	Murphy
+•	Un projet mal planifié prend trois fois plus de temps que prévu
+•	Un projet bien planifié prend deux fois plus de temps que prévu
+ 
+
+
+(IPD=VA/VP)
+ 
+Exemple de rapport d’activité mensuel du Chef de projet
+• Principaux événements de la période et de la prochaine • Suivi des charges, coûts et planning du projet (au  budget, consommé, reste à faire, écart) • Suivi des Livrables • Situation des exigences client (statut, changements,..) • Situation des risques, des défauts, des incidents,… • Statut de la gestion de configuration des documents et  des librairies (audits de configuration,…) • Revues Assurance de la Qualité • Statut de la formation de l’équipe • Suivi des plans d’actions
+La Gestion de projet
+JP ROBERTI JANV 2021
+ 
+ 
+Exemple de tableau de bord de pilotage de projet
+Gestion des risques
+Type de risque	Catégorie	Description des risques	Probabili té	Importan ce	Poid s	Actions engagées
+Respect des exigences	Etude des besoins	Mauvaise communication lors de l'audit interne	2	5	10	Faire valider les différentes parties du cahier des charges client par les services intéressés
+Respect des exigences	Note de cadrage	Mauvaise communication lors de la rédaction de la note de cadrage	3	4	12	Vérification soutenue de la note de cadrage avant validation défnitive
+Délais	Retard prestataire	Non respect des délais par le prestataire	2	3	6	Préciser les modalités au moment de la signature du contrat avec celui-ci
+Coûts	Absence employé	Absence d'un des membres du comité de pilotage ou d'un utilisateur clé	4	1	4	Transmission des compétences & backup
+Coûts & Délais	Problème réseau	 	1	2	2	Mise en place d'une communication et des journées d'intéractions entre les équipes du prestataire et notre équipe réseau
+Coûts & Délais	Fermeture du prestaire	Dépôt de bilan ou fermeture administrative du prestataire	1	5	5	Choix d'un prestataire fiable et si possible avec qui nous avons déjà travaillé
+Coûts	Mauvaise estimation	Mauvaise estimation des coûts en fonctions des risques	3	5	15	
+Coûts & Délais	Mauvaise estimation	Mauvaise estimation des délais de livraison des différents livrables	2	5	10	
+Evolutivité	Nombre de licence	Pack de licence insuffisant en cas d'évolution de la société	1	2	2	Prévoir un pack de licence large et préciser que le nombre de poste peut évoluer dans le contrat du prestataire
+Respect des exigences	Problème de compatibilité	Mauvaise compatiblité avec le logiciel 
+de CRM	2	4	8	
+Respect des exigences	Importation des données	Mauvaise réintégration des données des clients et des factures de l'ancien logiciel	2	4	8	
+ 

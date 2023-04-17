@@ -1,0 +1,312 @@
+Question 1: Quelle est la methode de selection de tests qui consiste a examiner les bornes des intervalles partitionnant les domaines des variables d'entrees ?
+A. Test combinatoire
+B. Test aux limites
+C. Analyse partitionnelle
+D. Test aleatoire
+Reponse : B
+Question 2: Quelle est la methode de selection de tests qui consiste a generer des tests a partir d'une specification ?
+A. Test aleatoire
+B. Analyse partitionnelle
+C. Generation de tests
+D. Test combinatoire
+Reponse : C
+Question 3: Quels sont les cinq cas de test pour le formulaire d'enregistrement dans l'exemple 1 ?
+A. Login vide
+B. Login existe
+C. Password vide
+D.Toutes les Reponses sont correctes
+Reponse: D 
+Question 4: Dans l'exemple 2, combien de cas de test supplementaires ont ete ajoutes a la specification par rapport a l'exemple 1 ?
+A. 3
+B. 4
+C. 5
+D. 6
+Reponse : B
+Question 5: Quelles sont les methodes de selection de donnees de test pour le test fonctionnel ?
+A. Analyse partitionnelle
+B. Test aux limites
+C. Test combinatoire - Algorithmes Pairwise
+D. Toutes les Reponses sont correctes
+Reponse : D
+Question 6: Quel est le principe du test aux limites ?
+A. On s'interesse aux bornes des intervalles partitionnant les domaines des variables d'entrees.
+B. On calcule les classes d'equivalence pour les domaines de valeurs.
+C. On teste le comportement fonctionnel du logiciel.
+D. On genere des tests a partir d'une specification.
+Reponse : A
+Question 7: Qu'est-ce que le test fonctionnel ?
+A. Un test qui verifie la conformite de l'interface utilisateur avec la specification du logiciel
+B. Un test qui verifie le comportement fonctionnel du logiciel et sa conformite avec la specification du logiciel
+C. Un test qui verifie la performance du logiciel
+D. Un test qui verifie la securite du logiciel
+Reponse: B
+Question 8: Qu'est-ce que le test structurel ?
+A. Une methode de test basee sur l'analyse du code source de l'application pour etablir les tests en fonction de criteres de couverture
+B. Une methode de test basee sur l'analyse du code binaire de l'application pour etablir les tests en fonction de criteres de couverture
+C. Une methode de test basee sur l'analyse des specifications de l'application pour etablir les tests en fonction de criteres de couverture
+D. Une methode de test basee sur l'execution de l'application pour etablir les tests en fonction de criteres de couverture
+Reponse: A
+Question 9: Sur quoi est base le test structurel ?
+A. L'analyse du code source de l'application pour etablir les tests en fonction de criteres de couverture
+B. L'analyse des specifications de l'application pour etablir les tests en fonction de criteres de couverture
+C. L'execution de l'application pour etablir les tests en fonction de criteres de couverture
+D. La creation d'un graphe de controle
+Reponse: A
+Question 10: Qu'est-ce que le graphe de controle ?
+A. Une representation de n'importe quel algorithme permettant de representer les blocs d'instructions et les possibilites de transfert de l'execution d'un bloc a un autre
+B. Une representation de l'ensemble des variables utilisees dans le code source d'une application
+C. Une representation de l'ensemble des structures de donnees utilisees dans le code source d'une application
+D. Une representation de l'ensemble des fonctions utilisees dans le code source d'une application
+Reponse: A
+Question 11: Comment produit-on des jeux de test a partir du graphe de controle ?
+A. On considere les chemins du graphe de controle (tous ou certains suivant le critere de couverture selectionne), on determine des donnees d'entree permettant d'activer ces chemins, puis on execute le programme dans ces configurations.
+B. On considere les structures iteratives dans le graphe de controle, on determine des donnees d'entree permettant d'activer ces structures, puis on execute le programme dans ces configurations.
+C. On considere les structures de decision dans le graphe de controle, on determine des donnees d'entree permettant d'activer ces structures, puis on execute le programme dans ces configurations.
+D. On considere les blocs d'instructions dans le graphe de controle, on determine des donnees d'entree permettant d'activer ces blocs, puis on execute le programme dans ces configurations.
+Reponse: A
+Question 12: Qu'est-ce que la production de test s'appuie generalement ?
+A. Une analyse du programme
+B. Une analyse des specifications
+C. Une analyse des resultats de test precedents
+D. Aucune des reponses ci-dessus
+Reponse: A
+Question 13: Quel type de test est base sur une analyse du code source ?
+A. Test fonctionnel (black-box)
+B. Test structurel (white-box)
+C. Test de validation
+D. Aucune des reponses ci-dessus
+Reponse: B
+Question 14: Que signifie le verdict "Inconclusive" lors du depouillement des resultats de test ?
+A. Les resultats de test ont echoue
+B. Les resultats de test ont reussi
+C. Les resultats de test ne peuvent pas etre determines de maniere concluante
+D. Aucune des reponses ci-dessus
+Reponse: C
+Question 15: Quel est le niveau de test qui teste les procedures, les modules et les composants ?
+A. Tests unitaires
+B. Tests d'integration
+C. Tests systeme
+D. Aucune des reponses ci-dessus
+Reponse: A
+Question 16: Qu'est-ce qui rend le test exhaustif en general impossible a realiser ?
+A. La forte explosion combinatoire lors du parcours du graphe de flot de controle en test structurel
+B. La grande taille de l'ensemble des donnees d'entree en test fonctionnel
+C. Les deux reponses ci-dessus
+D. Aucune des reponses ci-dessus
+Reponse: C
+Question 17: Qu'est-ce que le test logiciel ?
+A. L'evaluation d'un systeme par des moyens manuels et automatiques pour verifier s'il repond a ses specifications
+B. La correction de bugs et d'anomalies dans un logiciel
+C. La conception de logiciels de test pour automatiser les tests d'un logiciel existant
+D. L'examen du code source d'un logiciel pour en deceler les erreurs potentielles
+Reponse: A
+Question 18: Pourquoi est-il important de tester les logiciels ?
+A. Pour augmenter la complexite des architectures et des comportements
+B. Pour economiser de l'argent
+C. Pour verifier que le logiciel offre les services attendus
+D. Pour creer une culture constructive dans l'entreprise
+Reponse: B
+Question 19: Qu'est-ce que la validation et la verification (V & V) ?
+A. Un moyen de valider le comportement d'un programme au cours de son execution
+B. La revue de code, de specifications et de documents de design
+C. L'execution ou l'evaluation d'un systeme ou d'un composant pour verifier qu'il repond a ses specifications
+D. L'execution effective du logiciel pour un sous-ensemble bien choisi du domaine de ses entrees possibles
+Reponse: C
+Question 20: Quelles sont les methodes de test ?
+A. Test statique et test dynamique
+B. Test de performance et test de securite
+C. Test de compatibilite et test d'integration
+D. Test unitaire et test fonctionnel
+Reponse: A
+Question 21: Quels sont les avantages et les inconvenients des methodes de test statiques ?
+A. Avantages: efficaces et peu couteuses; Inconvenients: ne permettent pas de valider le comportement d'un programme au cours de son execution
+B. Avantages: permettent de valider le comportement d'un programme au cours de son execution; Inconvenients: couteuses
+C. Avantages: detectent jusqu'a 95% des erreurs lors des controles statiques; Inconvenients: peu efficaces
+D. Avantages: peu couteuses; Inconvenients: ne detectent pas les erreurs dans le code source
+Reponse: A
+Question 22: Quel est le principe des methodes de test dynamique ?
+A. Executer le programme sur un ensemble fini de donnees d'entrees
+B. Controler la correction des valeurs de sortie en fonction de ce qui est attendu
+C. Les deux reponses precedentes sont correctes
+D. Les methodes de test dynamique ne consistent pas a executer le programme sur un ensemble fini de donnees d'entrees
+Reponse: C
+Question 23: Quelles sont les deux techniques de test dynamique ?
+A. Test structurel et test de performance
+B. Test structurel et test fonctionnel
+C. Test de charge et test de stress
+D. Test de compatibilite et test de securite
+Reponse: B
+Question 24: Quels sont les quatre niveaux complementaires du test dynamique ?
+A. Test d'acceptation, test de systeme global, test d'integration des composants et test de performance
+B. Test de composants, test de systeme global, test de charge et test d'acceptation
+C. Test de composants, test d'integration des composants, test du systeme global et test d'acceptation
+D. Test de compatibilite, test de securite, test d'integration des composants et test de systeme global
+Reponse: C
+Question 25: Qu'est-ce que le test structurel ?
+A. Un test base sur l'execution du programme a tester
+B. Un test base sur l'analyse des specifications
+C. Un test base sur l'analyse du code source de l'application
+D. Un test base sur l'analyse des resultats de tests precedents
+Reponse: C
+Question 26: Qu'est-ce que le graphe de controle ?
+A. Un graphe permettant de representer n'importe quel algorithme
+B. Un graphe permettant de representer les specifications d'un programme
+C. Un graphe permettant de representer les resultats de tests precedents
+D. Un graphe permettant de representer l'execution d'un programme sur un ensemble fini de donnees d'entrees
+Reponse: A
+Question 27: Sur quoi se basent les criteres de couverture du test structurel ?
+A. Les specifications du programme
+B. Le graphe de controle
+C. Les resultats de tests precedents
+D. L'ensemble des donnees d'entrees possibles
+Reponse: B
+Question 28: Que representent les nœuds dans le graphe de controle ?
+A. Les definitions de variables
+B. Les blocs d'instructions
+C. Les utilisations de variables
+D. Les resultats attendus
+Reponse: B
+Question 29: Combien d'entree et de sortie possede le graphe de controle ?
+A. Une seule entree et une seule sortie
+B. Une seule entree et plusieurs sorties
+C. Plusieurs entrees et une seule sortie
+D. Plusieurs entrees et plusieurs sorties
+Reponse: A
+Question 30: Quelles sont les methodes de selection des donnees de tests ?
+A. Analyse partitionnelle, test aux limites, test combinatoire, test aleatoire, generation de tests a partir d'une specification.
+B. Analyse partitionnelle, test de performance, test d'interface utilisateur, test de securite, test d'integration.
+C. Test de compatibilite, test de regulation, test d'installation, test de documentation, test d'utilisabilite.
+D. Test de charge, test de stress, test de volume, test de regression, test de maintenance.
+Reponse: A
+Question 31: Qu'est-ce que l'analyse partitionnelle ?
+A. Une methode de selection de donnees de tests.
+B. Une methode basee sur le graphe de controle.
+C. Une methode visant a examiner le comportement fonctionnel du logiciel.
+D. Une methode pour calculer des classes d'equivalence sur les domaines de valeurs des donnees d'entree.
+Reponse: D
+Question 32: Quelles regles de partitionnement doit-on suivre pour une donnee appartenant a un intervalle ?
+A. Construire une classe pour les valeurs inferieures, une classe pour les valeurs superieures, n classes valides.
+B. Construire une classe avec l'ensemble vide, une classe avec trop de valeurs, n classes valides.
+C. Construire une classe avec la contrainte respectee, une classe avec la contrainte non-respectee.
+D. Toutes les reponses sont correctes.
+Reponse: A
+Question 33: Comment doit-on produire un cas de test pour un fichier d'entree contenant 1-255 records ?
+A. Produire un cas de test pour 0, 1, 255 et 256 records.
+B. Produire un cas de test pour 0, 1 et 255 records.
+C. Produire un cas de test pour 1, 254 et 255 records.
+D. Produire un cas de test pour 1, 255 et 256 records.
+Reponse: A
+Question 34: Qu'est-ce que l'analyse partitionnelle ?
+A. Une methode pour augmenter le nombre de cas de test en calculant des classes d'equivalence
+B. Une methode pour diminuer le nombre de cas de test en calculant des classes d'equivalence
+C. Une methode pour analyser les resultats des tests
+D. Une methode pour determiner les limites des donnees d'entree
+Reponse: B
+Question 35: Quel est l'inconvenient du test aux limites ?
+A. Il ne permet pas de caracteriser la couverture de test
+B. Il ne permet pas de produire des cas de test nominaux
+C. Il ne couvre pas l'ensemble des types de test
+D. Il ne permet pas d'examiner le comportement du programme aux valeurs limites
+Reponse: A
+Question 36: Qu'est-ce que le test aux limites produit ?
+A. Des cas de test nominaux uniquement
+B. Des cas de test de robustesse uniquement
+C. Des cas de test nominaux et de robustesse
+D. Des cas de test d'erreur
+Reponse: C
+Question 37: Quel est l'objectif de la methode pour le test combinatoire ?
+A. Reduire le nombre de cas de test en calculant des classes d'equivalence
+B. Augmenter le nombre de cas de test en calculant des classes d'equivalence
+C. Limiter le nombre de combinaisons de valeurs de domaines d'entree
+D. Permettre d'examiner le comportement du programme aux valeurs limites
+Reponse: C
+Question 38: Quel est l'avantage de la methode de test combinatoire ?
+A. Elle permet de couvrir l'ensemble des types de test
+B. Elle permet de produire des cas de test de robustesse
+C. Elle permet de caracteriser la couverture de test
+D. Elle permet d'augmenter le nombre de combinaisons de valeurs de domaines d'entree
+Reponse: C
+Question 39: Comment est defini le critere tous-les-noeuds ?
+A. Chaque noeud est atteint par au moins l'un des chemins qui constituent le jeu de tests
+B. Chaque arc est atteint par au moins l'un des chemins qui constituent le jeu de tests
+C. Tous les chemins sont atteints par le jeu de tests
+D. Les valeurs de verite pour chaque nœud de decision ont ete couvertes
+Reponse : A
+Question 40: Comment est defini le critere tous-les-arcs ?
+A. La couverture de tous-les-arcs equivaut a la couverture de toutes les valeurs de verite pour chaque nœud de decision
+B. Chaque noeud est atteint par au moins l'un des chemins qui constituent le jeu de tests
+C. Tous les chemins sont atteints par le jeu de tests
+D. Tous les enchainements constitues uniquement d'un arc sont couverts par le jeu de tests
+Reponse : A
+Question 41: Quel est le taux de couverture pour le critere tous-les-arcs ?
+A. nb d'arcs couverts / nb total d'arcs
+B. nb de nœuds couverts / nb total de nœuds
+C. nb de chemins couverts / nb total de chemins
+D. nb de decisions couvertes / nb total de decisions
+Reponse : A
+Question 42: Quelles sont les limites du critere tous-les-arcs ?
+A. Pas de detection d'erreurs en cas de non-execution d'une boucle
+B. Pas de detection d'erreurs en cas d'execution partielle d'une boucle
+C. Pas de detection d'erreurs dans les decisions conditionnelles
+D. Pas de detection d'erreurs dans les appels de fonction
+Reponse : A
+Question 43: Quel est le nombre de conditions elementaires necessaire pour calculer le nombre de chemins independants d'un graphe G ?
+A. Le nombre maximal d'iterations possibles
+B. Le nombre de McCabe
+C. Le nombre de chemins limites et interieurs
+D. Le nombre de chemins possibles passant de 0 a i fois dans chaque boucle du graphe de controle
+Reponse: B
+Question 44: Quel critere base sur le graphe de controle vise a parcourir tous les arcs dans chaque configuration possible (et non pas au moins une fois comme dans le critere tous-les-arcs) ?
+A. Tous-les-chemins
+B. Tous-les-i-chemins
+C. Tous-les-chemins-independants
+D. Tous-les-arcs
+Reponse: C
+Question 45: Quel critere base sur le graphe de controle est rarement envisageable sur des applications meme modestes en raison de l'explosion du nombre de donnees de test necessaires ?
+A. Tous-les-arcs
+B. Tous-les-nœuds
+C. Tous-les-i-chemins
+D. Tous-les-chemins
+Reponse: D
+Question 46: Comment est represente le flot de donnees en annotant le graphe de controle par certaines informations sur les manipulations de variables par le programme ?
+A. En indiquant les valeurs des variables
+B. En definissant les variables, utilisant, ou modifiant
+C. En faisant des pates
+D. En modifiant les constantes
+Reponse: B
+Question 47: Si une variable est utilisee dans le predicat d'une instruction de decision (if, while, etc...), de quoi s'agit-il ?
+A. D'une p-utilisation
+B. D'une c-utilisation
+C. D'une definition de variable
+D. D'une utilisation de variable
+Reponse: A
+Question 48: Quels sont les criteres de couverture possibles sur le flot de donnees?
+A. Toutes les definitions, toutes les utilisations, tous les DU-chemins
+B. Tous les nœuds, tous les arcs, tous les chemins
+C. Toutes les boucles, tous les i-chemins, toutes les conditions
+D. Toutes les instructions, toutes les fonctions, toutes les classes
+Reponse: A
+Question 49: Qu'est-ce que le critere de couverture toutes-les-definitions?
+A. Couvrir tous les arcs du graphe de controle
+B. Couvrir toutes les boucles du graphe de controle
+C. Couvrir toutes les definitions de variables dans les tests
+D. Couvrir toutes les utilisations de variables dans les tests
+Reponse: C
+Question 50: Qu'est-ce que le critere de couverture tous-les-DU-chemins?
+A. Couvrir tous les arcs du graphe de controle
+B. Couvrir tous les chemins possibles entre la definition et la reference d'une variable
+C. Couvrir toutes les boucles du graphe de controle
+D. Couvrir toutes les instructions de tests du graphe de controle
+Reponse: B
+Question 51: Qu'est-ce qu'une p-utilisation d'une variable?
+A. L'utilisation de la variable dans une instruction de lecture
+B. L'utilisation de la variable dans une condition dans une instruction de decision
+C. L'utilisation de la variable dans une instruction d'ecriture
+D. L'utilisation de la variable dans un calcul
+Reponse: B
+Question 52: Quel est le critere de couverture le plus fort base sur le graphe de controle?
+A. Tous-les-chemins
+B. Tous-les-arcs (TER2)
+C. Tous-les-nœuds
+D. Tous-les-i-chemins
+Reponse: A
