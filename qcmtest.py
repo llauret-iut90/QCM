@@ -8,8 +8,10 @@ colorama.init()
 # effacer le terminal
 os.system('cls' if os.name == 'nt' else 'clear')
 
+# initialisation des variables
 num_questions = 1
 lines = []
+
 while True:
     cours = input("Choissisez le cours :" + Fore.GREEN + "1 [GestionProjet]"+ Style.RESET_ALL + Fore.RED + "2 [QualiteDev] " + Style.RESET_ALL + Fore.BLUE + "3 [ProgObj]" + Style.RESET_ALL + " : ")
     if cours in ['1', '2','3']:
@@ -43,8 +45,48 @@ else:
 
 # initialisation du score
 score = 0
+print(''''
+                                                                                
+                            /.                     &                            
+                            @#                    */(                           
+                           #@ *                   @/(                           
+                           @@ &                  (@/ *                          
+                          /@@ ,.        #        @@/ @                          
+                          &@@  #       @*        @@/ #                          
+                          @@@  @      ,@.@      ,@@/ .*                         
+                          @@@  #      %@.,.     (@@/  #                         
+                          @@@  (      @@. (     &@@/  %                         
+                          @@@  /      @@. &     @@@/  &                         
+                         ,@@@  *.    ,@@. #     @@@/  @                         
+                         /@@@  ., ,, /@@. /  @  @@@/  %                         
+                         (@@@   ( @@ /@@. / .@/ @@@/  (                         
+                         %@@@  &@,@@ /@@. * %@@ @@@/ .@                         
+                        #@& **.&@# &((@@. * @*.&@% @ (@&,                       
+                       @@@@@,*@@@@@ @@@@, *@((@@@@@ @@@@@@                      
+                           &@@*  &@%@&@@, *(@&@,  @@@.                          
+                          #@@@@(     &@@, /  .   @@@@@                          
+                           @@ %@  (@@@. @ (@@@. @@ #@(                          
+                  @@@@@.    @@/ @@/  &@% @@,  &@( @@*    #@@@@#                 
+                @ #@@@ @@@%   @@@  &@ @@@@/*@* ,@@(   @@@& @@@ //               
+                 @ @@@ @@@@  /@@.%@@@ &@@@*,@@@/%@@  ,@@@& @@% @                
+             @@@@& @@@% @@@ &@@(    %@@@@@@%,    @@@,,@@( @@@& &*.//            
+          #@@@@. ,@@@@@@( @& /&, .    .@@@     . #% .@# @@@@@@@@,    %.         
+       *@@&.    *&.   /@@@.(@@@@@@@ @@@@@@@@*,@@@@@@@ #@@@.   &@@@@@&.  %       
+     @& .@@,            ,@@ @@@@@@@@@@ @@@ @@@@@@@@@%.@@             (@@@% &    
+  %/                  &@@@# @@@@@@@@@@* & &@@@@@@@@@@  /%@,                 .%/ 
+                     %@@@,  %        %@@ @@.       (@@,   (                     
+                    ,@@@    #       (@@@.  %.       @@@@   %                    
+                    @@%  ,*         @@@@.   ,         &@@*  &                   
+                   @@. (.           .@@@.  &            #@@  #                  
+                  @@ &               &@@.  .              (@/ .                 
+                 #/&                  @@. %                 ,@.                 
+                .%                    %@. ,                    @                
+                                      .@.@                                      
+                                       @*                                       
+                                        %                                       
+                                               
+''')
 print(Style.BRIGHT + Fore.RED + "Bienvenue dans le QCM !" + Style.RESET_ALL)
-
 # choix du mode de sélection des questions
 while True:
     mode = input("Voulez-vous sélectionner les questions de manière aléatoire ? (o/n) : ")
