@@ -166,3 +166,573 @@ B. @author
 C. @see
 D. @param
 Reponse: A
+Question 29: Quel est l'interet de communiquer des objets a une methode ?
+A. Pour creer des objets
+B. Pour retourner plusieurs resultats
+C. Pour utiliser des objets autres que l'objet courant dans une methode
+D. Pour initialiser des objets
+Reponse: C
+Question 30: Quel est le but d'une methode retournant un objet ?
+A. Creer et retourner un objet
+B. Initialiser un objet
+C. Comparer des objets
+D. Supprimer un objet
+Reponse: A
+Question 31: Comment peut-on retourner un objet dans une methode ?
+A. En declarant une reference pour l'objet et en la retournant
+B. En creant un objet dans la methode et en retournant la reference fournie par new
+C. En creant un objet dans la methode et en le retournant directement
+D. En declarant un objet contenant les resultats et en retournant sa reference
+Reponse: B
+Question 32: Comment peut-on creer un objet compose ?
+A. En definissant un objet contenant d'autres objets
+B. En initialisant un objet
+C. En creant plusieurs objets sans les associer
+D. En definissant un objet contenant plusieurs methodes
+Reponse: A
+Question 33: Comment peut-on creer et initialiser des objets composes de type Triangle et PointPlan ?
+A. Le triangle cree les sommets
+B. Les sommets sont d'abord crees en dehors du triangle
+C. En creant un objet avec plusieurs methodes
+D. En initialisant un objet Triangle sans definir les sommets
+Reponse: B
+Question 34: Qu'est-ce que l'agregation en programmation orientee objet?
+A. Lorsqu'un attribut d'une classe peut etre un objet instance d'une autre classe
+B. Lorsqu'un objet est partage entre differents elements
+C. Lorsqu'un element peut exister independamment de son conteneur
+D. Lorsqu'un seul element ne peut appartenir qu'a une seule composition
+Reponse: A
+Question 35: Comment est reference l'element agrege dans le conteneur selon la cardinalite en UML?
+A. Par une variable simple
+B. Par un tableau
+C. Par une liste
+D. Par un dictionnaire
+Reponse: B
+Question 36: Comment est representee la composition en UML?
+A. Par une variable simple
+B. Par un tableau
+C. Par une liste
+D. En creant les elements composes dans le constructeur du conteneur
+Reponse: D
+Question 37: Qu'est-ce que la surcharge d'une methode?
+A. Lorsqu'une methode existe en plusieurs exemplaires de signatures differentes au sein d'une classe
+B. Lorsqu'une methode a une seule signature
+C. Lorsqu'une methode ne prend pas de parametres
+D. Lorsqu'une methode n'a qu'un seul parametre
+Reponse: A
+Question 38: Quelle est la difference entre la composition et l'agregation?
+A. La composition est plus contraignante pour le contenu et la suppression du conteneur entraine la suppression du contenu, tandis que l'element agrege peut exister independamment de son conteneur
+B. La composition est plus souple pour le contenu et la suppression du conteneur n'entraine pas la suppression du contenu, tandis que l'element agrege ne peut exister independamment de son conteneur
+C. La composition et l'agregation sont identiques
+D. La composition est utilisee pour les classes et l'agregation pour les interfaces
+Reponse: A
+Question 39: Combien de constructeurs differents une classe peut-elle contenir ?
+A. 1
+B. 2
+C. Plusieurs
+D. Aucun
+Reponse: C
+Question 40: Comment peut-on appeler un autre constructeur de la meme classe a partir d'un constructeur ?
+A. En utilisant that(...)
+B. En utilisant super(...)
+C. En utilisant self(...)
+D. En utilisant this(...)
+Reponse: D
+Question 41: Quel constructeur de la classe PointPlan effectue les initialisations grace a this(...) ?
+A. PointPlan()
+B. PointPlan(float x, float y)
+C. Aucun des deux
+D. Les deux
+Reponse: B
+Question 42: Quelle methode permet de savoir si deux chaines de caracteres ont la meme sequence de caracteres ?
+A. compareTo(String s)
+B. equals(String s)
+C. length()
+D. Aucune des methodes ci-dessus
+Reponse: B
+Question 43: Quelle methode permet de connaitre le nombre de caracteres contenus dans une chaine de caracteres ?
+A. compareTo(String s)
+B. equals(String s)
+C. length()
+D. Aucune des methodes ci-dessus
+Reponse: C
+Question 44: À quoi sert la classe String?
+A. Elle permet de gerer des entiers
+B. Elle permet de gerer des chaines de caracteres
+C. Elle permet de gerer des tableaux
+D. Elle permet de gerer des objets
+Reponse: B
+Question 45: Comment compare-t-on deux chaines de caracteres en Java?
+A. En utilisant l'operateur ==
+B. En utilisant la methode equals()
+C. En utilisant la methode toString()
+D. En utilisant l'operateur !=
+Reponse: B
+Question 46: Quelle est la methode qui est implicitement appelee lorsqu'une variable-reference apparait en argument de System.out.println(...) ou dans une concatenation?
+A. La methode compare()
+B. La methode toString()
+C. La methode equals()
+D. La methode length()
+Reponse: B
+Question 47: Que retourne la methode toString() de la classe Object si elle n'est pas redefinie dans une autre classe?
+A. Une chaine de caracteres vide
+B. Une erreur de compilation
+C. Le nom de la classe concernee et l'adresse de l'objet en hexadecimal
+D. La valeur null
+Reponse: C
+Question 48: Pourquoi est-il necessaire de redefinir la methode toString() dans chaque classe?
+A. Pour pouvoir comparer deux objets de la meme classe
+B. Pour pouvoir creer des tableaux d'objets de la meme classe
+C. Pour pouvoir afficher le contenu d'un objet de maniere lisible
+D. Pour pouvoir acceder aux methodes de la classe Object
+Reponse: C
+Question 49: Qu'est-ce qu'une constante en programmation objet?
+A. Une variable modifiable
+B. Une variable non modifiable
+C. Une methode de classe
+D. Une variable d'instance
+Reponse: B
+Question 50: Comment declare-t-on une variable de classe?
+A. En utilisant le mot cle final
+B. En utilisant le mot cle static
+C. En utilisant le mot cle public
+D. En utilisant le mot cle private
+Reponse: B
+Question 51: Combien d'exemplaires existe-t-il pour une variable de classe?
+A. 0
+B. 1
+C. Autant qu'il y a d'instances (objets)
+D. Indefini
+Reponse: B
+Question 52: Comment peut-on acceder a une variable de classe?
+A. En creant une instance de la classe
+B. En utilisant le mot cle final
+C. En utilisant le mot cle static
+D. En utilisant le mot cle public
+Reponse: C
+Question 53: Qu'est-ce qu'une methode de classe?
+A. Une methode qui s'applique a un objet
+B. Une methode qui decrit une propriete d'une instance (objet)
+C. Une methode qui ne s'applique pas a un objet
+D. Une methode qui est liee a un objet courant
+Reponse: C
+Question 54: Qu'est-ce qu'un tableau en programmation objet ?
+A. Une structure de donnees contenant un ensemble d'elements de meme type
+B. Une structure de donnees contenant un ensemble d'elements de types differents
+C. Une structure de donnees contenant un ensemble d'elements de type primitif
+D. Une structure de donnees contenant un ensemble de references sur des objets de types differents
+Reponse: A
+Question 55: Comment est localisee chaque valeur dans un tableau en Java ?
+A. Par un index numerique
+B. Par un nom de variable
+C. Par une reference sur un objet
+D. Par une adresse memoire
+Reponse: D
+Question 56: Comment creer et initialiser un tableau de type int en Java ?
+A. Creer le tableau avec new int[]; puis initialiser chaque element avec une boucle
+B. Definir une variable reference sur le futur tableau, creer le tableau avec new int[]; puis initialiser chaque element avec une boucle
+C. Definir une variable reference sur le futur tableau, creer le tableau avec new int[]; puis initialiser chaque element avec une valeur predefinie
+D. Creer le tableau avec new int[]; puis initialiser chaque element avec une valeur predefinie
+Reponse: B
+Question 57: Qu'est-ce qu'un tableau dynamique en Java ?
+A. Un tableau qui ne peut pas etre modifie apres sa creation
+B. Un tableau qui peut etre modifie apres sa creation, mais uniquement en taille
+C. Un tableau qui peut etre modifie apres sa creation, en taille et en contenu
+D. Un tableau qui est initialise automatiquement par le compilateur
+Reponse: C
+Question 58: Comment peut-on creer un tableau de type int dont le nombre d'elements n'est pas connu a priori ?
+A. En creant un tableau de type Object et en le convertissant en tableau de type int
+B. En creant un tableau de type Integer et en le convertissant en tableau de type int
+C. En creant un tableau de type int[] sans specifier le nombre d'elements
+D. En creant un tableau de type int[] avec une taille minimale et en ajoutant des elements au fur et a mesure
+Reponse: C
+Question 59: Qu'est-ce qu'un tableau de variables-references ?
+A. Un tableau qui contient des references sur des objets/instances
+B. Un tableau qui contient des valeurs predefinies
+C. Un tableau qui contient des valeurs aleatoires
+D. Un tableau qui contient des references sur des types primitifs
+Reponse: A
+Question 60: Comment cree-t-on un tableau de PointPlan contenant 3 variables-references ?
+A. PointPlan[] t ; t = new PointPlan[3] ;
+B. PointPlan[] t ; t = new PointPlan(3) ;
+C. PointPlan[] t = new PointPlan[3] ;
+D. PointPlan t[] = new PointPlan[3] ;
+Reponse: A
+Question 61: Comment initialiser un tableau de PointPlan avec des objets de type PointPlan ?
+A. En affectant chaque variable-reference avec la reference d'un objet de type PointPlan
+B. En utilisant des valeurs predefinies
+C. En utilisant des valeurs aleatoires
+D. En affectant chaque variable-reference avec la reference d'un objet de type String
+Reponse: A
+Question 62: Comment peut-on utiliser chaque reference d'un tableau de PointPlan pour acceder a un objet de type PointPlan ?
+A. En utilisant les methodes de l'objet PointPlan
+B. En utilisant des valeurs predefinies
+C. En utilisant des valeurs aleatoires
+D. En utilisant les methodes de l'objet String
+Reponse: A
+Question 63: Comment peut-on passer un tableau a une methode ?
+A. En fournissant la reference du tableau a la methode
+B. En fournissant une copie du tableau a la methode
+C. En fournissant une valeur predefinie a la methode
+D. En fournissant une valeur aleatoire a la methode
+Reponse: A
+Question 64: Qu'est-ce que l'heritage en programmation objet ?
+A. Une technique permettant de creer des classes plus specifiques a partir de classes existantes.
+B. Une technique permettant de retirer des fonctionnalites d'une classe existante.
+C. Une technique permettant de creer des classes plus generales a partir de classes existantes.
+D. Une technique permettant de reutiliser du code provenant de differentes sources.
+Reponse: A
+Question 65: Comment cree-t-on un objet d'une classe etendue/heritee ?
+A. En utilisant la methode "new" de la classe mere.
+B. En utilisant la methode "new" de la classe fille.
+C. En utilisant la methode "create" de la classe mere.
+D. En utilisant la methode "create" de la classe fille.
+Reponse: B
+Question 66: Comment invoque-t-on des methodes d'une classe etendue ?
+A. En utilisant la methode "super" pour acceder aux methodes de la classe mere.
+B. En utilisant la methode "this" pour acceder aux methodes de la classe fille.
+C. En utilisant la methode "parent" pour acceder aux methodes de la classe mere.
+D. En utilisant la methode "child" pour acceder aux methodes de la classe fille.
+Reponse: A
+Question 67: Qu'est-ce que l'acces protege (protected) ?
+A. Un niveau d'acces qui permet de rendre les membres d'une classe accessibles uniquement aux classes dans le meme package.
+B. Un niveau d'acces qui permet de rendre les membres d'une classe accessibles a toutes les classes.
+C. Un niveau d'acces qui permet de rendre les membres d'une classe accessibles uniquement aux sous-classes.
+D. Un niveau d'acces qui permet de rendre les membres d'une classe accessibles uniquement aux classes dans le meme package et aux sous-classes.
+Reponse: D
+Question 68: Quel est l'interet principal de l'heritage en programmation objet ?
+A. La reutilisation et la factorisation de code.
+B. La creation de classes plus specifiques a partir de classes existantes.
+C. La creation de classes plus generales a partir de classes existantes.
+D. La creation de classes a partir de zero, sans utiliser de code existant.
+Reponse: A
+Question 69: Combien de classes peuvent heriter d'une meme classe en Java?
+A. Une seule
+B. Deux
+C. Plusieurs
+D. Aucune
+Reponse: C
+Question 70: Peut-on heriter d'une classe qui est precedee du mot-cle final en Java?
+A. Oui
+B. Non
+C. Parfois
+D. Depend de la methode utilisee
+Reponse: B
+Question 71: Quelles sont les variables contenues dans un objet (instance) d'une classe etendue en Java?
+A. Les variables d'instance heritees seulement
+B. Les variables d'instance specifiques seulement
+C. Les variables d'instance heritees et specifiques
+D. Aucune reponse n'est correcte
+Reponse: C
+Question 72: Comment sont initialisees les variables d'instances heritees dans une classe etendue en Java?
+A. Elles ne sont pas initialisees
+B. Elles sont initialisees par un constructeur de la classe mere
+C. Elles sont initialisees par un constructeur de la classe etendue
+D. Depend de la methode utilisee
+Reponse: B
+Question 73: Comment est choisi le constructeur de la classe mere lorsqu'il est invoque dans une classe etendue en Java?
+A. Il n'est pas choisi, il est toujours le meme
+B. Il est choisi en fonction de son nom
+C. Il est choisi en fonction de sa signature
+D. Depend de la methode utilisee
+Reponse: C
+Question 74: Qu'est-ce que la surcharge de methode ?
+A. Écrire une methode de meme nom mais de signature differente
+B. Écrire une methode de meme nom et de meme signature
+C. Écrire une methode avec un nom different mais de signature identique
+D. Aucune de ces reponses
+Reponse: A
+Question 75: Quelle est la difference entre la surcharge et la redefinition de methode ?
+A. La surcharge consiste a ecrire une methode de meme nom mais de signature differente, tandis que la redefinition consiste a ecrire une methode de meme nom et de meme signature
+B. La surcharge consiste a ecrire une methode de meme nom et de meme signature, tandis que la redefinition consiste a ecrire une methode de meme nom mais de signature differente
+C. Il n'y a pas de difference entre la surcharge et la redefinition de methode
+D. Aucune de ces reponses
+Reponse: A
+Question 76: Comment appelle-t-on le fait d'ecrire une methode specifique de meme signature qu'une methode heritee ?
+A. La surcharge de methode
+B. La redefinition de methode
+C. L'extension de methode
+D. Aucune de ces reponses
+Reponse: B
+Question 77: Comment appelle-t-on le fait d'etendre une classe pour simplement redefinir certaines de ses methodes ?
+A. La surcharge de methode
+B. La redefinition de methode
+C. L'extension de methode
+D. Aucune de ces reponses
+Reponse: C
+Question 78: Quel est l'acces d'un membre (variable ou methode) d'une classe X ayant l'acces protected ?
+A. Publique depuis toute classe descendant de X et depuis toute classe situee dans le meme paquetage que X
+B. Publique depuis toute classe descendant de X, mais prive dans tous les autres cas
+C. Prive dans tous les cas
+D. Aucune de ces reponses
+Reponse: A
+Question 79: Comment peut-on definir l'heritage en programmation orientee objet ?
+A. En etablissant un ordre total entre les classes
+B. En etablissant un ordre partiel entre les classes
+C. En etablissant une hierarchie de classes non connectees
+D. En etablissant des classes independantes les unes des autres
+Reponse: B
+Question 80: Dans une hierarchie de classes, que signifie le terme "descendant" ?
+A. Une classe qui a ete creee avant une autre classe
+B. Une classe qui herite directement d'une autre classe
+C. Une classe qui herite indirectement d'une autre classe
+D. Une classe qui est incompatible avec une autre classe
+Reponse: C
+Question 81: Quelle est la relation entre une instance d'une classe et tous ses ascendants ?
+A. Une instance d'une classe n'est jamais instance de ses ascendants
+B. Une instance d'une classe est toujours instance de tous ses ascendants
+C. Une instance d'une classe est parfois instance de certains de ses ascendants
+D. Il n'y a aucune relation entre une instance d'une classe et ses ascendants
+Reponse: B
+Question 82: Comment peut-on verifier si une variable reference une instance d'une certaine classe en Java ?
+A. Avec la methode "referenceof"
+B. Avec la methode "instanceof"
+C. Avec la methode "typecheck"
+D. Avec la methode "classof"
+Reponse: B
+Question 83: Quelle est la regle pour la compatibilite entre une classe descendante et son ascendant ?
+A. Une classe descendante est toujours incompatible avec son ascendant
+B. Une classe descendante est compatible avec son ascendant seulement si elle herite directement de lui
+C. Une classe descendante est compatible avec son ascendant dans tous les cas
+D. Une classe descendante est compatible avec son ascendant seulement si elle ne contient pas de methodes supplementaires
+Reponse: C
+Question 84: Qu'est-ce que l'heritage definit entre les classes ?
+A. Un ordre partiel
+B. Une egalite
+C. Une incompatibilite
+D. Une hierarchie
+Reponse: A
+Question 85: Que retourne l'operateur instanceof ?
+A. true si la variable reference une instance de la classe donnee, false sinon
+B. false si la variable reference une instance de la classe donnee, true sinon
+C. true si la variable reference une instance de toutes les classes ascendants, false sinon
+D. false si la variable reference une instance de toutes les classes ascendants, true sinon
+Reponse: A
+Question 86: Quelle est la priorite de l'operateur de cast par rapport a l'operateur "." ?
+A. L'operateur de cast est plus prioritaire que l'operateur "."
+B. L'operateur de cast est moins prioritaire que l'operateur "."
+C. Il n'y a pas de priorite entre l'operateur de cast et l'operateur "."
+D. L'operateur de cast et l'operateur "." ont une priorite equivalente.
+Reponse: B
+Question 87: Quelle est la regle pour la compatibilite entre une classe descendante A et une classe ascendante B ?
+A. On peut toujours fournir une reference sur A quand on attend une reference sur B
+B. On peut toujours fournir une reference sur B quand on attend une reference sur A
+C. A et B sont incompatibles, on ne peut pas fournir une reference sur l'un la où on attend une reference sur l'autre.
+D. La compatibilite depend du type d'expression.
+Reponse: A
+Question 88: Quand une methode est-elle polymorphe ?
+A. Lorsqu'elle est redefinie dans la classe courante
+B. Lorsqu'elle est definie dans une classe ascendant
+C. Lorsqu'elle est redefinie dans plusieurs classes ayant les memes signatures
+D. Lorsqu'elle est appelee avec differents arguments
+Reponse: C
+Question 89: Qu'est-ce qu'une methode surchargee ?
+A. Une methode qui a plusieurs versions de signatures identiques dans une meme classe
+B. Une methode qui a plusieurs versions de signatures differentes dans une meme classe
+C. Une methode qui a plusieurs versions de signatures identiques dans differentes classes
+D. Une methode qui a plusieurs versions de signatures differentes dans differentes classes
+Reponse: B
+Question 90: Quelle est la difference entre la liaison statique et la liaison dynamique ?
+A. La liaison statique est verifiee par le compilateur, tandis que la liaison dynamique est effectuee lors de l'invocation de la methode
+B. La liaison statique est effectuee lors de l'invocation de la methode, tandis que la liaison dynamique est verifiee par le compilateur
+C. La liaison statique est utilisee pour les methodes redefinies, tandis que la liaison dynamique est utilisee pour les methodes heritees
+D. Il n'y a pas de difference entre la liaison statique et la liaison dynamique
+Reponse: A
+Question 91: Comment fonctionne l'utilisation du polymorphisme ?
+A. Un meme code est utilise pour traiter des instances de differentes classes ayant entre elles des relations d'heritage
+B. Un code different est utilise pour chaque instance de chaque classe
+C. Le code est genere dynamiquement en fonction de la classe de l'instance
+D. Le polymorphisme n'est pas utilise en programmation orientee objet
+Reponse: A
+Question 92: Qu'est-ce que la methode toString() de la classe Object ?
+A. Une methode qui compare l'instance referencee par this avec celle referencee par un autre objet
+B. Une methode qui retourne true si l'instance referencee par this et celle referencee par un autre objet ont les memes valeurs des variables d'instances
+C. Une methode qui retourne une chaine de caracteres representant l'instance referencee par this
+D. Une methode qui herite des sous-classes et ne peut pas etre redefinie
+Reponse: C
+Question 93: Pourquoi chaque classe doit-elle redefinir les methodes toString() et equals() si elle veut en changer le comportement ?
+A. Parce que la classe Object ne permet pas d'utiliser ces methodes
+B. Parce que chaque classe a des variables d'instances differentes
+C. Parce que la methode equals() utilise la methode toString()
+D. Parce que chaque classe herite des methodes toString() et equals() de la classe Object et doit les redefinir pour changer leur comportement
+Reponse: D
+Question 94: Qu'est-ce qu'un contrat en programmation orientee objet?
+A. L'ensemble des services qu'une classe s'engage a rendre
+B. La façon dont une methode est implementee
+C. Le corps d'une methode abstraite
+D. La documentation d'une classe
+Reponse: A
+Question 95: Qu'est-ce qu'une methode abstraite en Java?
+A. Une methode sans instructions d'implementation
+B. Une methode sans signature
+C. Une methode qui ne peut pas etre appelee
+D. Une methode avec un corps d'instructions
+Reponse: A
+Question 96: Dans une classe abstraite, quelle est la condition pour qu'elle ne puisse pas avoir d'instances?
+A. Elle doit contenir au moins une methode abstraite
+B. Elle doit contenir uniquement des methodes concretes
+C. Elle doit etre declaree avec le mot-cle "abstract"
+D. Elle doit heriter d'une autre classe abstraite
+Reponse: A
+Question 97: Quelle est la fonction d'une classe abstraite en Java?
+A. Elle sert de modele pour creer des classes concretes qui en heritent
+B. Elle sert de modele pour creer des interfaces
+C. Elle sert a definir des methodes statiques
+D. Elle sert a definir des variables globales
+Reponse: A
+Question 98: Quelle est la difference entre une methode abstraite et une methode concrete?
+A. Une methode abstraite ne possede pas d'instructions d'implementation tandis qu'une methode concrete en possede
+B. Une methode abstraite ne possede pas de signature tandis qu'une methode concrete en possede une
+C. Une methode abstraite ne peut pas etre appelee tandis qu'une methode concrete peut l'etre
+D. Une methode abstraite ne peut etre definie que dans une interface tandis qu'une methode concrete peut etre definie dans une classe abstraite ou une classe concrete
+Reponse: A
+Question 99: Qu'est-ce qu'une classe concrete ?
+A. Une classe qui contient des methodes abstraites
+B. Une classe qui definit un contrat concret où chaque methode rend un service concret
+C. Une classe qui contient des constantes de classe publiques
+D. Une classe qui ne definit aucune implementation
+Reponse: B
+Question 100: Qu'est-ce qu'une classe abstraite ?
+A. Une classe qui contient des methodes abstraites
+B. Une classe qui definit un contrat concret où chaque methode rend un service concret
+C. Une classe qui contient des constantes de classe publiques
+D. Une classe qui ne definit aucune implementation mais contient des methodes abstraites et concretes
+Reponse: D
+Question 101: Qu'est-ce qu'une interface ?
+A. Une classe abstraite contenant des methodes abstraites
+B. Un contrat mixte contenant des constantes de classe publiques et des methodes abstraites publiques
+C. Un modele abstrait contenant des methodes concretes
+D. Une classe qui definit un contrat concret où chaque methode rend un service concret
+Reponse: B
+Question 102: Quel est l'objectif d'une interface ?
+A. Definir un contrat purement abstrait, sans implementation
+B. Contenir des constantes de classe publiques
+C. Contenir des methodes concretes et abstraites
+D. Definir un contrat concret avec des methodes qui rendent des services concrets
+Reponse: A
+Question 103: Comment une classe implemente-t-elle une interface ?
+A. En contenant des constantes de classe publiques
+B. En definissant un contrat mixte contenant des methodes abstraites et concretes
+C. En donnant une implementation (un corps d'instructions) aux methodes abstraites definies dans l'interface
+D. En contenant des methodes concretes
+Reponse: C
+Question 104: Combien de classes/interfaces la classe classeX herite/implemente-t-elle?
+A. 1
+B. 2
+C. 3
+D. 4
+Reponse: B
+Question 105: Qu'est-ce qu'une interface definit?
+A. Un type concret avec implementation
+B. Un type abstrait sans implementation
+C. Un type general
+D. Un type particulier
+Reponse: B
+Question 106: Qu'est-ce qui est plus general, le type d'une interface ou le type de ses implementations?
+A. Le type d'une interface
+B. Le type de ses implementations
+C. Les deux types sont identiques
+D. Le type depend de l'implementation
+Reponse: A
+Question 107: Qu'est-ce que permettent les interfaces?
+A. De pallier l'absence d'heritage multiple en Java
+B. De rendre une classe abstraite
+C. D'instancier des objets
+D. D'etablir une relation de composition entre des classes
+Reponse: A
+Question 108: Combien de methodes abstraites contient l'interface Comparable?
+A. 0
+B. 1
+C. 2
+D. 3
+Reponse: B
+Question 109: Qu'est-ce que l'interface Comparable ?
+A. Une interface qui definit plusieurs logiques de comparaison pour un meme type d'objets
+B. Une interface qui rend les objets comparables en implementant une methode compareTo(Object o)
+C. Une methode qui trie les objets d'une liste
+D. Une interface qui retourne un entier : -1, 0 ou 1
+Reponse: B
+Question 110: Comment rendre les objets comparables en implementant l'interface Comparable ?
+A. En definissant plusieurs logiques de comparaison pour un meme type d'objets
+B. En implementant la methode compareTo(Object o) qui retourne un entier : -1, 0 ou 1
+C. En creant une instance de la classe Comparator
+D. En utilisant la methode void sort(Object[])
+Reponse: B
+Question 111: Comment trier une liste d'objets avec l'interface Comparable ?
+A. En utilisant la methode void sort(Object[]) de la classe Collections
+B. En creant une instance de la classe Comparator
+C. En utilisant la methode compareTo(Object o) de l'interface Comparable
+D. En definissant plusieurs logiques de comparaison pour un meme type d'objets
+Reponse: A
+Question 112: Quelle est la difference entre l'interface Comparable et l'interface Comparator ?
+A. Comparable permet de definir plusieurs logiques de comparaison pour un meme type d'objets, tandis que Comparator rend les objets comparables en implementant une methode compareTo(Object o)
+B. Comparator permet de definir plusieurs logiques de comparaison pour un meme type d'objets, tandis que Comparable rend les objets comparables en implementant une methode compareTo(Object o)
+C. Comparable ne peut etre utilise qu'avec les classes String et les classes Wrappers, tandis que Comparator peut etre utilise avec n'importe quelle classe
+D. Il n'y a pas de difference entre les deux interfaces, elles ont la meme utilite
+Reponse: B
+Question 113: Comment utiliser l'interface Comparator pour trier une liste d'objets ?
+A. En implementant la methode compareTo(Object o) dans la classe de l'objet a trier
+B. En creant une instance de la classe Comparable
+C. En utilisant la methode void sort(Object[]) de la classe Collections
+D. En utilisant la methode sort(Object[], Comparator c) de la classe Collections
+Reponse: D
+Question 114: Quel chapitre sera aborde dans le module d'algo avancee au S3 ?
+A. Les collections
+B. La programmation orientee objet
+C. Les algorithmes de tri
+D. Les structures de donnees
+Reponse: A
+Question 115: Comment varie le nombre d'elements d'une collection ?
+A. Il est determine par l'instruction new a la creation de la collection.
+B. Il peut etre defini a l'avance.
+C. Il varie en fonction des ajouts et des retraits.
+D. Il ne varie pas.
+Reponse: C
+Question 116: Qu'est-ce qu'une collection "classique" contient ?
+A. Des references de la classe Object.
+B. Des objets de n'importe quelle classe.
+C. Des objets de la meme classe.
+D. Des references de la classe Collection.
+Reponse: A
+Question 117: Quelle methode permet de retirer un element d'une collection courante ?
+A. add(Object o)
+B. contains(Object o)
+C. remove(Object o)
+D. size()
+Reponse: C
+Question 118: Comment ajouter un element a une liste courante ?
+A. add(int i, Object o)
+B. remove(int i)
+C. get(int i)
+D. add(Object o)
+Reponse: D
+Question 119: Comment le parcours d'une collection avec ajout(s) ou retrait(s) d'elements affecte-t-il la collection?
+A. Les elements restant changent d'indice
+B. La collection est supprimee
+C. La collection est inchangee
+D. Les elements restant sont supprimes
+Reponse: A
+Question 120: Pourquoi est-il important d'utiliser un iterateur lors du parcours d'une collection qui se modifie?
+A. Pour ne pas perdre les elements de la collection
+B. Pour eviter les erreurs de compilation
+C. Pour gerer le curseur interne qui designe l'element de la collection auquel on peut acceder
+D. Pour gerer les references de la collection
+Reponse: C
+Question 121: Quelle est la methode de l'iterateur qui retourne true s'il y a un element derriere le curseur, false si l'on est en fin de collection?
+A. hasNext()
+B. next()
+C. add()
+D. remove()
+Reponse: A
+Question 122: Quelle est la methode de l'iterateur qui retire la reference retournee au dernier appel next()?
+A. hasNext()
+B. next()
+C. add()
+D. remove()
+Reponse: D
+Question 123: Comment insere-t-on une reference d'une valeur primitive dans une collection?
+A. En l'encapsulant dans une instance de la classe d'encapsulation associee au type primitif
+B. En la convertissant en type objet
+C. En creant une reference directement a partir de la valeur primitive
+D. En la declarant en tant qu'objet
+Reponse: A
