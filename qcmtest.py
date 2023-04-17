@@ -12,12 +12,24 @@ os.system('cls' if os.name == 'nt' else 'clear')
 num_questions = 1
 lines = []
 
+print('''
+                        █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+                        █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+                        █░░║║║╠─║─║─║║║║║╠─░░█
+                        █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+''')
+print(Style.BRIGHT + Fore.RED + "                        Bienvenue dans le QCM !" + Style.RESET_ALL)
+
 while True:
-    cours = input("Choissisez le cours :" + Fore.GREEN + "1 [GestionProjet]"+ Style.RESET_ALL + Fore.RED + "2 [QualiteDev] " + Style.RESET_ALL + Fore.BLUE + "3 [ProgObj]" + Style.RESET_ALL + " : ")
+    cours = input("Choissisez le cours :" + Fore.GREEN + "1 [GestionProjet]"+ Style.RESET_ALL + Fore.RED + "2 [QualiteDev]" + Style.RESET_ALL + Fore.BLUE + "3 [ProgObj]" + Style.RESET_ALL + " : ")
     if cours in ['1', '2','3']:
         break
     else:
-        print(Fore.RED + "Veuillez entrer un cours valide : 1 pour GestionProjet, 2 pour QualiteDev, 3 pour ProgObj." + Style.RESET_ALL)
+        print(Fore.RED + '''Veuillez entrer un cours valide : 
+    1 pour GestionProjet 
+    2 pour QualiteDev
+    3 pour ProgObj. ''' + Style.RESET_ALL)
 
 if cours == "1":
     # ouverture du fichier
@@ -41,52 +53,14 @@ elif cours == "3":
         # calcul du nombre de questions dans le fichier
         num_questions = len(lines) // 6
 else:
-    print(Fore.RED + "Veuillez entrer un cours valide : 1 pour GestionProjet, 2 pour QualiteDev, 3 pour ProgObj. " + Style.RESET_ALL)
+    print(Fore.RED + '''Veuillez entrer un cours valide : 
+    1 pour GestionProjet 
+    2 pour QualiteDev 
+    3 pour ProgObj. ''' + Style.RESET_ALL)
 
 # initialisation du score
 score = 0
-print(''''
-                                                                                
-                            /.                     &                            
-                            @#                    */(                           
-                           #@ *                   @/(                           
-                           @@ &                  (@/ *                          
-                          /@@ ,.        #        @@/ @                          
-                          &@@  #       @*        @@/ #                          
-                          @@@  @      ,@.@      ,@@/ .*                         
-                          @@@  #      %@.,.     (@@/  #                         
-                          @@@  (      @@. (     &@@/  %                         
-                          @@@  /      @@. &     @@@/  &                         
-                         ,@@@  *.    ,@@. #     @@@/  @                         
-                         /@@@  ., ,, /@@. /  @  @@@/  %                         
-                         (@@@   ( @@ /@@. / .@/ @@@/  (                         
-                         %@@@  &@,@@ /@@. * %@@ @@@/ .@                         
-                        #@& **.&@# &((@@. * @*.&@% @ (@&,                       
-                       @@@@@,*@@@@@ @@@@, *@((@@@@@ @@@@@@                      
-                           &@@*  &@%@&@@, *(@&@,  @@@.                          
-                          #@@@@(     &@@, /  .   @@@@@                          
-                           @@ %@  (@@@. @ (@@@. @@ #@(                          
-                  @@@@@.    @@/ @@/  &@% @@,  &@( @@*    #@@@@#                 
-                @ #@@@ @@@%   @@@  &@ @@@@/*@* ,@@(   @@@& @@@ //               
-                 @ @@@ @@@@  /@@.%@@@ &@@@*,@@@/%@@  ,@@@& @@% @                
-             @@@@& @@@% @@@ &@@(    %@@@@@@%,    @@@,,@@( @@@& &*.//            
-          #@@@@. ,@@@@@@( @& /&, .    .@@@     . #% .@# @@@@@@@@,    %.         
-       *@@&.    *&.   /@@@.(@@@@@@@ @@@@@@@@*,@@@@@@@ #@@@.   &@@@@@&.  %       
-     @& .@@,            ,@@ @@@@@@@@@@ @@@ @@@@@@@@@%.@@             (@@@% &    
-  %/                  &@@@# @@@@@@@@@@* & &@@@@@@@@@@  /%@,                 .%/ 
-                     %@@@,  %        %@@ @@.       (@@,   (                     
-                    ,@@@    #       (@@@.  %.       @@@@   %                    
-                    @@%  ,*         @@@@.   ,         &@@*  &                   
-                   @@. (.           .@@@.  &            #@@  #                  
-                  @@ &               &@@.  .              (@/ .                 
-                 #/&                  @@. %                 ,@.                 
-                .%                    %@. ,                    @                
-                                      .@.@                                      
-                                       @*                                       
-                                        %                                       
-                                               
-''')
-print(Style.BRIGHT + Fore.RED + "Bienvenue dans le QCM !" + Style.RESET_ALL)
+question_restante = 0
 # choix du mode de sélection des questions
 while True:
     mode = input("Voulez-vous sélectionner les questions de manière aléatoire ? (o/n) : ")
@@ -132,20 +106,70 @@ for i in block_indices:
     correct_answer_index = ord(lines[i*6+5].split(":")[1].strip()) - ord('A')
     # vérification de la réponse
     if answer_index == correct_answer_index:
-        print(Fore.GREEN + "Bonne réponse !" + Style.RESET_ALL)
+        question_restante = question_restante + 1
+        if n-question_restante == 0:
+            print(Fore.GREEN + "Bonne réponse !" + Style.RESET_ALL)
+        else:
+            print(Fore.GREEN + "Bonne réponse !" + Style.RESET_ALL + Fore.LIGHTYELLOW_EX +' [il vous reste encore ' + str(n-question_restante) + ' questions]' + Style.RESET_ALL)
         score += 1
     else:
-        print(Fore.RED + f"Mauvaise réponse... La bonne réponse était : {lines[i*6+correct_answer_index+1].strip()}" + Style.RESET_ALL)
+        question_restante = question_restante + 1
+        if n-question_restante == 0:
+            print(Fore.RED + f"Mauvaise réponse... La bonne réponse était : {lines[i*6+correct_answer_index+1].strip()}" + Style.RESET_ALL)
+        else:
+            print(Fore.RED + f"Mauvaise réponse... La bonne réponse était : {lines[i*6+correct_answer_index+1].strip()}" + Style.RESET_ALL+  Fore.LIGHTYELLOW_EX +' [il vous reste encore ' + str(n-question_restante) + ' questions]' + Style.RESET_ALL)
         
 
 
 # affichage du score final
 
 if score == n:
-    print(Fore.GREEN + f"Félicitations ! OMEDETO ! " + Style.RESET_ALL)
-elif score == n/4:
+    print(Fore.GREEN + f"Félicitations ! OMEDETO ! ❤❤❤❤❤❤❤❤❤" + Style.RESET_ALL)
+elif score <= n/5:
     print(Fore.RED + f"T'es vraiment mauvais : {(score/n)*100}%" + Style.RESET_ALL)
+    print('''
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡛⠛⠷⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡇⠀⠀⠀⠙⠻⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠟⠀⠀⠀⠀⠀⠀⠈⣹⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⡴⠞⠉⠈⠻⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣿⡧⠤⠤⠶⠖⠋⠉⠀⠀⠀⠀⠀⢹⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠞⠉⠀⠉⠙⠻⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀⢀⣠⡴⠞⠉⠀⢀⣀⣀⣀⠀⠀⠘⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣿⣆⣴⠟⠉⠉⠉⠛⢶⡖⠛⠉⠁⠀⠀⢠⡾⠋⠉⠈⠉⠻⣦⣰⣿⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣤⣾⠟⠋⡿⠁⢀⣾⣿⣷⣄⠈⢿⡀⠀⠀⠀⢠⡟⠀⢠⣾⣿⣷⡄⠘⣿⠉⠛⢿⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⣿⠏⠀⠀⢸⡇⠀⢸⣿⣿⣿⣿⠀⢸⡇⠀⠀⠀⢸⡇⠀⣿⣿⣿⣿⣧⠀⢹⡇⠀⠀⠙⣿⡆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠘⣧⠀⠘⣿⣿⣿⡟⠀⣸⠇⠀⣀⣤⢾⣇⠀⠹⣿⣿⣿⠇⠀⣾⠁⠀⠀⠀⢸⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⣷⠀⠀⠀⠀⠹⣧⡀⠈⠉⠁⢀⣴⠿⠞⠋⠉⠀⠀⠻⣦⡀⠈⠉⠁⣠⡾⠃⠀⠀⠀⠀⣾⡏⠀⠀⠀⠀
+⠀⠀⢀⣠⣶⠿⠛⠛⠛⠛⠛⠛⠉⠙⠛⠒⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠚⠛⠉⠀⠀⠀⠀⢀⡼⠿⢷⣦⣄⠀⠀
+⠀⣠⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣟⠛⠛⠒⠶⠶⠶⠶⠶⠶⠶⠖⠚⠛⢛⡷⠀⠀⠀⣀⡴⠋⠀⠀⠀⠈⠻⣷⡄
+⢰⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⡀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡶⠛⢁⣠⡴⠞⠋⠀⠀⠀⠀⠀⠀⠀⠘⣿
+⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠓⠶⠶⠦⠶⠶⣚⣫⡥⠶⠚⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿
+⠈⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⡤⠴⠖⠚⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⡿⠃
+⠀⠈⠛⣷⣦⣤⣤⣤⣤⣤⣤⣶⡶⠾⠿⠟⠿⠿⠿⠶⣶⣶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣶⠶⠿⠛⠉⠀⠀
+    ''')
 elif score == 0:
     print(Fore.RED + "Arrête de jouer" + Style.RESET_ALL)
+    print('''
+███████████████████████████
+███████▀▀▀░░░░░░░▀▀▀███████
+████▀░░░░░░░░░░░░░░░░░▀████
+███│░░░░░░░░░░░░░░░░░░░│███
+██▌│░░░░░░░░░░░░░░░░░░░│▐██
+██░└┐░░░░░░░░░░░░░░░░░┌┘░██
+██░░└┐░░░░░░░░░░░░░░░┌┘░░██
+██░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██
+██▌░│██████▌░░░▐██████│░▐██
+███░│▐███▀▀░░▄░░▀▀███▌│░███
+██▀─┘░░░░░░░▐█▌░░░░░░░└─▀██
+██▄░░░▄▄▄▓░░▀█▀░░▓▄▄▄░░░▄██
+████▄─┘██▌░░░░░░░▐██└─▄████
+█████░░▐█─┬┬┬┬┬┬┬─█▌░░█████
+████▌░░░▀┬┼┼┼┼┼┼┼┬▀░░░▐████
+█████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████
+███████▄░░░░░░░░░░░▄███████
+██████████▄▄▄▄▄▄▄██████████
+███████████████████████████
+    ''')
 else:
-    print(Fore.YELLOW + f"Votre score est de {score} sur {n} : {round((score/n)*100),2}%" + Style.RESET_ALL)
+    print(Fore.YELLOW + f"Votre score est de {score} sur {n} : {round(((score/n)*100),2)}%" + Style.RESET_ALL)
