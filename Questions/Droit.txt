@@ -1,0 +1,210 @@
+Question 1: Quels sont les caracteres de la regle de droit ?
+A. Impersonnelle, generale, obligatoire
+B. Particuliere, specifique, facultative
+C. Personnelle, particuliere, imperative
+D. Generale, specifique, obligatoire
+Reponse: A
+Question 2: Combien y a-t-il de sanctions en cas de non-respect de la regle de droit ?
+A. 2
+B. 3
+C. 4
+D. 5
+Reponse: C
+Question 3: Quel est l'un des problemes avec le vocabulaire juridique ?
+A. Les mots sont trop simples a comprendre
+B. Les mots ne sont pas neutres
+C. Le vocabulaire est trop limite
+D. Il n'y a pas assez de mots en latin
+Reponse: B
+Question 4: Quelles sont les differentes branches du droit ?
+A. Droit international et droit national
+B. Droit public et droit prive
+C. Droit civil et droit penal
+D. Droit constitutionnel et droit administratif
+Reponse: B
+Question 5: Quelle branche du droit regit les rapports entre employeurs et salaries ?
+A. Droit civil
+B. Droit commercial
+C. Droit du travail
+D. Droit penal
+Reponse: C
+Question 6: Qu'est-ce que les juridictions administratives reglementent ?
+A. Les litiges entre personnes physiques et personnes morales
+B. Les litiges concernant l'organisation et le fonctionnement des administrations
+C. Les infractions commises par les individus
+D. Les litiges entre l'administration et les administres.
+Reponse: B
+Question 7: Quel tribunal traite les litiges entre l'administration et les administres ?
+A. Tribunal administratif
+B. Tribunal de grande instance
+C. Cour d'appel
+D. Conseil d'Etat
+Reponse: A
+Question 8: Quelles juridictions sont competentes pour tous les litiges entre personnes physiques, personnes morales et les infractions commises par les individus ?
+A. Les juridictions administratives
+B. Les tribunaux de grande instance
+C. Les juridictions repressives dites penales
+D. Les juridictions non repressives dites civiles
+Reponse: B
+Question 9: Quel tribunal est specialise dans les litiges lies a la securite sociale ?
+A. Tribunal administratif
+B. Tribunal de grande instance
+C. Cour d'appel
+D. Tribunal des affaires de la securite sociale
+Reponse: D
+Question 10: Quel est le principe fondamental de la justice qui garantit que tous les justiciables sont egaux devant la loi ?
+A. Gratuite
+B. Egalite
+C. Specialisation
+D. Hierarchie
+Reponse: B
+Question 11: Quel est le role des cours d'appel ?
+A. Recevoir les appels formes contre les jugements rendus par les juridictions inferieures.
+B. Controler la conformite des decisions et des arrets aux regles de droit.
+C. Juger les affaires en premiere instance.
+D. Assurer le sommet de la hierarchie judiciaire.
+Reponse: A
+Question 12: Quelles sont les juridictions ordinaires dont les jugements peuvent faire l'objet d'un appel devant les cours d'appel ?
+A. Tribunal de commerce et Conseil de prud'hommes.
+B. Cour d'assises et Tribunal correctionnel.
+C. Tribunal de grande instance et tribunal d'instance (litige superieur a 4 000 €).
+D. Cour de cassation et Conseil d'Etat.
+Reponse: C
+Question 13: Quelle est la competence de la Cour de cassation ?
+A. Juger les affaires en premiere instance.
+B. Recevoir les appels formes contre les jugements rendus par les juridictions inferieures.
+C. Controler la conformite des decisions et des arrets aux regles de droit.
+D. Assurer le sommet de la hierarchie judiciaire.
+Reponse: C
+Question 14: Quel est le role de la Cour de cassation ?
+A. Recevoir les appels formes contre les jugements rendus par les juridictions inferieures.
+B. Controler la conformite des decisions et des arrets aux regles de droit.
+C. Juger les affaires en premiere instance.
+D. Assurer le sommet de la hierarchie judiciaire.
+Reponse: B
+Question 15: Comment peut reagir la Cour d'appel de renvoi si elle n'est pas d'accord avec l'interpretation de la Cour de cassation ?
+A. Elle doit s'incliner et juger suivant l'interpretation de la Cour supreme.
+B. Elle peut statuer dans un sens different.
+C. Elle peut prendre un arret de rejet.
+D. Elle peut renvoyer l'affaire devant une autre Cour d'appel.
+Reponse: B
+Question 16: Quel est le contrat decrit dans la convention ou une personne transfere la propriete d'une chose a une autre personne moyennant le paiement d'un prix ?
+A. Vente
+B. Donation
+C. Contrat de pret
+D. Contrat de travail
+Reponse: A
+Question 17: Quelle est la convention ou une personne donne pouvoir a une autre d'accomplir en son nom et pour son compte un ou plusieurs actes juridiques ?
+A. Vente
+B. Donation
+C. Mandat
+D. Contrat de travail
+Reponse: C
+Question 18: Quel est le contrat decrit dans la convention ou une personne s'engage a assurer a une autre l'usage et la jouissance d'une chose pendant un certain temps et moyennant un prix donne ?
+A. Bail
+B. Pret
+C. Contrat de travail
+D. Vente
+Reponse: A
+Question 19: Dans quelle convention une personne s'engage a travailler moyennant un salaire pour le compte d'une autre a laquelle elle est subordonnee ?
+A. Vente
+B. Bail
+C. Contrat de travail
+D. Mandat
+Reponse: C
+Question 20: Quel est le contrat decrit dans la convention ou une personne s'engage envers une autre personne et moyennant remuneration, a deplacer une chose et a la livrer a une troisieme personne, dans un lieu et un delai determines ?
+A. Contrat de prestation de services
+B. Vente
+C. Bail
+D. Contrat de transport
+Reponse: D
+Question 21: Qu'est-ce qu'un contrat synallagmatique ?
+A. Un contrat qui cree des obligations reciproques pour les parties impliquees.
+B. Un contrat qui ne fait naitre d'obligations qu'a la charge d'une seule des parties.
+C. Un contrat a titre gratuit.
+D. Un contrat aleatoire.
+Reponse : A
+Question 22: Qu'est-ce qu'un contrat a titre onereux ?
+A. Un contrat dans lequel l'une des parties procure a l'autre un avantage sans rien recevoir en contrepartie.
+B. Un contrat dans lequel chaque partie fournit quelque chose a l'autre en echange d'une contrepartie consideree comme equivalente.
+C. Un contrat qui cree des obligations reciproques pour les parties impliquees.
+D. Un contrat aleatoire.
+Reponse : B
+Question 23: Qu'est-ce qu'un contrat aleatoire ?
+A. Un contrat qui cree des obligations reciproques pour les parties impliquees.
+B. Un contrat dans lequel l'une des parties procure a l'autre un avantage sans rien recevoir en contrepartie.
+C. Un contrat dans lequel la prestation de l'une des parties depend d'un evenement incertain.
+D. Un contrat a titre gratuit.
+Reponse : C
+Question 24: Comment se forme un contrat consensuel ?
+A. Par le seul echange des consentements.
+B. En accomplissant une formalite determinee.
+C. Par remise de la chose qui en est l'objet.
+D. En respectant une condition de forme imposee.
+Reponse : A
+Question 25: Qu'est-ce qu'un contrat a execution successive ?
+A. Un contrat qui a pour objet une ou des prestations susceptibles d'etre executees immediatement.
+B. Un contrat qui implique l'accomplissement de prestations echelonnees dans le temps.
+C. Un contrat qui cree des obligations reciproques pour les parties impliquees.
+D. Un contrat dans lequel la prestation de l'une des parties depend d'un evenement incertain.
+Reponse : B
+Question 26: Qu'est-ce qu'un contrat collectif?
+A. Un contrat conclu entre deux ou plusieurs personnes.
+B. Un contrat qui engagent un groupe de personnes plus larges que les seuls contractants.
+C. Un contrat dont les effets concernent les seules parties.
+D. Un contrat de droit commun.
+Reponse: B
+Question 27: Quelles sont les conditions de formation du contrat selon le Code civil?
+A. La capacite de cette partie a contracter, le consentement de la partie qui s'oblige, un contenu licite et certain.
+B. Un contenu illicite et certain, la conformite du contrat a l'ordre public et des conditions de forme.
+C. Le consentement de chaque cocontractant exprime sous la forme d'un consentement libre et sain, exempt de vice.
+D. La volonte de contracter.
+Reponse: A
+Question 28: Qu'est-ce que l'incapacite de jouissance?
+A. L'incapacite d'exercice.
+B. L'individu ne peut pas conclure le contrat.
+C. Le mineur non emancipe, et le majeur en tutelle.
+D. Le majeur en curatelle.
+Reponse: B
+Question 29: Quel est l'element intentionnel du dol?
+A. Une intention de tromper l'autre.
+B. Une erreur portant sur un des termes du contrat.
+C. Une tromperie qui aura amene la victime a conclure le contrat.
+D. Une croyance fausse portant sur un des termes du contrat.
+Reponse: A
+Question 30: Quelle est la difference entre l'incapacite de jouissance et l'incapacite d'exercice?
+A. L'incapacite de jouissance est l'incapacite d'exercice.
+B. L'incapacite d'exercice est l'incapacite de jouissance.
+C. L'incapacite de jouissance est l'incapacite de conclure le contrat, tandis que l'incapacite d'exercice est l'incapacite a l'exercer soi-meme.
+D. L'incapacite d'exercice est l'incapacite de conclure le contrat, tandis que l'incapacite de jouissance est l'incapacite a l'exercer soi-meme.
+Reponse: C
+Question 31: Qu'est-ce que peut porter l'alea dans un contrat ?
+A. L'existence de l'une des prestations.
+B. L'etendue de la prestation.
+C. Le prix de la prestation.
+D. La date de livraison de la prestation.
+Reponse: A et B
+Question 32: Qu'est-ce qu'un contrat consensuel ?
+A. Un contrat qui necessite l'accomplissement d'une formalite determinee.
+B. Un contrat qui est forme par le seul echange des consentements.
+C. Un contrat qui n'exige aucune condition de forme imposee.
+D. Un contrat qui ne peut etre resilie unilateralement.
+Reponse: B
+Question 33: Comment se forme un contrat non consensuel ?
+A. Par remise de la chose qui en est l'objet.
+B. Par l'accomplissement d'une formalite determinee.
+C. Par echange des consentements.
+D. Par redaction d'un acte ecrit.
+Reponse: B
+Question 34: Qu'est-ce qu'un contrat a execution successive ?
+A. Un contrat qui a pour objet une ou des prestations susceptibles d'etre executees immediatement.
+B. Un contrat qui implique l'accomplissement de prestations echelonnees dans le temps.
+C. Un contrat qui ne peut etre resilie unilateralement.
+D. Un contrat qui ne necessite aucune condition de forme imposee.
+Reponse: B
+Question 35: Quelle est la difference entre un contrat de gre a gre et un contrat d'adhesion ?
+A. Les clauses du contrat de gre a gre sont fixees a l'avance par l'une des parties, et l'autre ne peut les discuter.
+B. Les clauses du contrat d'adhesion sont discutees entre les parties, elles font l'objet de concessions reciproques.
+C. Les clauses du contrat de gre a gre sont souvent discutees entre les parties, mais cela est souvent illusoire.
+D. Les clauses du contrat d'adhesion sont toujours fixees a l'avance par l'une des parties, sans possibilite de discussion.
+Reponse: B

@@ -102,7 +102,7 @@ D. Une variable declaree a l'interieur d'une structure de controle
 Reponse: B
 Question 18: Qu'est-ce qu'un constructeur en Java ?
 A. Une methode permettant de declarer des variables locales
-B. Une methode particuliere appelee par l'operateur new au moment où une instance est creee
+B. Une methode particuliere appelee par l'operateur new au moment ou une instance est creee
 C. Une methode permettant de retourner une valeur de type primitif
 D. Une methode permettant de creer une instance sans reference
 Reponse: B
@@ -256,7 +256,7 @@ B. equals(String s)
 C. length()
 D. Aucune des methodes ci-dessus
 Reponse: C
-Question 44: À quoi sert la classe String?
+Question 44: A quoi sert la classe String?
 A. Elle permet de gerer des entiers
 B. Elle permet de gerer des chaines de caracteres
 C. Elle permet de gerer des tableaux
@@ -437,9 +437,9 @@ C. Il est choisi en fonction de sa signature
 D. Depend de la methode utilisee
 Reponse: C
 Question 74: Qu'est-ce que la surcharge de methode ?
-A. Écrire une methode de meme nom mais de signature differente
-B. Écrire une methode de meme nom et de meme signature
-C. Écrire une methode avec un nom different mais de signature identique
+A. Ecrire une methode de meme nom mais de signature differente
+B. Ecrire une methode de meme nom et de meme signature
+C. Ecrire une methode avec un nom different mais de signature identique
 D. Aucune de ces reponses
 Reponse: A
 Question 75: Quelle est la difference entre la surcharge et la redefinition de methode ?
@@ -517,7 +517,7 @@ Reponse: B
 Question 87: Quelle est la regle pour la compatibilite entre une classe descendante A et une classe ascendante B ?
 A. On peut toujours fournir une reference sur A quand on attend une reference sur B
 B. On peut toujours fournir une reference sur B quand on attend une reference sur A
-C. A et B sont incompatibles, on ne peut pas fournir une reference sur l'un la où on attend une reference sur l'autre.
+C. A et B sont incompatibles, on ne peut pas fournir une reference sur l'un la ou on attend une reference sur l'autre.
 D. La compatibilite depend du type d'expression.
 Reponse: A
 Question 88: Quand une methode est-elle polymorphe ?
@@ -588,13 +588,13 @@ D. Une methode abstraite ne peut etre definie que dans une interface tandis qu'u
 Reponse: A
 Question 99: Qu'est-ce qu'une classe concrete ?
 A. Une classe qui contient des methodes abstraites
-B. Une classe qui definit un contrat concret où chaque methode rend un service concret
+B. Une classe qui definit un contrat concret ou chaque methode rend un service concret
 C. Une classe qui contient des constantes de classe publiques
 D. Une classe qui ne definit aucune implementation
 Reponse: B
 Question 100: Qu'est-ce qu'une classe abstraite ?
 A. Une classe qui contient des methodes abstraites
-B. Une classe qui definit un contrat concret où chaque methode rend un service concret
+B. Une classe qui definit un contrat concret ou chaque methode rend un service concret
 C. Une classe qui contient des constantes de classe publiques
 D. Une classe qui ne definit aucune implementation mais contient des methodes abstraites et concretes
 Reponse: D
@@ -602,7 +602,7 @@ Question 101: Qu'est-ce qu'une interface ?
 A. Une classe abstraite contenant des methodes abstraites
 B. Un contrat mixte contenant des constantes de classe publiques et des methodes abstraites publiques
 C. Un modele abstrait contenant des methodes concretes
-D. Une classe qui definit un contrat concret où chaque methode rend un service concret
+D. Une classe qui definit un contrat concret ou chaque methode rend un service concret
 Reponse: B
 Question 102: Quel est l'objectif d'une interface ?
 A. Definir un contrat purement abstrait, sans implementation

@@ -22,14 +22,20 @@ print('''
 print(Style.BRIGHT + Fore.RED + "                        Bienvenue dans le QCM !" + Style.RESET_ALL)
 
 while True:
-    cours = input("Choissisez le cours :" + Fore.GREEN + "1 [GestionProjet]"+ Style.RESET_ALL + Fore.RED + "2 [QualiteDev]" + Style.RESET_ALL + Fore.BLUE + "3 [ProgObj]" + Style.RESET_ALL + " : ")
-    if cours in ['1', '2','3']:
+    cours = input(
+    "Choissisez le cours :" + Fore.GREEN + " [1 GestionProjet]"+ Style.RESET_ALL + 
+    Fore.RED + " [2 QualiteDev]" + Style.RESET_ALL + 
+    Fore.BLUE + " [3 ProgObj]" + Style.RESET_ALL + 
+    Fore.MAGENTA + " [4 Droit]" +Style.RESET_ALL + " : ")
+    if cours in ['1','2','3','4']:
         break
     else:
         print(Fore.RED + '''Veuillez entrer un cours valide : 
     1 pour GestionProjet 
     2 pour QualiteDev
-    3 pour ProgObj. ''' + Style.RESET_ALL)
+    3 pour ProgObj. 
+    4 pour Droit 
+    ''' + Style.RESET_ALL)
 
 if cours == "1":
     # ouverture du fichier
@@ -52,11 +58,20 @@ elif cours == "3":
         lines = file.readlines()
         # calcul du nombre de questions dans le fichier
         num_questions = len(lines) // 6
+elif cours == "4":
+    # ouverture du fichier
+    with open("Questions/Droit.txt", "r") as file:
+        # lecture des lignes
+        lines = file.readlines()
+        # calcul du nombre de questions dans le fichier
+        num_questions = len(lines) // 6
 else:
     print(Fore.RED + '''Veuillez entrer un cours valide : 
     1 pour GestionProjet 
     2 pour QualiteDev 
-    3 pour ProgObj. ''' + Style.RESET_ALL)
+    3 pour ProgObj.
+    4 pour Droit
+    ''' + Style.RESET_ALL)
 
 # initialisation du score
 score = 0
@@ -118,8 +133,6 @@ for i in block_indices:
             print(Fore.RED + f"Mauvaise réponse... La bonne réponse était : {lines[i*6+correct_answer_index+1].strip()}" + Style.RESET_ALL)
         else:
             print(Fore.RED + f"Mauvaise réponse... La bonne réponse était : {lines[i*6+correct_answer_index+1].strip()}" + Style.RESET_ALL+  Fore.LIGHTYELLOW_EX +' [il vous reste encore ' + str(n-question_restante) + ' questions]' + Style.RESET_ALL)
-        
-
 
 # affichage du score final
 
