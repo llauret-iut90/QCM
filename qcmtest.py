@@ -69,7 +69,7 @@ else:
     print(Fore.RED + '''Veuillez entrer un cours valide : 
     1 pour GestionProjet 
     2 pour QualiteDev 
-    3 pour ProgObj.
+    3 pour ProgObj
     4 pour Droit
     ''' + Style.RESET_ALL)
 
@@ -78,10 +78,10 @@ score = 0
 question_restante = 0
 # choix du mode de sélection des questions
 while True:
-    mode = input("Voulez-vous sélectionner les questions de manière aléatoire ? (o/n) : ")
+    mode = input("Mode aléatoire ou pas ? (" + Fore.GREEN + "o" + Style.RESET_ALL + "/" +  Fore.RED + "n" + Style.RESET_ALL +  ") : ")
     if mode.lower() == "o":
         # choix aléatoire des indices des blocs de questions
-        n = int(input(f"Combien de questions voulez-vous ? (max {num_questions}) "))
+        n = int(input(f"Combien de questions ? (max {Fore.CYAN}{num_questions}{Style.RESET_ALL}) "))
         # vérification que le nombre de questions demandé ne dépasse pas le nombre de questions disponibles
         if n > num_questions:
             print(Fore.RED + f"Le nombre de questions demandé dépasse le nombre de questions disponibles ({num_questions})." + Style.RESET_ALL)

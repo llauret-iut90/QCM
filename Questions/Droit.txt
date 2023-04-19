@@ -208,3 +208,207 @@ B. Les clauses du contrat d'adhesion sont discutees entre les parties, elles fon
 C. Les clauses du contrat de gre a gre sont souvent discutees entre les parties, mais cela est souvent illusoire.
 D. Les clauses du contrat d'adhesion sont toujours fixees a l'avance par l'une des parties, sans possibilite de discussion.
 Reponse: B
+Question 36: Quelles sont les regles qui sont communautaires et pourquoi ?
+A. Les regles relatives aux droits civiques et aux libertes publiques
+B. Les regles relatives a la mise en œuvre d'une loi
+C. Les regles relatives a la definition des crimes, des delits et des peines
+D. Les regles relatives a la repartition des pouvoirs au sein des institutions
+Reponse: D
+Question 37: Qu'est-ce que la Constitution ?
+A. Un ensemble de textes qui organisent le fonctionnement des institutions et la repartition des pouvoirs
+B. Un texte fondateur de la 4eme Republique
+C. Un document qui definit les droits et obligations des citoyens
+D. Une loi votee par le Parlement
+Reponse: A
+Question 38: Comment peut-on modifier la Constitution ?
+A. Par Pigeon voyageur
+B. Par le Parlement reuni en Congres a Versailles & Par referendum
+C. Par decret
+D. En saisissant le Conseil constitutionnel
+Reponse: B
+Question 39: Qu'est-ce qu'une ordonnance ?
+A. Un texte elabore par le pouvoir judiciaire pour trancher un litige
+B. Un texte elabore par le pouvoir executif qui precise les conditions de mise en œuvre d'une loi
+C. Un texte elabore par le Parlement pour modifier la Constitution
+D. Un texte elabore par le pouvoir executif qui entre dans le domaine de la loi
+Reponse: D
+Question 40: Qui peut saisir le Conseil constitutionnel pour verifier la conformite d'une loi a la Constitution ?
+A. Les deputes & Les senateurs
+B. La police & Le commisaire du gouvernement
+C. Les ministres
+D. Les citoyens
+Reponse: A
+Question 41: Quelle est la definition d'une directive europeenne?
+A. Un Etat ne peut se soustraire a son execution
+B. Elle laisse aux instances nationales la competence quant a la forme et aux moyens.
+C. Elle indique le delai dont dispose les Etats membres pour prendre les mesures internes necessaires.
+D. Elle lie tout Etat membre quant a son resultat a atteindre.
+Reponse: D
+Question 42: Qui adopte les reglements et directives europeens?
+A. La Cour de Cassation
+B. Les tribunaux de chaque Etat membre
+C. Le Conseil des ministres et la Commission europeenne
+D. Le Parlement europeen a Strasbourg
+Reponse: C
+Question 43: Qu'est-ce qu'une coutume en droit?
+A. Une regle de droit nee d'une pratique habituelle consideree peu a peu comme obligatoire
+B. Une regle professionnelle ou locale qui s'impose par le caractere repete et la croyance en leur caractere obligatoire
+C. Une regle obligatoire pour certaines personnes visees
+D. Une regle elaboree par la Commission europeenne et adoptee par le Conseil des ministres
+Reponse: A
+Question 44: Que represente la jurisprudence en droit?
+A. L'ensemble des travaux des auteurs qui expriment leurs conceptions theoriques du droit et commentent les lois
+B. L'ensemble des decisions rendues par les tribunaux sur un point de droit litigieux
+C. Les regles suivies par les professionnels, dans leurs relations contractuelles
+D. Les regles de droit ecrites emanant des autorites competentes
+Reponse: B
+Question 45: Comment la jurisprudence cree-t-elle du droit?
+A. Elle interprete les lois (parfois obscures)
+B. Elle comble les lacunes de la loi (qui ne prevoit pas forcement tous les cas de figure)
+C. Elle se refere aux principes generaux du droit, a l'equite et au bon sens lorsque la loi est obscure ou incomplete
+D. Elle fait evoluer le droit
+Reponse: D
+Question 46: Comment la jurisprudence cree-t-elle du droit ?
+A. Elle interprete les lois.
+B. Elle comble les lacunes de la loi.
+C. Elle fait evoluer le droit.
+D. Elle impose ses decisions a toutes les juridictions.
+Reponse: A, B, C
+Question 47: Dans quelles circonstances les juges se referent-ils aux principes generaux du droit, a l'equite et au bon sens ?
+A. Lorsque la loi est claire et complete.
+B. Lorsque la loi est obscure ou incomplete.
+C. Lorsque la loi est inapplicable dans un cas particulier.
+D. Lorsque la loi est jugee inconstitutionnelle.
+Reponse: B
+Question 48: Quelle est la portee de la jurisprudence selon la hierarchie judiciaire ?
+A. Les decisions rendues par la Cour de Cassation s’imposent a toutes les juridictions.
+B. Seules les decisions des juridictions de bas niveau dans la hierarchie judiciaire font jurisprudence.
+C. Les decisions rendues par les tribunaux de premiere instance s’imposent a toutes les juridictions.
+D. La jurisprudence n'a aucune portee dans la hierarchie judiciaire.
+Reponse: A
+Question 49: Comment la doctrine influence-t-elle la prise de decision des juges ?
+A. Elle s'impose toujours aux juges.
+B. Elle ne s'impose jamais aux juges.
+C. Elle peut parfois influencer les juges.
+D. Elle a un pouvoir legislatif.
+Reponse: C
+Question 50: Quels sont les types d'ouvrages ou de revues juridiques dans lesquels la doctrine est publiee ?
+A. Des manuels de droit.
+B. Des articles de journaux.
+C. Des commentaires sur des decisions prises par les tribunaux.
+D. Des livres de cuisine.
+Reponse: C
+Question 51: Quelles sont les sources non formelles du droit ?
+A. Traite internationaux et droit communautaire
+B. Constitution, loi, reglement, coutume, jurisprudence, doctrine
+C. Conventions et accords collectifs
+D. Regles issues d'un usage prolonge et partage
+Reponse: B
+Question 52: Quel est le role de la jurisprudence ?
+A. Creation directe du droit
+B. Interpretation du droit
+C. Amelioration du sort des salaries
+D. Combler un vide juridique
+Reponse: B
+Question 53: Quel est l'origine de la jurisprudence ?
+A. Le juge est oblige de statuer, sous peine de deni de justice
+B. Aucune solution jurisprudentielle ne vaut regle generale
+C. Le silence de la loi n'est pas une excuse admissible
+D. Les specialistes du droit emettent des notes, commentaires et critiques
+Reponse: A
+Question 54: Dans quelle situation la coutume peut-elle eclairer le sens de notions juridiques implicites ?
+A. Sur renvoi de la loi ou du contrat
+B. Pour combler un vide juridique
+C. Passe entre employeurs et representants des salaries pour regir les conditions de travail
+D. Dans la croyance que cette regle est obligatoire
+Reponse: A
+Question 55: Quel est le role du Conseil Constitutionnel ?
+A. Verifier que les lois sont conformes a la Constitution
+B. Verifier l'application des traites prioritairement aux lois et reglements
+C. Verifier toujours la bonne application du droit
+D. Completer les sources de droit
+Reponse: A
+Question 56: Quel est le role des tribunaux en ce qui concerne la hierarchie des sources de droit ?
+A. Controler la hierarchie des textes reglementaires
+B. Consulter la Cour de justice des Communautes europeennes pour verifier la conformite du droit interne au droit europeen
+C. Modifier la Constitution si un traite est incompatible avec elle
+D. Completer la loi ou combler un vide juridique avec les coutumes et usages
+Reponse: A
+Question 57: Comment le droit europeen vient-il completer les sources internes en France ?
+A. En imposant la negociation collective
+B. En renvoyant aux accords collectifs ou aux usages
+C. En completant les sources internes
+D. En consultant la Cour de justice des Communautes europeennes
+Reponse: C
+Question 58: Que font les usages et la jurisprudence en cas de carences ou d'imprecisions de la loi ?
+A. Comblent les carences ou les imprecisions de la loi
+B. Verifient la conformite du droit interne au droit europeen
+C. Controlent la hierarchie des textes reglementaires
+D. Imposent la negociation collective
+Reponse: A
+Question 59: Quel est l'exemple donne pour montrer que des decisions de conventions collectives, d'usage ou de jurisprudence peuvent donner lieu a des textes de loi ?
+A. Le droit lie aux victimes d'accidents de la route
+B. La negociation annuelle obligatoire sur le montant des salaires
+C. La verification de la conformite du droit interne au droit europeen
+D. Le controle de la hierarchie des textes reglementaires
+Reponse: A
+Question 60: Quel est le role du tribunal de grande instance (TGI) ?
+A. Traiter toutes les affaires de droit prive non reservees a d'autres juridictions.
+B. Traiter tous les litiges inferieurs a 10 000 €.
+C. Traiter les litiges entre commerçants.
+D. Traiter les litiges nes a l'occasion des relations individuelles de travail.
+Reponse: A
+Question 61: Quelle est la composition de chaque tribunal de commerce ?
+A. 3 magistrats au moins nommes par l'Etat.
+B. 3 juges dits « consulaires » : des commerçants elus par leurs pairs pour 2 ans.
+C. Des juges elus par leurs pairs pour 5 ans (salaries et employeurs).
+D. Un juge unique nomme par l'Etat.
+Reponse: B
+Question 62: Quelle est la competence du Conseil de prud'hommes ?
+A. Traiter les litiges entre commerçants.
+B. Traiter les litiges nes a l'occasion des relations individuelles de travail.
+C. Traiter toutes les affaires de droit prive non reservees a d'autres juridictions.
+D. Traiter tous les litiges inferieurs a 10 000 €.
+Reponse: B
+Question 63: Quelle est la competence du tribunal de police ?
+A. Traiter les litiges entre commerçants.
+B. Traiter les contraventions, c'est-a-dire les infractions les moins graves.
+C. Traiter les delits, c'est-a-dire les infractions graves.
+D. Traiter les crimes, c'est-a-dire les infractions les plus graves.
+Reponse: B
+Question 64: Qui compose le jury de la cour d'assises ?
+A. 3 magistrats professionnels et 9 jures tires au sort parmi la population.
+B. Un juge unique nomme par l'Etat.
+C. Des juges elus par leurs pairs pour 5 ans (salaries et employeurs).
+D. 3 juges dits « consulaires » : des commerçants elus par leurs pairs pour 2 ans.
+Reponse: A
+Question 65: Comment sont reparties les contraventions selon leur gravite ?
+A. En 3 classes
+B. En 4 classes
+C. En 5 classes
+D. En 6 classes
+Reponse: C
+Question 66: Quel est le lieu de jugement des delits ?
+A. Tribunal correctionnel
+B. Cour d'assises
+C. Juge des crimes
+D. Tribunal de grande instance
+Reponse: A
+Question 67: Combien de magistrats composent chaque tribunal de premiere instance ?
+A. 1
+B. 2
+C. 3
+D. 4
+Reponse: C
+Question 68: Qu'est-ce que les crimes en droit penal français ?
+A. Des infractions mineures
+B. Des infractions moyennement graves
+C. Des infractions graves
+D. Des infractions tres graves
+Reponse: D
+Question 69: Comment est compose le jury lors d'un proces en cour d'assises ?
+A. De 3 magistrats professionnels et de 9 jures tires au sort parmi la population
+B. De 3 jures professionnels et de 9 magistrats tires au sort parmi la population
+C. De 12 jures professionnels
+D. De 12 magistrats professionnels
+Reponse: A
