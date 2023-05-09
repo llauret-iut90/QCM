@@ -1,0 +1,144 @@
+Question 1: Comment appelle-t-on un graphe qui ne possede pas de direction entre ses aretes ?
+A. Graphe non oriente
+B. Graphe oriente
+C. Boucle
+D. Arete
+Reponse: A
+Question 2: Comment appelle-t-on un graphe qui possede une direction entre ses aretes ?
+A. Graphe non oriente
+B. Graphe oriente
+C. Boucle
+D. Arete
+Reponse: B
+Question 3: Comment appelle-t-on une arete qui relie un sommet a lui-meme dans un graphe ?
+A. Graphe non oriente
+B. Graphe oriente
+C. Boucle
+D. Arete
+Reponse: C
+Question 4: Comment appelle-t-on une connexion entre deux sommets dans un graphe ?
+A. Graphe non oriente
+B. Graphe oriente
+C. Boucle
+D. Arete
+Reponse: D
+Question 5: Comment appelle-t-on un graphe qui possede plusieurs aretes reliant les memes sommets ?
+A. Multi graphe
+B. Pseudo graphe
+C. Graphe non oriente
+D. Graphe oriente
+Reponse: A
+Question 6: Qu'est-ce qu'un graphe non oriente ?
+A. Un graphe qui possede des aretes avec une direction
+B. Un graphe qui ne possede pas de boucle
+C. Un graphe qui ne possede pas d'aretes
+D. Un graphe qui ne possede pas de direction entre ses aretes
+Reponse: D
+Question 7: Qu'est-ce qu'un sommet dans un graphe non oriente ?
+A. Une arete reliant deux sommets
+B. Une connexion entre deux sommets
+C. Une boucle reliant un sommet a lui-meme
+D. Un point du graphe
+Reponse: D
+Question 8: Comment appelle-t-on la distance minimale entre deux sommets dans un graphe non oriente ?
+A. Chemin
+B. Longueur
+C. Diametre
+D. Poids
+Reponse: C
+Question 9: Comment appelle-t-on un sous-ensemble de sommets dans un graphe non oriente qui sont tous relies entre eux par une arete ?
+A. Composante connexe
+B. Graphe biparti
+C. Chemin hamiltonien
+D. Graphe complet
+Reponse: A
+Question 10: Comment appelle-t-on le nombre d'aretes reliees a un sommet dans un graphe non oriente ?
+A. Degre
+B. Poids
+C. Longueur
+D. Chemin
+Reponse: A
+Question 11: Qu'est-ce qu'un graphe oriente ?
+A. Un graphe qui possede des aretes avec une direction
+B. Un graphe qui ne possede pas de boucle
+C. Un graphe qui ne possede pas d'aretes
+D. Un graphe qui ne possede pas de direction entre ses aretes
+Reponse: A
+Question 12: Comment appelle-t-on un sommet qui possede une arete qui le relie a un autre sommet dans le sens oppose ?
+A. Sommet oppose
+B. Sommet complementaire
+C. Sommet inverse
+D. Sommet incident
+Reponse: C
+Question 13: Comment appelle-t-on une sequence d'aretes qui relie un sommet de depart a un sommet d'arrivee dans un graphe oriente ?
+A. Chemin
+B. Longueur
+C. Diametre
+D. Poids
+Reponse: A
+Question 14: Comment appelle-t-on un sous-ensemble de sommets dans un graphe oriente ou il existe un chemin dans les deux sens entre chaque paire de sommets ?
+A. Fortement connexe
+B. Faiblement connexe
+C. Graphe biparti
+D. Composante connexe
+Reponse: A
+Question 15: Comment appelle-t-on le nombre d'aretes arrivant a un sommet dans un graphe oriente ?
+A. Degre entrant
+B. Degre sortant
+C. Poids
+D. Chemin
+Reponse: A
+Question 16: Qu'est-ce que represente l'ordre d'un graphe ?
+A. Le nombre de sommets dans le graphe
+B. Le nombre d'aretes dans le graphe
+C. Le nombre de boucles dans le graphe
+D. Le nombre d'aretes ponderees dans le graphe
+Reponse: A
+Question 17: Qu'est-ce que le degre d'un graphe ?
+A. Le nombre de sommets dans le graphe
+B. Le nombre d'aretes dans le graphe
+C. Le nombre maximum de sommets connectes a un sommet donne dans le graphe
+D. Le nombre minimum de sommets connectes a un sommet donne dans le graphe
+Reponse: C
+Question 18: Qu'est-ce que represente une arete entrante dans un graphe oriente ?
+A. Une arete qui part d'un sommet
+B. Une arete qui arrive a un sommet
+C. Une arete qui relie deux sommets
+D. Une arete qui n'a pas de direction specifique
+Reponse: B
+Question 19: Qu'est-ce que represente une arete sortante dans un graphe oriente ?
+A. Une arete qui part d'un sommet
+B. Une arete qui arrive a un sommet
+C. Une arete qui relie deux sommets
+D. Une arete qui n'a pas de direction specifique
+Reponse: A
+Question 20: Qu'est-ce qu'un graphe connexe ?
+A. Un graphe qui contient au moins une boucle
+B. Un graphe qui ne contient pas de cycle
+C. Un graphe dans lequel chaque sommet est relie a au moins un autre sommet
+D. Un graphe qui contient des aretes orientees
+Reponse: C
+Question 21: Qu'est-ce qu'une chaine dans un graphe ?
+A. Un ensemble de sommets relies entre eux par des aretes orientees dans une direction donnee
+B. Un ensemble de sommets relies entre eux par des aretes orientees dans les deux directions possibles
+C. Un ensemble de sommets relies entre eux par des aretes non orientees
+D. Un ensemble de sommets ne pouvant etre relies entre eux par des aretes
+Reponse: C
+Question 22: Qu'est-ce qu'un cycle dans un graphe ?
+A. Un ensemble de sommets relies entre eux par des aretes orientees dans une direction donnee
+B. Un ensemble de sommets relies entre eux par des aretes orientees dans les deux directions possibles
+C. Un ensemble de sommets relies entre eux par des aretes non orientees, ou le premier sommet est egalement le dernier sommet de la chaine
+D. Un ensemble de sommets ne pouvant etre relies entre eux par des aretes
+Reponse: C
+Question 23: Qu'est-ce qu'une chaine eulerienne dans un graphe ?
+A. Une chaine qui relie tous les sommets du graphe exactement une fois, sans passer par une meme arete plus d'une fois
+B. Une chaine qui relie tous les sommets du graphe exactement une fois, en passant par une meme arete plus d'une fois si necessaire
+C. Une chaine qui relie un sous-ensemble de sommets du graphe, en passant par chaque sommet exactement une fois
+D. Une chaine qui relie tous les sommets du graphe plus d'une fois
+Reponse: A
+Question 24: Qu'est-ce qu'un cycle eulerien dans un graphe ?
+A. Un cycle qui relie tous les sommets du graphe exactement une fois, sans passer par une meme arete plus d'une fois
+B. Un cycle qui relie tous les sommets du graphe exactement une fois, en passant par une meme arete plus d'une fois si necessaire
+C. Un cycle qui relie un sous-ensemble de sommets du graphe, en passant par chaque sommet exactement une fois
+D. Un cycle qui relie tous les sommets du graphe plus d'une fois
+Reponse: A

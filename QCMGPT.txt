@@ -8,3 +8,5 @@ Réponse: X
 
 Le maximum de réponse est 4
 fais donc le qcm de 5 questions en te basant sur le texte ci-dessous et EVITE DE TOUJOURS METTRE LA REPONSE A !!!!!!!!!!, et surtout fais des questions pertinentes pas de doublon, il n'y a qu'une seule réponse possible ! ,etc. :
+
+Type de graphe connexe chaine cycle, circuit chaine eulérienne cycle eulérien

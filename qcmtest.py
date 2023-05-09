@@ -26,15 +26,18 @@ while True:
     "Choissisez le cours :" + Fore.GREEN + " [1 GestionProjet]"+ Style.RESET_ALL + 
     Fore.RED + " [2 QualiteDev]" + Style.RESET_ALL + 
     Fore.BLUE + " [3 ProgObj]" + Style.RESET_ALL + 
-    Fore.MAGENTA + " [4 Droit]" +Style.RESET_ALL + " : ")
-    if cours in ['1','2','3','4']:
+    Fore.MAGENTA + " [4 Droit]" +Style.RESET_ALL + 
+    Fore.GREEN +  "[5 Graphe]" + Style.RESET_ALL +
+    " : ")
+    if cours in ['1','2','3','4','5']:
         break
     else:
         print(Fore.RED + '''Veuillez entrer un cours valide : 
     1 pour GestionProjet 
     2 pour QualiteDev
     3 pour ProgObj. 
-    4 pour Droit 
+    4 pour Droit
+    5 pour Graphe 
     ''' + Style.RESET_ALL)
 
 if cours == "1":
@@ -65,12 +68,20 @@ elif cours == "4":
         lines = file.readlines()
         # calcul du nombre de questions dans le fichier
         num_questions = len(lines) // 6
+elif cours == "5":
+    # ouverture du fichier
+    with open("Questions/Graphe.txt", "r") as file:
+        # lecture des lignes
+        lines = file.readlines()
+        # calcul du nombre de questions dans le fichier
+        num_questions = len(lines) // 6
 else:
     print(Fore.RED + '''Veuillez entrer un cours valide : 
     1 pour GestionProjet 
     2 pour QualiteDev 
     3 pour ProgObj
     4 pour Droit
+    5 pour Graphe
     ''' + Style.RESET_ALL)
 
 # initialisation du score

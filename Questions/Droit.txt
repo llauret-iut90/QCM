@@ -179,11 +179,11 @@ C. L'incapacite de jouissance est l'incapacite de conclure le contrat, tandis qu
 D. L'incapacite d'exercice est l'incapacite de conclure le contrat, tandis que l'incapacite de jouissance est l'incapacite a l'exercer soi-meme.
 Reponse: C
 Question 31: Qu'est-ce que peut porter l'alea dans un contrat ?
-A. L'existence de l'une des prestations.
-B. L'etendue de la prestation.
+A. L'existence de la prestation & La proximite de la prestation.
+B. L'etendue de la prestation & L'existence de l'une des prestations.
 C. Le prix de la prestation.
 D. La date de livraison de la prestation.
-Reponse: A et B
+Reponse: B
 Question 32: Qu'est-ce qu'un contrat consensuel ?
 A. Un contrat qui necessite l'accomplissement d'une formalite determinee.
 B. Un contrat qui est forme par le seul echange des consentements.
@@ -380,7 +380,7 @@ Question 64: Qui compose le jury de la cour d'assises ?
 A. 3 magistrats professionnels et 9 jures tires au sort parmi la population.
 B. Un juge unique nomme par l'Etat.
 C. Des juges elus par leurs pairs pour 5 ans (salaries et employeurs).
-D. 3 juges dits « consulaires » : des commerçants elus par leurs pairs pour 2 ans.
+D. 3 juges dits " consulaires " : des commercants elus par leurs pairs pour 2 ans.
 Reponse: A
 Question 65: Comment sont reparties les contraventions selon leur gravite ?
 A. En 3 classes
